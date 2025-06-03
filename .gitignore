@@ -1,0 +1,7 @@
+env
+data
+F_Detector/restarted_logs.py
+F_Detector/.pytest_cache
+F_Detector/evaluate.py
+F_Detector/auto_evaluate.py
+QT_interface

@@ -1,0 +1,20 @@
+Build ID,Test Method,Flaky or Not,Detection Method,Traceback Cover,Number of Smells,Flaky Frequency,Size,Path
+690015635,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.09,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+690006342,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.10,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689997586,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.10,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689986405,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.11,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689949250,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.11,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689833476,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.06,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689825616,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.06,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689779338,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.07,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689759732,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.07,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689759391,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.08,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689759017,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.08,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689751308,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.09,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689750767,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.10,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689744566,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.11,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689741907,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.12,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689730947,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.14,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689708416,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.17,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689700394,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.20,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689693109,test_vectors_serialize,Non-Flaky,Multi-Factor,Not Covered,0,0.25,25,spaCy/spacy/tests/vocab_vectors/test_vectors.py

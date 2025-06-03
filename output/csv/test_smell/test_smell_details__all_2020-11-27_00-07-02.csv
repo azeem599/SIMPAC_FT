@@ -1,0 +1,55 @@
+Test Case,Number of Smells,Smell type,Tip,Location,Path
+test_lex_attrs_like_url,6,Network,URL,58,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\lang\test_attrs.py
+test_lex_attrs_like_url,6,Network,URL,58,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\lang\test_attrs.py
+test_lex_attrs_like_url,6,Network,URL,58,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\lang\test_attrs.py
+test_lex_attrs_like_url,6,Network,URL,58,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\lang\test_attrs.py
+test_lex_attrs_like_url,6,Network,URL,58,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\lang\test_attrs.py
+test_lex_attrs_like_url,6,Network,URL,58,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\lang\test_attrs.py
+test_issue1506,5,Training,For in range,24,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1501-2000.py
+test_issue1506,5,Training,For in range,26,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1501-2000.py
+test_issue1506,5,Training,For in range,28,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1501-2000.py
+test_issue1506,5,Training,For in range,30,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1501-2000.py
+test_issue1506,5,Training,For in range,32,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1501-2000.py
+test_tokenizer_keep_urls,3,Network,URL,48,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_tokenizer.py
+test_tokenizer_keep_urls,3,Network,URL,48,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_tokenizer.py
+test_tokenizer_keep_urls,3,Network,URL,48,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_tokenizer.py
+test_issue859,2,Network,URL,372,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1-1000.py
+test_matcher_schema_token_attributes,2,Network,URL,426,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\matcher\test_matcher_api.py
+test_matcher_schema_token_attributes,2,Network,URL,426,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\matcher\test_matcher_api.py
+test_issue859,2,Network,URL,372,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1-1000.py
+test_issue999,2,Training,For in range,452,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1-1000.py
+test_issue999,2,Randomness,random without seed,453,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1-1000.py
+test_issue2800,2,Randomness,random without seed,158,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue2501-3000.py
+test_issue2800,2,Training,For in range,156,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue2501-3000.py
+test_tokenizer_handle_text_from_file,2,IO,Resource Operation without Checking Existence,88,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_tokenizer.py
+test_tokenizer_handle_text_from_file,2,IO,Open a file without close it,88,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_tokenizer.py
+test_simple_train,1,Training,For in range,19,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\pipeline\test_textcat.py
+test_textcat_learns_multilabel,1,Training,For in range,49,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\pipeline\test_textcat.py
+test_issue957,1,Training,For in range,418,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1-1000.py
+test_issue1488,1,Network,URL,149,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1001-1500.py
+test_cli_converters_conll_ner2json,1,Training,For in range,114,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\test_cli.py
+test_roundtrip_docs_to_json,1,Training,For in range,180,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\test_gold.py
+test_list_of_docs_pickles_efficiently,1,Training,For in range,18,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\doc\test_pickle_doc.py
+test_span_boundaries,1,Training,For in range,321,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\doc\test_span.py
+test_doc_token_api_is_properties,1,Network,URL,76,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\doc\test_token_api.py
+test_issue1698,1,Network,URL,115,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue1501-2000.py
+test_cli_converters_iob2json,1,Training,For in range,48,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\test_cli.py
+test_lex_attrs_is_currency,1,Network,URL,40,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\lang\test_attrs.py
+test_issue3611,1,Training,For in range,39,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue3611.py
+test_issue4030,1,Training,For in range,39,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue4030.py
+test_issue4348,1,Training,For in range,20,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\regression\test_issue4348.py
+test_add_label,1,Training,For in range,48,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\parser\test_add_label.py
+test_add_label_deserializes_correctly,1,Training,For in range,69,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\parser\test_add_label.py
+test_train_empty,1,Training,For in range,192,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\parser\test_ner.py
+test_tokenizer_keeps_email,1,Network,URL,63,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_tokenizer.py
+test_parser_set_sent_starts,1,Training,For in range,160,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\parser\test_parse.py
+test_add_lots_of_pipes,1,Training,For in range,120,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\pipeline\test_pipe_methods.py
+test_should_match,1,Network,URL,125,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_urls.py
+test_should_not_match,1,Network,URL,130,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_urls.py
+test_tokenizer_handles_simple_url,1,Network,URL,135,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_urls.py
+test_tokenizer_handles_simple_surround_url,1,Network,URL,142,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_urls.py
+test_tokenizer_handles_prefixed_url,1,Network,URL,153,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_urls.py
+test_tokenizer_handles_suffixed_url,1,Network,URL,163,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_urls.py
+test_tokenizer_handles_surround_url,1,Network,URL,174,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_urls.py
+test_tokenizer_handles_two_prefix_url,1,Network,URL,186,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_urls.py
+test_tokenizer_handles_two_suffix_url,1,Network,URL,198,D:\CoursesResources\MasterThesis\Python_projects\spaCy\spacy\tests\tokenizer\test_urls.py

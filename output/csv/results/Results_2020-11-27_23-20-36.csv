@@ -1,0 +1,1967 @@
+Build ID,Test Method,Flaky or Not,Detection Method,Traceback Cover,Number of Smells,Flaky Frequency,Size,Path
+740192125,test_da_noun_chunks,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+737712294,test_tr_tokenizer_handles_allcases,Non-Flaky,Traceback Coverage,T,0,0,0.40,4
+736693485,test_tr_tokenizer_handles_allcases,Non-Flaky,Traceback Coverage,T,0,0,0.25,4
+735379513,test_tokenizer_handles_long_text,Non-Flaky,Traceback Coverage,T,0,0,0.25,19
+735379513,test_mk_lex_attrs_like_number,Non-Flaky,Traceback Coverage,T,0,0,0.25,3
+735379513,test_mk_lex_attrs_capitals,Non-Flaky,Traceback Coverage,T,0,0,0.25,2
+735379513,test_mk_lex_attrs_like_number_for_ordinal,Non-Flaky,Traceback Coverage,T,0,0,0.25,1
+734249531,test_tt_tokenizer_handles_testcases,Flaky,Traceback Coverage,F,0,0,0.25,2
+733751356,test_issue6177,Flaky,Traceback Coverage,F,0,0,0.25,0
+733086617,test_tr_noun_chunks_flat_simple,Non-Flaky,Traceback Coverage,T,0,0,0.17,11
+733086617,test_tr_noun_chunks_flat_name_lastname_and_title,Non-Flaky,Traceback Coverage,T,0,0,0.17,11
+733086617,test_tr_noun_chunks_flat_and_chain_nmod,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+733086617,test_tr_noun_chunks_two_flats_conjed,Non-Flaky,Traceback Coverage,T,0,0,0.25,12
+733058417,test_issue6207,Non-Flaky,Traceback Coverage,T,0,0,0.25,9
+732963963,test_tr_noun_chunks_flat_simple,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+732963963,test_tr_noun_chunks_flat_name_lastname_and_title,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+732963963,test_tr_noun_chunks_flat_and_chain_nmod,Non-Flaky,Traceback Coverage,T,0,0,0.25,11
+732936155,test_tr_noun_chunks_flat_simple,Non-Flaky,Traceback Coverage,T,0,0,0.25,11
+732936155,test_tr_noun_chunks_flat_name_lastname_and_title,Non-Flaky,Traceback Coverage,T,0,0,0.25,11
+732779828,test_tr_noun_chunks_conj_simple,Non-Flaky,Traceback Coverage,T,0,0,0.25,12
+732779828,test_tr_noun_chunks_conj_three,Non-Flaky,Traceback Coverage,T,0,0,0.25,26
+732779828,test_tr_noun_chunks_conj_subject,Non-Flaky,Traceback Coverage,T,0,0,0.25,12
+720296809,test_lex_attrs_like_number,Non-Flaky,Traceback Coverage,T,0,0,0.20,3
+720238021,test_lex_attrs_like_number,Non-Flaky,Traceback Coverage,T,0,0,0.22,3
+720238021,test_en_lex_attrs_like_number_for_ordinal,Flaky,Traceback Coverage,F,0,0,0.20,1
+720238021,test_lex_attrs_like_number,Non-Flaky,Traceback Coverage,T,0,0,0.22,3
+720238021,test_he_lex_attrs_like_number_for_ordinal,Non-Flaky,Traceback Coverage,T,0,0,0.20,1
+720214659,test_lex_attrs_like_number,Non-Flaky,Traceback Coverage,T,0,0,0.29,3
+720214659,test_en_lex_attrs_like_number_for_ordinal,Non-Flaky,Traceback Coverage,T,0,0,0.25,1
+720214659,test_lex_attrs_like_number,Non-Flaky,Traceback Coverage,T,0,0,0.29,3
+720214659,test_he_lex_attrs_like_number_for_ordinal,Non-Flaky,Traceback Coverage,T,0,0,0.25,1
+719348708,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.23,8
+719271261,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.24,8
+719238016,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.24,8
+719223380,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.24,8
+719214297,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+719137668,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.23,8
+719132991,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.24,8
+719132278,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+719132276,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.24,8
+717390840,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.23,8
+717370960,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.24,8
+717273497,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.24,8
+717253865,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+717253625,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.26,8
+717220713,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.26,8
+717220583,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.27,8
+717215055,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.28,8
+716973484,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.26,8
+716864695,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.26,8
+716853604,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.27,8
+716842914,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.28,8
+716694703,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.26,8
+716676400,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.27,8
+715878588,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.24,8
+715142465,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.21,8
+715137147,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.22,8
+714813668,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.19,8
+714780536,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.20,8
+714780267,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.21,8
+714750457,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.22,8
+714522175,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.18,8
+714509018,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.19,8
+714496433,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.20,8
+714442340,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.21,8
+714392957,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.22,8
+714374750,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.24,8
+713709351,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.19,8
+713697905,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.20,8
+713634286,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.21,8
+713364530,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.15,8
+713349487,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.17,8
+713314552,test_lang_initialize,Flaky,Multi-Factor,F,1,0,0.38,6
+713314552,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.18,8
+713292740,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.20,8
+713196752,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.22,8
+713176906,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+713021572,test_issue5838,Non-Flaky,Multi-Factor,F,1,0,0.14,8
+712993434,test_issue5838,Non-Flaky,Traceback Coverage,T,0,0,0.17,8
+712911765,test_issue5838,Non-Flaky,Traceback Coverage,T,0,0,0.20,8
+712904884,test_issue5838,Non-Flaky,Traceback Coverage,T,0,0,0.25,8
+706518655,test_issue3248_2,Non-Flaky,Multi-Factor,F,1,0,0.38,8
+706485115,test_phrase_matcher_pickle,Non-Flaky,Multi-Factor,F,1,0,0.25,16
+706485115,test_issue595,Non-Flaky,Multi-Factor,F,1,0,0.30,13
+706485115,test_issue3248_2,Non-Flaky,Multi-Factor,F,1,0,0.43,8
+697797112,test_serialize_tagger_roundtrip_bytes,Flaky,Traceback Coverage,F,0,0,0.20,6
+697796662,test_serialize_tagger_roundtrip_bytes,Flaky,Traceback Coverage,F,0,0,0.25,6
+690015635,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.09,13
+690015635,test_to_disk_resource_warning,Flaky,Multi-Factor,F,1,0,0.25,2
+690015635,test_resource_warning,Flaky,Multi-Factor,F,1,0,0.25,5
+690015635,test_issue5458,Flaky,Multi-Factor,F,1,0,0.13,12
+690015635,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.19,5
+690015635,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.09,25
+690006342,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.10,13
+690006342,test_issue5458,Flaky,Multi-Factor,F,1,0,0.14,12
+690006342,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.20,5
+690006342,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.10,25
+689997586,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.10,13
+689997586,test_to_disk_resource_warning,Flaky,Multi-Factor,F,1,0,0.29,2
+689997586,test_resource_warning,Flaky,Multi-Factor,F,1,0,0.29,5
+689997586,test_issue5458,Flaky,Multi-Factor,F,1,0,0.15,12
+689997586,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.21,5
+689997586,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.10,25
+689986405,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.11,13
+689986405,test_to_disk_resource_warning,Flaky,Multi-Factor,F,1,0,0.33,2
+689986405,test_resource_warning,Flaky,Multi-Factor,F,1,0,0.33,5
+689986405,test_issue5458,Flaky,Multi-Factor,F,1,0,0.17,12
+689986405,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.22,5
+689986405,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.11,25
+689949250,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.11,13
+689949250,test_to_disk_resource_warning,Flaky,Multi-Factor,F,1,0,0.40,2
+689949250,test_resource_warning,Flaky,Multi-Factor,F,1,0,0.40,5
+689949250,test_issue5458,Flaky,Multi-Factor,F,1,0,0.18,12
+689949250,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.23,5
+689949250,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.11,25
+689833476,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.06,13
+689833476,test_to_disk_resource_warning,Flaky,Multi-Factor,T,1,0,0.25,2
+689833476,test_resource_warning,Flaky,Multi-Factor,T,1,0,0.25,5
+689833476,test_issue5458,Flaky,Multi-Factor,F,1,0,0.10,12
+689833476,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.19,5
+689833476,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.06,25
+689825616,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.06,13
+689825616,test_issue5458,Flaky,Multi-Factor,F,1,0,0.11,12
+689825616,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.20,5
+689825616,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.06,25
+689779338,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.07,13
+689779338,test_issue5458,Flaky,Multi-Factor,F,1,0,0.12,12
+689779338,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.21,5
+689779338,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.07,25
+689759732,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.07,13
+689759732,test_issue5458,Flaky,Multi-Factor,F,1,0,0.14,12
+689759732,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.22,5
+689759732,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.07,25
+689759391,test_issue5152,Non-Flaky,Multi-Factor,F,2,0,0.08,13
+689759391,test_pickle_vocab,Flaky,Multi-Factor,F,2,0,0.24,5
+689759391,test_vectors_serialize,Non-Flaky,Multi-Factor,F,2,0,0.08,25
+689759017,test_pretrain_make_docs,Non-Flaky,Multi-Factor,F,1,0,0.20,31
+689759017,test_displacy_invalid_arcs,Non-Flaky,Multi-Factor,F,1,0,0.08,8
+689759017,test_displacy_raises_for_wrong_type,Flaky,Multi-Factor,F,1,0,0.08,2
+689759017,test_add_codes,Flaky,Multi-Factor,F,1,0,0.08,4
+689759017,test_gold_biluo_overlap,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_gold_biluo_misalign,Flaky,Multi-Factor,F,1,0,0.08,7
+689759017,test_iob_to_biluo,Flaky,Multi-Factor,F,1,0,0.08,7
+689759017,test_language_update,Non-Flaky,Multi-Factor,F,1,0,0.20,20
+689759017,test_language_pipe,Flaky,Multi-Factor,F,1,0,0.24,5
+689759017,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,F,1,0,0.14,13
+689759017,test_roc_auc_score,Non-Flaky,Multi-Factor,F,1,0,0.08,58
+689759017,test_add_overlapping_entities,Flaky,Multi-Factor,F,1,0,0.08,7
+689759017,test_doc_from_array_heads_in_bounds,Non-Flaky,Multi-Factor,F,1,0,0.08,21
+689759017,test_create_from_words_and_text,Non-Flaky,Multi-Factor,F,1,0,0.08,38
+689759017,test_doc_api_getitem,Non-Flaky,Multi-Factor,F,1,0,0.08,66
+689759017,test_doc_api_similarity_match,Flaky,Multi-Factor,F,1,0,0.14,7
+689759017,test_doc_from_array_sent_starts,Non-Flaky,Multi-Factor,F,1,0,0.08,29
+689759017,test_doc_retokenize_spans_merge_non_disjoint,Flaky,Multi-Factor,F,1,0,0.08,12
+689759017,test_doc_retokenize_merge_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.08,7
+689759017,test_doc_retokenize_split_heads_error,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_doc_retokenize_split_orths_mismatch,Flaky,Multi-Factor,F,1,0,0.08,10
+689759017,test_doc_retokenize_split_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_span_similarity_match,Flaky,Multi-Factor,F,1,0,0.14,7
+689759017,test_span_label_readonly,Flaky,Multi-Factor,F,1,0,0.08,3
+689759017,test_span_kb_id_readonly,Flaky,Multi-Factor,F,1,0,0.08,3
+689759017,test_doc_to_json_underscore_error_attr,Flaky,Multi-Factor,F,1,0,0.08,4
+689759017,test_doc_to_json_underscore_error_serialize,Flaky,Multi-Factor,F,1,0,0.12,5
+689759017,test_doc_token_api_head_setter,Non-Flaky,Multi-Factor,F,1,0,0.08,44
+689759017,test_underscore_raises_for_dup,Flaky,Multi-Factor,F,1,0,0.08,3
+689759017,test_underscore_raises_for_invalid,Flaky,Multi-Factor,F,1,0,0.08,3
+689759017,test_lang_initialize,Flaky,Multi-Factor,F,1,0,0.36,6
+689759017,test_noun_chunks_is_parsed_de,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_noun_chunks_is_parsed_el,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_noun_chunks_is_parsed,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_noun_chunks_is_parsed_es,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_noun_chunks_is_parsed_fa,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_noun_chunks_is_parsed_fr,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_noun_chunks_is_parsed_id,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_noun_chunks_is_parsed_nb,Flaky,Multi-Factor,F,1,0,0.08,9
+689759017,test_noun_chunks_is_parsed_sv,Non-Flaky,Multi-Factor,F,1,0,0.08,32
+689759017,test_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.08,5
+689759017,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.09,25
+689759017,test_matcher_valid_callback,Flaky,Multi-Factor,F,1,0,0.08,5
+689759017,test_matcher_remove,Non-Flaky,Multi-Factor,F,1,0,0.08,18
+689759017,test_minimal_pattern_validation,Flaky,Multi-Factor,F,1,0,0.08,6
+689759017,test_phrase_matcher_validation,Non-Flaky,Multi-Factor,F,1,0,0.14,17
+689759017,test_attr_validation,Flaky,Multi-Factor,F,1,0,0.08,2
+689759017,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.09,25
+689759017,test_phrase_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.08,5
+689759017,test_component_decorator_assigns,Non-Flaky,Multi-Factor,F,1,0,0.12,36
+689759017,test_analysis_validate_attrs_valid,Flaky,Multi-Factor,F,1,0,0.08,6
+689759017,test_analysis_validate_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.08,2
+689759017,test_analysis_validate_attrs_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.08,15
+689759017,test_kb_invalid_entities,Flaky,Multi-Factor,F,1,0,0.13,11
+689759017,test_kb_invalid_probabilities,Flaky,Multi-Factor,F,1,0,0.13,9
+689759017,test_kb_invalid_combination,Flaky,Multi-Factor,F,1,0,0.13,11
+689759017,test_kb_invalid_entity_vector,Flaky,Multi-Factor,F,1,0,0.08,7
+689759017,test_append_alias,Non-Flaky,Multi-Factor,F,1,0,0.08,20
+689759017,test_append_invalid_alias,Flaky,Multi-Factor,F,1,0,0.08,12
+689759017,test_entity_ruler_validate,Flaky,Multi-Factor,F,1,0,0.08,12
+689759017,test_add_pipe_duplicate_name,Flaky,Multi-Factor,F,1,0,0.08,3
+689759017,test_cant_add_pipe_first_and_last,Flaky,Multi-Factor,F,1,0,0.08,2
+689759017,test_get_pipe,Flaky,Multi-Factor,F,1,0,0.08,4
+689759017,test_replace_pipe,Non-Flaky,Multi-Factor,F,1,0,0.08,8
+689759017,test_rename_pipe,Flaky,Multi-Factor,F,1,0,0.08,5
+689759017,test_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.08,8
+689759017,test_raise_for_invalid_components,Flaky,Multi-Factor,F,1,0,0.08,2
+689759017,test_label_types,Flaky,Multi-Factor,F,1,0,0.08,5
+689759017,test_issue242,Flaky,Multi-Factor,F,1,0,0.19,19
+689759017,test_issue588,Flaky,Multi-Factor,F,1,0,0.08,3
+689759017,test_issue1375,Non-Flaky,Multi-Factor,F,1,0,0.14,8
+689759017,test_issue1727,Non-Flaky,Multi-Factor,F,1,0,0.24,14
+689759017,test_issue1915,Flaky,Multi-Factor,F,1,0,0.17,6
+689759017,test_issue2564,Flaky,Multi-Factor,F,1,0,0.24,11
+689759017,test_issue2833,Flaky,Multi-Factor,F,1,0,0.08,6
+689759017,test_issue3410,Flaky,Multi-Factor,F,1,0,0.14,12
+689759017,test_issue3456,Flaky,Multi-Factor,F,1,0,0.20,5
+689759017,test_issue3880,Non-Flaky,Multi-Factor,F,1,0,0.20,14
+689759017,test_issue4348,Flaky,Multi-Factor,F,1,1,0.20,12
+689759017,test_issue4674,Flaky,Multi-Factor,F,1,0,0.08,22
+689759017,test_issue4725,Non-Flaky,Multi-Factor,F,1,0,0.12,14
+689759017,test_issue4849,Non-Flaky,Multi-Factor,F,1,0,0.08,24
+689759017,test_issue4903,Flaky,Multi-Factor,F,1,0,0.12,10
+689759017,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.08,13
+689759017,test_issue5458,Non-Flaky,Multi-Factor,T,1,0,0.17,12
+689759017,test_serialize_doc_exclude,Flaky,Multi-Factor,F,1,0,0.08,12
+689759017,test_serialize_language_exclude,Non-Flaky,Multi-Factor,F,1,0,0.20,13
+689759017,test_serialize_pipe_exclude,Non-Flaky,Multi-Factor,F,1,0,0.15,21
+689759017,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.25,5
+689759017,test_tokenizer_explain,Flaky,Multi-Factor,F,1,0,0.08,6
+689759017,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.13,25
+689759017,test_vectors_similarity_TD,Flaky,Multi-Factor,F,1,0,0.08,4
+689759017,test_vectors_similarity_TS,Flaky,Multi-Factor,F,1,0,0.08,4
+689759017,test_stringstore_retrieve_id,Flaky,Multi-Factor,F,1,0,0.08,5
+689759017,test_vectors_most_similar,Flaky,Multi-Factor,F,1,0,0.08,5
+689759017,test_vectors_span_span_similarity,Flaky,Multi-Factor,F,1,0,0.08,4
+689759017,test_vectors_span_doc_similarity,Flaky,Multi-Factor,F,1,0,0.08,4
+689759017,test_vocab_add_vector,Flaky,Multi-Factor,F,1,0,0.08,12
+689759017,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.08,25
+689751308,test_pretrain_make_docs,Non-Flaky,Multi-Factor,F,1,0,0.21,31
+689751308,test_displacy_invalid_arcs,Non-Flaky,Multi-Factor,F,1,0,0.09,8
+689751308,test_displacy_raises_for_wrong_type,Flaky,Multi-Factor,F,1,0,0.09,2
+689751308,test_add_codes,Flaky,Multi-Factor,F,1,0,0.09,4
+689751308,test_gold_biluo_overlap,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_gold_biluo_misalign,Flaky,Multi-Factor,F,1,0,0.09,7
+689751308,test_iob_to_biluo,Flaky,Multi-Factor,F,1,0,0.09,7
+689751308,test_language_update,Non-Flaky,Multi-Factor,F,1,0,0.21,20
+689751308,test_language_pipe,Flaky,Multi-Factor,F,1,0,0.25,5
+689751308,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,F,1,0,0.15,13
+689751308,test_load_model_blank_shortcut,Missing factors,Multi-Factor,T,1,0,0.20,0
+689751308,test_roc_auc_score,Non-Flaky,Multi-Factor,F,1,0,0.09,58
+689751308,test_add_overlapping_entities,Flaky,Multi-Factor,F,1,0,0.09,7
+689751308,test_doc_from_array_heads_in_bounds,Non-Flaky,Multi-Factor,F,1,0,0.09,21
+689751308,test_create_from_words_and_text,Non-Flaky,Multi-Factor,F,1,0,0.09,38
+689751308,test_doc_api_getitem,Non-Flaky,Multi-Factor,F,1,0,0.09,66
+689751308,test_doc_api_similarity_match,Flaky,Multi-Factor,F,1,0,0.15,7
+689751308,test_doc_from_array_sent_starts,Non-Flaky,Multi-Factor,F,1,0,0.09,29
+689751308,test_doc_retokenize_spans_merge_non_disjoint,Flaky,Multi-Factor,F,1,0,0.09,12
+689751308,test_doc_retokenize_merge_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.09,7
+689751308,test_doc_retokenize_split_heads_error,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_doc_retokenize_split_orths_mismatch,Flaky,Multi-Factor,F,1,0,0.09,10
+689751308,test_doc_retokenize_split_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_span_similarity_match,Flaky,Multi-Factor,F,1,0,0.15,7
+689751308,test_span_label_readonly,Flaky,Multi-Factor,F,1,0,0.09,3
+689751308,test_span_kb_id_readonly,Flaky,Multi-Factor,F,1,0,0.09,3
+689751308,test_doc_to_json_underscore_error_attr,Flaky,Multi-Factor,F,1,0,0.09,4
+689751308,test_doc_to_json_underscore_error_serialize,Flaky,Multi-Factor,F,1,0,0.13,5
+689751308,test_doc_token_api_head_setter,Non-Flaky,Multi-Factor,F,1,0,0.09,44
+689751308,test_underscore_raises_for_dup,Flaky,Multi-Factor,F,1,0,0.09,3
+689751308,test_underscore_raises_for_invalid,Flaky,Multi-Factor,F,1,0,0.09,3
+689751308,test_lang_initialize,Flaky,Multi-Factor,F,1,0,0.37,6
+689751308,test_noun_chunks_is_parsed_de,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_noun_chunks_is_parsed_el,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_noun_chunks_is_parsed,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_noun_chunks_is_parsed_es,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_noun_chunks_is_parsed_fa,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_noun_chunks_is_parsed_fr,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_noun_chunks_is_parsed_id,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_noun_chunks_is_parsed_nb,Flaky,Multi-Factor,F,1,0,0.09,9
+689751308,test_noun_chunks_is_parsed_sv,Non-Flaky,Multi-Factor,F,1,0,0.09,32
+689751308,test_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.09,5
+689751308,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.10,25
+689751308,test_matcher_valid_callback,Flaky,Multi-Factor,F,1,0,0.09,5
+689751308,test_matcher_remove,Non-Flaky,Multi-Factor,F,1,0,0.09,18
+689751308,test_minimal_pattern_validation,Flaky,Multi-Factor,F,1,0,0.09,6
+689751308,test_phrase_matcher_validation,Non-Flaky,Multi-Factor,F,1,0,0.15,17
+689751308,test_attr_validation,Flaky,Multi-Factor,F,1,0,0.09,2
+689751308,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.10,25
+689751308,test_phrase_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.09,5
+689751308,test_component_decorator_assigns,Non-Flaky,Multi-Factor,F,1,0,0.13,36
+689751308,test_analysis_validate_attrs_valid,Flaky,Multi-Factor,F,1,0,0.09,6
+689751308,test_analysis_validate_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.09,2
+689751308,test_analysis_validate_attrs_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.09,15
+689751308,test_kb_invalid_entities,Flaky,Multi-Factor,F,1,0,0.14,11
+689751308,test_kb_invalid_probabilities,Flaky,Multi-Factor,F,1,0,0.14,9
+689751308,test_kb_invalid_combination,Flaky,Multi-Factor,F,1,0,0.14,11
+689751308,test_kb_invalid_entity_vector,Flaky,Multi-Factor,F,1,0,0.09,7
+689751308,test_append_alias,Non-Flaky,Multi-Factor,F,1,0,0.09,20
+689751308,test_append_invalid_alias,Flaky,Multi-Factor,F,1,0,0.09,12
+689751308,test_entity_ruler_validate,Flaky,Multi-Factor,F,1,0,0.09,12
+689751308,test_add_pipe_duplicate_name,Flaky,Multi-Factor,F,1,0,0.09,3
+689751308,test_cant_add_pipe_first_and_last,Flaky,Multi-Factor,F,1,0,0.09,2
+689751308,test_get_pipe,Flaky,Multi-Factor,F,1,0,0.09,4
+689751308,test_replace_pipe,Non-Flaky,Multi-Factor,F,1,0,0.09,8
+689751308,test_rename_pipe,Flaky,Multi-Factor,F,1,0,0.09,5
+689751308,test_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.09,8
+689751308,test_raise_for_invalid_components,Flaky,Multi-Factor,F,1,0,0.09,2
+689751308,test_label_types,Flaky,Multi-Factor,F,1,0,0.09,5
+689751308,test_issue242,Flaky,Multi-Factor,F,1,0,0.20,19
+689751308,test_issue588,Flaky,Multi-Factor,F,1,0,0.09,3
+689751308,test_issue1375,Non-Flaky,Multi-Factor,F,1,0,0.15,8
+689751308,test_issue1727,Non-Flaky,Multi-Factor,F,1,0,0.25,14
+689751308,test_issue1915,Flaky,Multi-Factor,F,1,0,0.17,6
+689751308,test_issue2564,Flaky,Multi-Factor,F,1,0,0.25,11
+689751308,test_issue2833,Flaky,Multi-Factor,F,1,0,0.09,6
+689751308,test_issue3410,Flaky,Multi-Factor,F,1,0,0.15,12
+689751308,test_issue3456,Flaky,Multi-Factor,F,1,0,0.21,5
+689751308,test_issue3880,Non-Flaky,Multi-Factor,F,1,0,0.21,14
+689751308,test_issue4348,Flaky,Multi-Factor,F,1,1,0.21,12
+689751308,test_issue4674,Flaky,Multi-Factor,F,1,0,0.09,22
+689751308,test_issue4725,Non-Flaky,Multi-Factor,F,1,0,0.13,14
+689751308,test_issue4849,Non-Flaky,Multi-Factor,F,1,0,0.09,24
+689751308,test_issue4903,Flaky,Multi-Factor,F,1,0,0.13,10
+689751308,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.09,13
+689751308,test_serialize_doc_exclude,Flaky,Multi-Factor,F,1,0,0.09,12
+689751308,test_serialize_language_exclude,Non-Flaky,Multi-Factor,F,1,0,0.21,13
+689751308,test_serialize_pipe_exclude,Non-Flaky,Multi-Factor,F,1,0,0.17,21
+689751308,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.27,5
+689751308,test_tokenizer_explain,Flaky,Multi-Factor,F,1,0,0.09,6
+689751308,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.14,25
+689751308,test_vectors_similarity_TD,Flaky,Multi-Factor,F,1,0,0.09,4
+689751308,test_vectors_similarity_TS,Flaky,Multi-Factor,F,1,0,0.09,4
+689751308,test_stringstore_retrieve_id,Flaky,Multi-Factor,F,1,0,0.09,5
+689751308,test_vectors_most_similar,Flaky,Multi-Factor,F,1,0,0.09,5
+689751308,test_vectors_span_span_similarity,Flaky,Multi-Factor,F,1,0,0.09,4
+689751308,test_vectors_span_doc_similarity,Flaky,Multi-Factor,F,1,0,0.09,4
+689751308,test_vocab_add_vector,Flaky,Multi-Factor,F,1,0,0.09,12
+689751308,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.09,25
+689750767,test_pretrain_make_docs,Non-Flaky,Multi-Factor,F,2,0,0.23,31
+689750767,test_displacy_invalid_arcs,Flaky,Multi-Factor,F,2,0,0.10,8
+689750767,test_displacy_raises_for_wrong_type,Flaky,Multi-Factor,F,2,0,0.10,2
+689750767,test_add_codes,Flaky,Multi-Factor,F,2,0,0.10,4
+689750767,test_gold_biluo_overlap,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_gold_biluo_misalign,Flaky,Multi-Factor,F,2,0,0.10,7
+689750767,test_iob_to_biluo,Flaky,Multi-Factor,F,2,0,0.10,7
+689750767,test_language_update,Non-Flaky,Multi-Factor,F,2,0,0.23,20
+689750767,test_language_pipe,Flaky,Multi-Factor,F,2,0,0.27,5
+689750767,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,F,2,0,0.17,13
+689750767,test_load_model_blank_shortcut,Flaky,Multi-Factor,T,2,0,0.25,8
+689750767,test_roc_auc_score,Non-Flaky,Multi-Factor,F,2,0,0.10,58
+689750767,test_add_overlapping_entities,Flaky,Multi-Factor,F,2,0,0.10,7
+689750767,test_doc_from_array_heads_in_bounds,Non-Flaky,Multi-Factor,F,2,0,0.10,21
+689750767,test_create_from_words_and_text,Non-Flaky,Multi-Factor,F,2,0,0.10,38
+689750767,test_doc_api_getitem,Non-Flaky,Multi-Factor,F,2,0,0.10,66
+689750767,test_doc_api_similarity_match,Flaky,Multi-Factor,F,2,0,0.17,7
+689750767,test_doc_from_array_sent_starts,Non-Flaky,Multi-Factor,F,2,0,0.10,29
+689750767,test_doc_retokenize_spans_merge_non_disjoint,Flaky,Multi-Factor,F,2,0,0.10,12
+689750767,test_doc_retokenize_merge_extension_attrs_invalid,Flaky,Multi-Factor,F,2,0,0.10,7
+689750767,test_doc_retokenize_split_heads_error,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_doc_retokenize_split_orths_mismatch,Flaky,Multi-Factor,F,2,0,0.10,10
+689750767,test_doc_retokenize_split_extension_attrs_invalid,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_span_similarity_match,Flaky,Multi-Factor,F,2,0,0.17,7
+689750767,test_span_label_readonly,Flaky,Multi-Factor,F,2,0,0.10,3
+689750767,test_span_kb_id_readonly,Flaky,Multi-Factor,F,2,0,0.10,3
+689750767,test_doc_to_json_underscore_error_attr,Flaky,Multi-Factor,F,2,0,0.10,4
+689750767,test_doc_to_json_underscore_error_serialize,Flaky,Multi-Factor,F,2,0,0.14,5
+689750767,test_doc_token_api_head_setter,Non-Flaky,Multi-Factor,F,2,0,0.10,44
+689750767,test_underscore_raises_for_dup,Flaky,Multi-Factor,F,2,0,0.10,3
+689750767,test_underscore_raises_for_invalid,Flaky,Multi-Factor,F,2,0,0.10,3
+689750767,test_lang_initialize,Flaky,Multi-Factor,F,2,0,0.38,6
+689750767,test_noun_chunks_is_parsed_de,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_noun_chunks_is_parsed_el,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_noun_chunks_is_parsed,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_noun_chunks_is_parsed_es,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_noun_chunks_is_parsed_fa,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_noun_chunks_is_parsed_fr,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_noun_chunks_is_parsed_id,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_noun_chunks_is_parsed_nb,Flaky,Multi-Factor,F,2,0,0.10,9
+689750767,test_noun_chunks_is_parsed_sv,Non-Flaky,Multi-Factor,F,2,0,0.10,32
+689750767,test_matcher_basic_check,Flaky,Multi-Factor,F,2,0,0.10,5
+689750767,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,2,0,0.11,25
+689750767,test_matcher_valid_callback,Flaky,Multi-Factor,F,2,0,0.10,5
+689750767,test_matcher_remove,Non-Flaky,Multi-Factor,F,2,0,0.10,18
+689750767,test_minimal_pattern_validation,Flaky,Multi-Factor,F,2,0,0.10,6
+689750767,test_phrase_matcher_validation,Flaky,Multi-Factor,F,2,0,0.17,17
+689750767,test_attr_validation,Flaky,Multi-Factor,F,2,0,0.10,2
+689750767,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,2,0,0.11,25
+689750767,test_phrase_matcher_basic_check,Flaky,Multi-Factor,F,2,0,0.10,5
+689750767,test_component_decorator_assigns,Non-Flaky,Multi-Factor,F,2,0,0.14,36
+689750767,test_analysis_validate_attrs_valid,Flaky,Multi-Factor,F,2,0,0.10,6
+689750767,test_analysis_validate_attrs_invalid,Flaky,Multi-Factor,F,2,0,0.10,2
+689750767,test_analysis_validate_attrs_remove_pipe,Non-Flaky,Multi-Factor,F,2,0,0.10,15
+689750767,test_kb_invalid_entities,Flaky,Multi-Factor,F,2,0,0.15,11
+689750767,test_kb_invalid_probabilities,Flaky,Multi-Factor,F,2,0,0.15,9
+689750767,test_kb_invalid_combination,Flaky,Multi-Factor,F,2,0,0.15,11
+689750767,test_kb_invalid_entity_vector,Flaky,Multi-Factor,F,2,0,0.10,7
+689750767,test_append_alias,Non-Flaky,Multi-Factor,F,2,0,0.10,20
+689750767,test_append_invalid_alias,Flaky,Multi-Factor,F,2,0,0.10,12
+689750767,test_entity_ruler_validate,Flaky,Multi-Factor,F,2,0,0.10,12
+689750767,test_add_pipe_duplicate_name,Flaky,Multi-Factor,F,2,0,0.10,3
+689750767,test_cant_add_pipe_first_and_last,Flaky,Multi-Factor,F,2,0,0.10,2
+689750767,test_get_pipe,Flaky,Multi-Factor,F,2,0,0.10,4
+689750767,test_replace_pipe,Flaky,Multi-Factor,F,2,0,0.10,8
+689750767,test_rename_pipe,Flaky,Multi-Factor,F,2,0,0.10,5
+689750767,test_remove_pipe,Flaky,Multi-Factor,F,2,0,0.10,8
+689750767,test_raise_for_invalid_components,Flaky,Multi-Factor,F,2,0,0.10,2
+689750767,test_label_types,Flaky,Multi-Factor,F,2,0,0.10,5
+689750767,test_issue242,Flaky,Multi-Factor,F,2,0,0.21,19
+689750767,test_issue588,Flaky,Multi-Factor,F,2,0,0.10,3
+689750767,test_issue1375,Flaky,Multi-Factor,F,2,0,0.17,8
+689750767,test_issue1727,Non-Flaky,Multi-Factor,F,2,0,0.27,14
+689750767,test_issue1915,Flaky,Multi-Factor,F,2,0,0.18,6
+689750767,test_issue2564,Flaky,Multi-Factor,F,2,0,0.27,11
+689750767,test_issue2833,Flaky,Multi-Factor,F,2,0,0.10,6
+689750767,test_issue3410,Flaky,Multi-Factor,F,2,0,0.17,12
+689750767,test_issue3456,Flaky,Multi-Factor,F,2,0,0.23,5
+689750767,test_issue3880,Non-Flaky,Multi-Factor,F,2,0,0.23,14
+689750767,test_issue4348,Flaky,Multi-Factor,F,2,1,0.23,12
+689750767,test_issue4674,Flaky,Multi-Factor,F,2,0,0.10,22
+689750767,test_issue4725,Non-Flaky,Multi-Factor,F,2,0,0.14,14
+689750767,test_issue4849,Non-Flaky,Multi-Factor,F,2,0,0.10,24
+689750767,test_issue4903,Flaky,Multi-Factor,F,2,0,0.14,10
+689750767,test_issue5152,Non-Flaky,Multi-Factor,F,2,0,0.10,13
+689750767,test_serialize_doc_exclude,Flaky,Multi-Factor,F,2,0,0.10,12
+689750767,test_serialize_language_exclude,Non-Flaky,Multi-Factor,F,2,0,0.23,13
+689750767,test_serialize_pipe_exclude,Flaky,Multi-Factor,F,2,0,0.18,21
+689750767,test_pickle_vocab,Flaky,Multi-Factor,F,2,0,0.29,5
+689750767,test_tokenizer_explain,Flaky,Multi-Factor,F,2,0,0.10,6
+689750767,test_lookups_api,Non-Flaky,Multi-Factor,F,2,0,0.15,25
+689750767,test_vectors_similarity_TD,Flaky,Multi-Factor,F,2,0,0.10,4
+689750767,test_vectors_similarity_TS,Flaky,Multi-Factor,F,2,0,0.10,4
+689750767,test_stringstore_retrieve_id,Flaky,Multi-Factor,F,2,0,0.10,5
+689750767,test_vectors_most_similar,Flaky,Multi-Factor,F,2,0,0.10,5
+689750767,test_vectors_span_span_similarity,Flaky,Multi-Factor,F,2,0,0.10,4
+689750767,test_vectors_span_doc_similarity,Flaky,Multi-Factor,F,2,0,0.10,4
+689750767,test_vocab_add_vector,Flaky,Multi-Factor,F,2,0,0.10,12
+689750767,test_vectors_serialize,Non-Flaky,Multi-Factor,F,2,0,0.10,25
+689744566,test_pretrain_make_docs,Non-Flaky,Multi-Factor,F,1,0,0.25,31
+689744566,test_displacy_invalid_arcs,Non-Flaky,Multi-Factor,F,1,0,0.11,8
+689744566,test_displacy_raises_for_wrong_type,Flaky,Multi-Factor,F,1,0,0.11,2
+689744566,test_add_codes,Flaky,Multi-Factor,F,1,0,0.11,4
+689744566,test_gold_biluo_overlap,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_gold_biluo_misalign,Flaky,Multi-Factor,F,1,0,0.11,7
+689744566,test_iob_to_biluo,Flaky,Multi-Factor,F,1,0,0.11,7
+689744566,test_language_update,Non-Flaky,Multi-Factor,F,1,0,0.25,20
+689744566,test_language_pipe,Flaky,Multi-Factor,F,1,0,0.29,5
+689744566,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,F,1,0,0.18,13
+689744566,test_roc_auc_score,Non-Flaky,Multi-Factor,F,1,0,0.11,58
+689744566,test_add_overlapping_entities,Flaky,Multi-Factor,F,1,0,0.11,7
+689744566,test_doc_from_array_heads_in_bounds,Non-Flaky,Multi-Factor,F,1,0,0.11,21
+689744566,test_create_from_words_and_text,Non-Flaky,Multi-Factor,F,1,0,0.11,38
+689744566,test_doc_api_getitem,Non-Flaky,Multi-Factor,F,1,0,0.11,66
+689744566,test_doc_api_similarity_match,Flaky,Multi-Factor,F,1,0,0.18,7
+689744566,test_doc_from_array_sent_starts,Non-Flaky,Multi-Factor,F,1,0,0.11,29
+689744566,test_doc_retokenize_spans_merge_non_disjoint,Flaky,Multi-Factor,F,1,0,0.11,12
+689744566,test_doc_retokenize_merge_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.11,7
+689744566,test_doc_retokenize_split_heads_error,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_doc_retokenize_split_orths_mismatch,Flaky,Multi-Factor,F,1,0,0.11,10
+689744566,test_doc_retokenize_split_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_span_similarity_match,Flaky,Multi-Factor,F,1,0,0.18,7
+689744566,test_span_label_readonly,Flaky,Multi-Factor,F,1,0,0.11,3
+689744566,test_span_kb_id_readonly,Flaky,Multi-Factor,F,1,0,0.11,3
+689744566,test_doc_to_json_underscore_error_attr,Flaky,Multi-Factor,F,1,0,0.11,4
+689744566,test_doc_to_json_underscore_error_serialize,Flaky,Multi-Factor,F,1,0,0.15,5
+689744566,test_doc_token_api_head_setter,Non-Flaky,Multi-Factor,F,1,0,0.11,44
+689744566,test_underscore_raises_for_dup,Flaky,Multi-Factor,F,1,0,0.11,3
+689744566,test_underscore_raises_for_invalid,Flaky,Multi-Factor,F,1,0,0.11,3
+689744566,test_lang_initialize,Flaky,Multi-Factor,F,1,0,0.40,6
+689744566,test_noun_chunks_is_parsed_de,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_noun_chunks_is_parsed_el,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_noun_chunks_is_parsed,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_noun_chunks_is_parsed_es,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_noun_chunks_is_parsed_fa,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_noun_chunks_is_parsed_fr,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_noun_chunks_is_parsed_id,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_noun_chunks_is_parsed_nb,Flaky,Multi-Factor,F,1,0,0.11,9
+689744566,test_noun_chunks_is_parsed_sv,Non-Flaky,Multi-Factor,F,1,0,0.11,32
+689744566,test_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.11,5
+689744566,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.12,25
+689744566,test_matcher_valid_callback,Flaky,Multi-Factor,F,1,0,0.11,5
+689744566,test_matcher_remove,Non-Flaky,Multi-Factor,F,1,0,0.11,18
+689744566,test_minimal_pattern_validation,Flaky,Multi-Factor,F,1,0,0.11,6
+689744566,test_phrase_matcher_validation,Non-Flaky,Multi-Factor,F,1,0,0.18,17
+689744566,test_attr_validation,Flaky,Multi-Factor,F,1,0,0.11,2
+689744566,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.12,25
+689744566,test_phrase_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.11,5
+689744566,test_component_decorator_assigns,Non-Flaky,Multi-Factor,F,1,0,0.15,36
+689744566,test_analysis_validate_attrs_valid,Flaky,Multi-Factor,F,1,0,0.11,6
+689744566,test_analysis_validate_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.11,2
+689744566,test_analysis_validate_attrs_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.11,15
+689744566,test_kb_invalid_entities,Flaky,Multi-Factor,F,1,0,0.17,11
+689744566,test_kb_invalid_probabilities,Flaky,Multi-Factor,F,1,0,0.17,9
+689744566,test_kb_invalid_combination,Flaky,Multi-Factor,F,1,0,0.17,11
+689744566,test_kb_invalid_entity_vector,Flaky,Multi-Factor,F,1,0,0.11,7
+689744566,test_append_alias,Non-Flaky,Multi-Factor,F,1,0,0.11,20
+689744566,test_append_invalid_alias,Flaky,Multi-Factor,F,1,0,0.11,12
+689744566,test_entity_ruler_validate,Flaky,Multi-Factor,F,1,0,0.11,12
+689744566,test_add_pipe_duplicate_name,Flaky,Multi-Factor,F,1,0,0.11,3
+689744566,test_cant_add_pipe_first_and_last,Flaky,Multi-Factor,F,1,0,0.11,2
+689744566,test_get_pipe,Flaky,Multi-Factor,F,1,0,0.11,4
+689744566,test_replace_pipe,Non-Flaky,Multi-Factor,F,1,0,0.11,8
+689744566,test_rename_pipe,Flaky,Multi-Factor,F,1,0,0.11,5
+689744566,test_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.11,8
+689744566,test_raise_for_invalid_components,Flaky,Multi-Factor,F,1,0,0.11,2
+689744566,test_label_types,Flaky,Multi-Factor,F,1,0,0.11,5
+689744566,test_issue242,Flaky,Multi-Factor,F,1,0,0.23,19
+689744566,test_issue588,Flaky,Multi-Factor,F,1,0,0.11,3
+689744566,test_issue1375,Non-Flaky,Multi-Factor,F,1,0,0.18,8
+689744566,test_issue1727,Non-Flaky,Multi-Factor,F,1,0,0.29,14
+689744566,test_issue1915,Flaky,Multi-Factor,F,1,0,0.19,6
+689744566,test_issue2564,Flaky,Multi-Factor,F,1,0,0.29,11
+689744566,test_issue2833,Flaky,Multi-Factor,F,1,0,0.11,6
+689744566,test_issue3410,Flaky,Multi-Factor,F,1,0,0.18,12
+689744566,test_issue3456,Flaky,Multi-Factor,F,1,0,0.25,5
+689744566,test_issue3880,Non-Flaky,Multi-Factor,F,1,0,0.25,14
+689744566,test_issue4348,Flaky,Multi-Factor,F,1,1,0.25,12
+689744566,test_issue4674,Flaky,Multi-Factor,F,1,0,0.11,22
+689744566,test_issue4725,Non-Flaky,Multi-Factor,F,1,0,0.15,14
+689744566,test_issue4849,Non-Flaky,Multi-Factor,F,1,0,0.11,24
+689744566,test_issue4903,Flaky,Multi-Factor,F,1,0,0.15,10
+689744566,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.11,13
+689744566,test_serialize_doc_exclude,Flaky,Multi-Factor,F,1,0,0.11,12
+689744566,test_serialize_language_exclude,Non-Flaky,Multi-Factor,F,1,0,0.25,13
+689744566,test_serialize_pipe_exclude,Non-Flaky,Multi-Factor,F,1,0,0.20,21
+689744566,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.31,5
+689744566,test_tokenizer_explain,Flaky,Multi-Factor,F,1,0,0.11,6
+689744566,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.17,25
+689744566,test_vectors_similarity_TD,Flaky,Multi-Factor,F,1,0,0.11,4
+689744566,test_vectors_similarity_TS,Flaky,Multi-Factor,F,1,0,0.11,4
+689744566,test_stringstore_retrieve_id,Flaky,Multi-Factor,F,1,0,0.11,5
+689744566,test_vectors_most_similar,Flaky,Multi-Factor,F,1,0,0.11,5
+689744566,test_vectors_span_span_similarity,Flaky,Multi-Factor,F,1,0,0.11,4
+689744566,test_vectors_span_doc_similarity,Flaky,Multi-Factor,F,1,0,0.11,4
+689744566,test_vocab_add_vector,Flaky,Multi-Factor,F,1,0,0.11,12
+689744566,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.11,25
+689741907,test_pretrain_make_docs,Non-Flaky,Multi-Factor,F,1,0,0.27,31
+689741907,test_displacy_invalid_arcs,Non-Flaky,Multi-Factor,F,1,0,0.12,8
+689741907,test_displacy_raises_for_wrong_type,Flaky,Multi-Factor,F,1,0,0.12,2
+689741907,test_add_codes,Flaky,Multi-Factor,F,1,0,0.12,4
+689741907,test_gold_biluo_overlap,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_gold_biluo_misalign,Flaky,Multi-Factor,F,1,0,0.12,7
+689741907,test_iob_to_biluo,Flaky,Multi-Factor,F,1,0,0.12,7
+689741907,test_language_update,Non-Flaky,Multi-Factor,F,1,0,0.27,20
+689741907,test_language_pipe,Flaky,Multi-Factor,F,1,0,0.31,5
+689741907,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,F,1,0,0.20,13
+689741907,test_roc_auc_score,Non-Flaky,Multi-Factor,F,1,0,0.12,58
+689741907,test_add_overlapping_entities,Flaky,Multi-Factor,F,1,0,0.12,7
+689741907,test_doc_from_array_heads_in_bounds,Non-Flaky,Multi-Factor,F,1,0,0.12,21
+689741907,test_create_from_words_and_text,Non-Flaky,Multi-Factor,F,1,0,0.12,38
+689741907,test_doc_api_getitem,Non-Flaky,Multi-Factor,F,1,0,0.12,66
+689741907,test_doc_api_similarity_match,Flaky,Multi-Factor,F,1,0,0.20,7
+689741907,test_doc_from_array_sent_starts,Non-Flaky,Multi-Factor,F,1,0,0.12,29
+689741907,test_doc_retokenize_spans_merge_non_disjoint,Flaky,Multi-Factor,F,1,0,0.12,12
+689741907,test_doc_retokenize_merge_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.12,7
+689741907,test_doc_retokenize_split_heads_error,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_doc_retokenize_split_orths_mismatch,Flaky,Multi-Factor,F,1,0,0.12,10
+689741907,test_doc_retokenize_split_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_span_similarity_match,Flaky,Multi-Factor,F,1,0,0.20,7
+689741907,test_span_label_readonly,Flaky,Multi-Factor,F,1,0,0.12,3
+689741907,test_span_kb_id_readonly,Flaky,Multi-Factor,F,1,0,0.12,3
+689741907,test_doc_to_json_underscore_error_attr,Flaky,Multi-Factor,F,1,0,0.12,4
+689741907,test_doc_to_json_underscore_error_serialize,Flaky,Multi-Factor,F,1,0,0.17,5
+689741907,test_doc_token_api_head_setter,Non-Flaky,Multi-Factor,F,1,0,0.12,44
+689741907,test_underscore_raises_for_dup,Flaky,Multi-Factor,F,1,0,0.12,3
+689741907,test_underscore_raises_for_invalid,Flaky,Multi-Factor,F,1,0,0.12,3
+689741907,test_lang_initialize,Flaky,Multi-Factor,F,1,0,0.42,6
+689741907,test_noun_chunks_is_parsed_de,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_noun_chunks_is_parsed_el,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_noun_chunks_is_parsed,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_noun_chunks_is_parsed_es,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_noun_chunks_is_parsed_fa,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_noun_chunks_is_parsed_fr,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_noun_chunks_is_parsed_id,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_noun_chunks_is_parsed_nb,Flaky,Multi-Factor,F,1,0,0.12,9
+689741907,test_noun_chunks_is_parsed_sv,Non-Flaky,Multi-Factor,F,1,0,0.12,32
+689741907,test_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.12,5
+689741907,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.14,25
+689741907,test_matcher_valid_callback,Flaky,Multi-Factor,F,1,0,0.12,5
+689741907,test_matcher_remove,Non-Flaky,Multi-Factor,F,1,0,0.12,18
+689741907,test_minimal_pattern_validation,Flaky,Multi-Factor,F,1,0,0.12,6
+689741907,test_phrase_matcher_validation,Non-Flaky,Multi-Factor,F,1,0,0.20,17
+689741907,test_attr_validation,Flaky,Multi-Factor,F,1,0,0.12,2
+689741907,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.14,25
+689741907,test_phrase_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.12,5
+689741907,test_component_decorator_assigns,Non-Flaky,Multi-Factor,F,1,0,0.17,36
+689741907,test_analysis_validate_attrs_valid,Flaky,Multi-Factor,F,1,0,0.12,6
+689741907,test_analysis_validate_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.12,2
+689741907,test_analysis_validate_attrs_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.12,15
+689741907,test_kb_invalid_entities,Flaky,Multi-Factor,F,1,0,0.18,11
+689741907,test_kb_invalid_probabilities,Flaky,Multi-Factor,F,1,0,0.18,9
+689741907,test_kb_invalid_combination,Flaky,Multi-Factor,F,1,0,0.18,11
+689741907,test_kb_invalid_entity_vector,Flaky,Multi-Factor,F,1,0,0.12,7
+689741907,test_append_alias,Non-Flaky,Multi-Factor,F,1,0,0.12,20
+689741907,test_append_invalid_alias,Flaky,Multi-Factor,F,1,0,0.12,12
+689741907,test_entity_ruler_validate,Flaky,Multi-Factor,F,1,0,0.12,12
+689741907,test_add_pipe_duplicate_name,Flaky,Multi-Factor,F,1,0,0.12,3
+689741907,test_cant_add_pipe_first_and_last,Flaky,Multi-Factor,F,1,0,0.12,2
+689741907,test_get_pipe,Flaky,Multi-Factor,F,1,0,0.12,4
+689741907,test_replace_pipe,Non-Flaky,Multi-Factor,F,1,0,0.12,8
+689741907,test_rename_pipe,Flaky,Multi-Factor,F,1,0,0.12,5
+689741907,test_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.12,8
+689741907,test_raise_for_invalid_components,Flaky,Multi-Factor,F,1,0,0.12,2
+689741907,test_label_types,Flaky,Multi-Factor,F,1,0,0.12,5
+689741907,test_issue242,Flaky,Multi-Factor,F,1,0,0.25,19
+689741907,test_issue588,Flaky,Multi-Factor,F,1,0,0.12,3
+689741907,test_issue1375,Non-Flaky,Multi-Factor,F,1,0,0.20,8
+689741907,test_issue1727,Non-Flaky,Multi-Factor,F,1,0,0.31,14
+689741907,test_issue1915,Flaky,Multi-Factor,F,1,0,0.20,6
+689741907,test_issue2564,Flaky,Multi-Factor,F,1,0,0.31,11
+689741907,test_issue2833,Flaky,Multi-Factor,F,1,0,0.12,6
+689741907,test_issue3410,Flaky,Multi-Factor,F,1,0,0.20,12
+689741907,test_issue3456,Flaky,Multi-Factor,F,1,0,0.27,5
+689741907,test_issue3880,Non-Flaky,Multi-Factor,F,1,0,0.27,14
+689741907,test_issue4348,Flaky,Multi-Factor,F,1,1,0.27,12
+689741907,test_issue4674,Flaky,Multi-Factor,F,1,0,0.12,22
+689741907,test_issue4725,Non-Flaky,Multi-Factor,F,1,0,0.17,14
+689741907,test_issue4849,Non-Flaky,Multi-Factor,F,1,0,0.12,24
+689741907,test_issue4903,Flaky,Multi-Factor,F,1,0,0.17,10
+689741907,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.12,13
+689741907,test_issue5458,Missing factors,Multi-Factor,T,1,0,0.20,0
+689741907,test_serialize_doc_exclude,Flaky,Multi-Factor,F,1,0,0.12,12
+689741907,test_serialize_language_exclude,Non-Flaky,Multi-Factor,F,1,0,0.27,13
+689741907,test_serialize_pipe_exclude,Non-Flaky,Multi-Factor,F,1,0,0.22,21
+689741907,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.33,5
+689741907,test_tokenizer_explain,Flaky,Multi-Factor,F,1,0,0.12,6
+689741907,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.18,25
+689741907,test_vectors_similarity_TD,Flaky,Multi-Factor,F,1,0,0.12,4
+689741907,test_vectors_similarity_TS,Flaky,Multi-Factor,F,1,0,0.12,4
+689741907,test_stringstore_retrieve_id,Flaky,Multi-Factor,F,1,0,0.12,5
+689741907,test_vectors_most_similar,Flaky,Multi-Factor,F,1,0,0.12,5
+689741907,test_vectors_span_span_similarity,Flaky,Multi-Factor,F,1,0,0.12,4
+689741907,test_vectors_span_doc_similarity,Flaky,Multi-Factor,F,1,0,0.12,4
+689741907,test_vocab_add_vector,Flaky,Multi-Factor,F,1,0,0.12,12
+689741907,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.12,25
+689730947,test_pretrain_make_docs,Non-Flaky,Multi-Factor,F,1,0,0.30,31
+689730947,test_displacy_invalid_arcs,Non-Flaky,Multi-Factor,F,1,0,0.14,8
+689730947,test_displacy_raises_for_wrong_type,Flaky,Multi-Factor,F,1,0,0.14,2
+689730947,test_add_codes,Flaky,Multi-Factor,F,1,0,0.14,4
+689730947,test_gold_biluo_overlap,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_gold_biluo_misalign,Flaky,Multi-Factor,F,1,0,0.14,7
+689730947,test_iob_to_biluo,Flaky,Multi-Factor,F,1,0,0.14,7
+689730947,test_language_update,Non-Flaky,Multi-Factor,F,1,0,0.30,20
+689730947,test_language_pipe,Flaky,Multi-Factor,F,1,0,0.33,5
+689730947,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,F,1,0,0.22,13
+689730947,test_roc_auc_score,Non-Flaky,Multi-Factor,F,1,0,0.14,58
+689730947,test_add_overlapping_entities,Flaky,Multi-Factor,F,1,0,0.14,7
+689730947,test_doc_from_array_heads_in_bounds,Non-Flaky,Multi-Factor,F,1,0,0.14,21
+689730947,test_create_from_words_and_text,Non-Flaky,Multi-Factor,F,1,0,0.14,38
+689730947,test_doc_api_getitem,Non-Flaky,Multi-Factor,F,1,0,0.14,66
+689730947,test_doc_api_similarity_match,Flaky,Multi-Factor,F,1,0,0.22,7
+689730947,test_doc_from_array_sent_starts,Non-Flaky,Multi-Factor,F,1,0,0.14,29
+689730947,test_doc_retokenize_spans_merge_non_disjoint,Flaky,Multi-Factor,F,1,0,0.14,12
+689730947,test_doc_retokenize_merge_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.14,7
+689730947,test_doc_retokenize_split_heads_error,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_doc_retokenize_split_orths_mismatch,Flaky,Multi-Factor,F,1,0,0.14,10
+689730947,test_doc_retokenize_split_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_span_similarity_match,Flaky,Multi-Factor,F,1,0,0.22,7
+689730947,test_span_label_readonly,Flaky,Multi-Factor,F,1,0,0.14,3
+689730947,test_span_kb_id_readonly,Flaky,Multi-Factor,F,1,0,0.14,3
+689730947,test_doc_to_json_underscore_error_attr,Flaky,Multi-Factor,F,1,0,0.14,4
+689730947,test_doc_to_json_underscore_error_serialize,Flaky,Multi-Factor,F,1,0,0.18,5
+689730947,test_doc_token_api_head_setter,Non-Flaky,Multi-Factor,F,1,0,0.14,44
+689730947,test_underscore_raises_for_dup,Flaky,Multi-Factor,F,1,0,0.14,3
+689730947,test_underscore_raises_for_invalid,Flaky,Multi-Factor,F,1,0,0.14,3
+689730947,test_lang_initialize,Flaky,Multi-Factor,F,1,0,0.43,6
+689730947,test_noun_chunks_is_parsed_de,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_noun_chunks_is_parsed_el,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_noun_chunks_is_parsed,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_en_parser_noun_chunks_dative,Non-Flaky,Multi-Factor,F,1,0,0.20,13
+689730947,test_noun_chunks_is_parsed_es,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_noun_chunks_is_parsed_fa,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_noun_chunks_is_parsed_fr,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_noun_chunks_is_parsed_id,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_noun_chunks_is_parsed_nb,Flaky,Multi-Factor,F,1,0,0.14,9
+689730947,test_noun_chunks_is_parsed_sv,Non-Flaky,Multi-Factor,F,1,0,0.14,32
+689730947,test_sv_noun_chunks,Flaky,Multi-Factor,F,1,0,0.25,9
+689730947,test_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.14,5
+689730947,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.17,25
+689730947,test_matcher_valid_callback,Flaky,Multi-Factor,F,1,0,0.14,5
+689730947,test_matcher_remove,Non-Flaky,Multi-Factor,F,1,0,0.14,18
+689730947,test_minimal_pattern_validation,Flaky,Multi-Factor,F,1,0,0.14,6
+689730947,test_phrase_matcher_validation,Non-Flaky,Multi-Factor,F,1,0,0.22,17
+689730947,test_attr_validation,Flaky,Multi-Factor,F,1,0,0.14,2
+689730947,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.17,25
+689730947,test_phrase_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.14,5
+689730947,test_component_decorator_assigns,Non-Flaky,Multi-Factor,F,1,0,0.18,36
+689730947,test_analysis_validate_attrs_valid,Flaky,Multi-Factor,F,1,0,0.14,6
+689730947,test_analysis_validate_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.14,2
+689730947,test_analysis_validate_attrs_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.14,15
+689730947,test_kb_invalid_entities,Flaky,Multi-Factor,F,1,0,0.20,11
+689730947,test_kb_invalid_probabilities,Flaky,Multi-Factor,F,1,0,0.20,9
+689730947,test_kb_invalid_combination,Flaky,Multi-Factor,F,1,0,0.20,11
+689730947,test_kb_invalid_entity_vector,Flaky,Multi-Factor,F,1,0,0.14,7
+689730947,test_append_alias,Non-Flaky,Multi-Factor,F,1,0,0.14,20
+689730947,test_append_invalid_alias,Flaky,Multi-Factor,F,1,0,0.14,12
+689730947,test_entity_ruler_validate,Flaky,Multi-Factor,F,1,0,0.14,12
+689730947,test_add_pipe_duplicate_name,Flaky,Multi-Factor,F,1,0,0.14,3
+689730947,test_cant_add_pipe_first_and_last,Flaky,Multi-Factor,F,1,0,0.14,2
+689730947,test_get_pipe,Flaky,Multi-Factor,F,1,0,0.14,4
+689730947,test_replace_pipe,Non-Flaky,Multi-Factor,F,1,0,0.14,8
+689730947,test_rename_pipe,Flaky,Multi-Factor,F,1,0,0.14,5
+689730947,test_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.14,8
+689730947,test_raise_for_invalid_components,Flaky,Multi-Factor,F,1,0,0.14,2
+689730947,test_label_types,Flaky,Multi-Factor,F,1,0,0.14,5
+689730947,test_issue242,Flaky,Multi-Factor,F,1,0,0.27,19
+689730947,test_issue588,Flaky,Multi-Factor,F,1,0,0.14,3
+689730947,test_issue1375,Non-Flaky,Multi-Factor,F,1,0,0.22,8
+689730947,test_issue1727,Non-Flaky,Multi-Factor,F,1,0,0.33,14
+689730947,test_issue1915,Flaky,Multi-Factor,F,1,0,0.21,6
+689730947,test_issue2564,Flaky,Multi-Factor,F,1,0,0.33,11
+689730947,test_issue2833,Flaky,Multi-Factor,F,1,0,0.14,6
+689730947,test_issue3410,Flaky,Multi-Factor,F,1,0,0.22,12
+689730947,test_issue3456,Flaky,Multi-Factor,F,1,0,0.30,5
+689730947,test_issue3880,Non-Flaky,Multi-Factor,F,1,0,0.30,14
+689730947,test_issue4348,Flaky,Multi-Factor,F,1,1,0.30,12
+689730947,test_issue4674,Flaky,Multi-Factor,F,1,0,0.14,22
+689730947,test_issue4725,Non-Flaky,Multi-Factor,F,1,0,0.18,14
+689730947,test_issue4849,Non-Flaky,Multi-Factor,F,1,0,0.14,24
+689730947,test_issue4903,Flaky,Multi-Factor,F,1,0,0.18,10
+689730947,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.14,13
+689730947,test_issue5458,Missing factors,Multi-Factor,T,1,0,0.25,0
+689730947,test_serialize_doc_exclude,Flaky,Multi-Factor,F,1,0,0.14,12
+689730947,test_serialize_language_exclude,Non-Flaky,Multi-Factor,F,1,0,0.30,13
+689730947,test_serialize_pipe_exclude,Non-Flaky,Multi-Factor,F,1,0,0.25,21
+689730947,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.36,5
+689730947,test_tokenizer_explain,Flaky,Multi-Factor,F,1,0,0.14,6
+689730947,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.20,25
+689730947,test_vectors_similarity_TD,Flaky,Multi-Factor,F,1,0,0.14,4
+689730947,test_vectors_similarity_TS,Flaky,Multi-Factor,F,1,0,0.14,4
+689730947,test_stringstore_retrieve_id,Flaky,Multi-Factor,F,1,0,0.14,5
+689730947,test_vectors_most_similar,Flaky,Multi-Factor,F,1,0,0.14,5
+689730947,test_vectors_span_span_similarity,Flaky,Multi-Factor,F,1,0,0.14,4
+689730947,test_vectors_span_doc_similarity,Flaky,Multi-Factor,F,1,0,0.14,4
+689730947,test_vocab_add_vector,Flaky,Multi-Factor,F,1,0,0.14,12
+689730947,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.14,25
+689708416,test_pretrain_make_docs,Non-Flaky,Multi-Factor,F,1,0,0.33,31
+689708416,test_displacy_invalid_arcs,Non-Flaky,Multi-Factor,F,1,0,0.17,8
+689708416,test_displacy_raises_for_wrong_type,Flaky,Multi-Factor,F,1,0,0.17,2
+689708416,test_add_codes,Flaky,Multi-Factor,F,1,0,0.17,4
+689708416,test_gold_biluo_overlap,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_gold_biluo_misalign,Flaky,Multi-Factor,F,1,0,0.17,7
+689708416,test_iob_to_biluo,Flaky,Multi-Factor,F,1,0,0.17,7
+689708416,test_language_update,Non-Flaky,Multi-Factor,F,1,0,0.33,20
+689708416,test_language_pipe,Flaky,Multi-Factor,F,1,0,0.36,5
+689708416,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,F,1,0,0.25,13
+689708416,test_roc_auc_score,Non-Flaky,Multi-Factor,F,1,0,0.17,58
+689708416,test_add_overlapping_entities,Flaky,Multi-Factor,F,1,0,0.17,7
+689708416,test_doc_from_array_heads_in_bounds,Non-Flaky,Multi-Factor,F,1,0,0.17,21
+689708416,test_create_from_words_and_text,Non-Flaky,Multi-Factor,F,1,0,0.17,38
+689708416,test_doc_api_getitem,Non-Flaky,Multi-Factor,F,1,0,0.17,66
+689708416,test_doc_api_similarity_match,Flaky,Multi-Factor,F,1,0,0.25,7
+689708416,test_doc_from_array_sent_starts,Non-Flaky,Multi-Factor,F,1,0,0.17,29
+689708416,test_doc_retokenize_spans_merge_non_disjoint,Flaky,Multi-Factor,F,1,0,0.17,12
+689708416,test_doc_retokenize_merge_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.17,7
+689708416,test_doc_retokenize_split_heads_error,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_doc_retokenize_split_orths_mismatch,Flaky,Multi-Factor,F,1,0,0.17,10
+689708416,test_doc_retokenize_split_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_span_similarity_match,Flaky,Multi-Factor,F,1,0,0.25,7
+689708416,test_span_label_readonly,Flaky,Multi-Factor,F,1,0,0.17,3
+689708416,test_span_kb_id_readonly,Flaky,Multi-Factor,F,1,0,0.17,3
+689708416,test_doc_to_json_underscore_error_attr,Flaky,Multi-Factor,F,1,0,0.17,4
+689708416,test_doc_to_json_underscore_error_serialize,Flaky,Multi-Factor,F,1,0,0.20,5
+689708416,test_doc_token_api_head_setter,Non-Flaky,Multi-Factor,F,1,0,0.17,44
+689708416,test_underscore_raises_for_dup,Flaky,Multi-Factor,F,1,0,0.17,3
+689708416,test_underscore_raises_for_invalid,Flaky,Multi-Factor,F,1,0,0.17,3
+689708416,test_lang_initialize,Flaky,Multi-Factor,F,1,0,0.45,6
+689708416,test_noun_chunks_is_parsed_de,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_noun_chunks_is_parsed_el,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_noun_chunks_is_parsed,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_noun_chunks_is_parsed_es,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_noun_chunks_is_parsed_fa,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_noun_chunks_is_parsed_fr,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_noun_chunks_is_parsed_id,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_noun_chunks_is_parsed_nb,Flaky,Multi-Factor,F,1,0,0.17,9
+689708416,test_noun_chunks_is_parsed_sv,Non-Flaky,Multi-Factor,F,1,0,0.17,32
+689708416,test_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.17,5
+689708416,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.20,25
+689708416,test_matcher_valid_callback,Flaky,Multi-Factor,F,1,0,0.17,5
+689708416,test_matcher_remove,Non-Flaky,Multi-Factor,F,1,0,0.17,18
+689708416,test_minimal_pattern_validation,Flaky,Multi-Factor,F,1,0,0.17,6
+689708416,test_phrase_matcher_validation,Non-Flaky,Multi-Factor,F,1,0,0.25,17
+689708416,test_attr_validation,Flaky,Multi-Factor,F,1,0,0.17,2
+689708416,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.20,25
+689708416,test_phrase_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.17,5
+689708416,test_component_decorator_assigns,Non-Flaky,Multi-Factor,F,1,0,0.20,36
+689708416,test_analysis_validate_attrs_valid,Flaky,Multi-Factor,F,1,0,0.17,6
+689708416,test_analysis_validate_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.17,2
+689708416,test_analysis_validate_attrs_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.17,15
+689708416,test_kb_invalid_entities,Flaky,Multi-Factor,F,1,0,0.22,11
+689708416,test_kb_invalid_probabilities,Flaky,Multi-Factor,F,1,0,0.22,9
+689708416,test_kb_invalid_combination,Flaky,Multi-Factor,F,1,0,0.22,11
+689708416,test_kb_invalid_entity_vector,Flaky,Multi-Factor,F,1,0,0.17,7
+689708416,test_append_alias,Non-Flaky,Multi-Factor,F,1,0,0.17,20
+689708416,test_append_invalid_alias,Flaky,Multi-Factor,F,1,0,0.17,12
+689708416,test_entity_ruler_validate,Flaky,Multi-Factor,F,1,0,0.17,12
+689708416,test_add_pipe_duplicate_name,Flaky,Multi-Factor,F,1,0,0.17,3
+689708416,test_cant_add_pipe_first_and_last,Flaky,Multi-Factor,F,1,0,0.17,2
+689708416,test_get_pipe,Flaky,Multi-Factor,F,1,0,0.17,4
+689708416,test_replace_pipe,Non-Flaky,Multi-Factor,F,1,0,0.17,8
+689708416,test_rename_pipe,Flaky,Multi-Factor,F,1,0,0.17,5
+689708416,test_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.17,8
+689708416,test_raise_for_invalid_components,Flaky,Multi-Factor,F,1,0,0.17,2
+689708416,test_label_types,Flaky,Multi-Factor,F,1,0,0.17,5
+689708416,test_issue242,Flaky,Multi-Factor,F,1,0,0.30,19
+689708416,test_issue588,Flaky,Multi-Factor,F,1,0,0.17,3
+689708416,test_issue1375,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+689708416,test_issue1727,Non-Flaky,Multi-Factor,F,1,0,0.36,14
+689708416,test_issue1915,Flaky,Multi-Factor,F,1,0,0.22,6
+689708416,test_issue2564,Flaky,Multi-Factor,F,1,0,0.36,11
+689708416,test_issue2833,Flaky,Multi-Factor,F,1,0,0.17,6
+689708416,test_issue3410,Flaky,Multi-Factor,F,1,0,0.25,12
+689708416,test_issue3456,Flaky,Multi-Factor,F,1,0,0.33,5
+689708416,test_issue3880,Non-Flaky,Multi-Factor,F,1,0,0.33,14
+689708416,test_issue4348,Flaky,Multi-Factor,F,1,1,0.33,12
+689708416,test_issue4674,Flaky,Multi-Factor,F,1,0,0.17,22
+689708416,test_issue4725,Non-Flaky,Multi-Factor,F,1,0,0.20,14
+689708416,test_issue4849,Non-Flaky,Multi-Factor,F,1,0,0.17,24
+689708416,test_issue4903,Flaky,Multi-Factor,F,1,0,0.20,10
+689708416,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.17,13
+689708416,test_serialize_doc_exclude,Flaky,Multi-Factor,F,1,0,0.17,12
+689708416,test_serialize_language_exclude,Non-Flaky,Multi-Factor,F,1,0,0.33,13
+689708416,test_serialize_pipe_exclude,Non-Flaky,Multi-Factor,F,1,0,0.29,21
+689708416,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.40,5
+689708416,test_tokenizer_explain,Flaky,Multi-Factor,F,1,0,0.17,6
+689708416,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.22,25
+689708416,test_vectors_similarity_TD,Flaky,Multi-Factor,F,1,0,0.17,4
+689708416,test_vectors_similarity_TS,Flaky,Multi-Factor,F,1,0,0.17,4
+689708416,test_stringstore_retrieve_id,Flaky,Multi-Factor,F,1,0,0.17,5
+689708416,test_vectors_most_similar,Flaky,Multi-Factor,F,1,0,0.17,5
+689708416,test_vectors_span_span_similarity,Flaky,Multi-Factor,F,1,0,0.17,4
+689708416,test_vectors_span_doc_similarity,Flaky,Multi-Factor,F,1,0,0.17,4
+689708416,test_vocab_add_vector,Flaky,Multi-Factor,F,1,0,0.17,12
+689708416,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.17,25
+689700394,test_pretrain_make_docs,Non-Flaky,Multi-Factor,F,1,0,0.38,31
+689700394,test_displacy_invalid_arcs,Non-Flaky,Multi-Factor,F,1,0,0.20,8
+689700394,test_displacy_raises_for_wrong_type,Flaky,Multi-Factor,F,1,0,0.20,2
+689700394,test_add_codes,Flaky,Multi-Factor,F,1,0,0.20,4
+689700394,test_gold_biluo_overlap,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_gold_biluo_misalign,Flaky,Multi-Factor,F,1,0,0.20,7
+689700394,test_iob_to_biluo,Flaky,Multi-Factor,F,1,0,0.20,7
+689700394,test_language_update,Non-Flaky,Multi-Factor,F,1,0,0.38,20
+689700394,test_language_pipe,Flaky,Multi-Factor,F,1,0,0.40,5
+689700394,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,T,1,0,0.29,13
+689700394,test_roc_auc_score,Non-Flaky,Multi-Factor,F,1,0,0.20,58
+689700394,test_add_overlapping_entities,Flaky,Multi-Factor,F,1,0,0.20,7
+689700394,test_doc_from_array_heads_in_bounds,Non-Flaky,Multi-Factor,F,1,0,0.20,21
+689700394,test_create_from_words_and_text,Non-Flaky,Multi-Factor,F,1,0,0.20,38
+689700394,test_doc_api_getitem,Non-Flaky,Multi-Factor,F,1,0,0.20,66
+689700394,test_doc_api_similarity_match,Flaky,Multi-Factor,F,1,0,0.29,7
+689700394,test_doc_from_array_sent_starts,Non-Flaky,Multi-Factor,F,1,0,0.20,29
+689700394,test_doc_retokenize_spans_merge_non_disjoint,Flaky,Multi-Factor,F,1,0,0.20,12
+689700394,test_doc_retokenize_merge_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.20,7
+689700394,test_doc_retokenize_split_heads_error,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_doc_retokenize_split_orths_mismatch,Flaky,Multi-Factor,F,1,0,0.20,10
+689700394,test_doc_retokenize_split_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_span_similarity_match,Flaky,Multi-Factor,F,1,0,0.29,7
+689700394,test_span_label_readonly,Flaky,Multi-Factor,F,1,0,0.20,3
+689700394,test_span_kb_id_readonly,Flaky,Multi-Factor,F,1,0,0.20,3
+689700394,test_doc_to_json_underscore_error_attr,Flaky,Multi-Factor,F,1,0,0.20,4
+689700394,test_doc_to_json_underscore_error_serialize,Flaky,Multi-Factor,F,1,0,0.22,5
+689700394,test_doc_token_api_head_setter,Non-Flaky,Multi-Factor,F,1,0,0.20,44
+689700394,test_underscore_raises_for_dup,Flaky,Multi-Factor,F,1,0,0.20,3
+689700394,test_underscore_raises_for_invalid,Flaky,Multi-Factor,F,1,0,0.20,3
+689700394,test_lang_initialize,Flaky,Multi-Factor,F,1,0,0.48,6
+689700394,test_noun_chunks_is_parsed_de,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_noun_chunks_is_parsed_el,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_noun_chunks_is_parsed,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_noun_chunks_is_parsed_es,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_noun_chunks_is_parsed_fa,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_noun_chunks_is_parsed_fr,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_noun_chunks_is_parsed_id,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_noun_chunks_is_parsed_nb,Flaky,Multi-Factor,F,1,0,0.20,9
+689700394,test_noun_chunks_is_parsed_sv,Non-Flaky,Multi-Factor,F,1,0,0.20,32
+689700394,test_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.20,5
+689700394,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.25,25
+689700394,test_matcher_valid_callback,Flaky,Multi-Factor,F,1,0,0.20,5
+689700394,test_matcher_remove,Non-Flaky,Multi-Factor,F,1,0,0.20,18
+689700394,test_minimal_pattern_validation,Flaky,Multi-Factor,F,1,0,0.20,6
+689700394,test_phrase_matcher_validation,Non-Flaky,Multi-Factor,F,1,0,0.29,17
+689700394,test_attr_validation,Flaky,Multi-Factor,F,1,0,0.20,2
+689700394,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.25,25
+689700394,test_phrase_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.20,5
+689700394,test_component_decorator_assigns,Non-Flaky,Multi-Factor,F,1,0,0.22,36
+689700394,test_analysis_validate_attrs_valid,Flaky,Multi-Factor,F,1,0,0.20,6
+689700394,test_analysis_validate_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.20,2
+689700394,test_analysis_validate_attrs_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.20,15
+689700394,test_kb_invalid_entities,Flaky,Multi-Factor,F,1,0,0.25,11
+689700394,test_kb_invalid_probabilities,Flaky,Multi-Factor,F,1,0,0.25,9
+689700394,test_kb_invalid_combination,Flaky,Multi-Factor,F,1,0,0.25,11
+689700394,test_kb_invalid_entity_vector,Flaky,Multi-Factor,F,1,0,0.20,7
+689700394,test_append_alias,Non-Flaky,Multi-Factor,F,1,0,0.20,20
+689700394,test_append_invalid_alias,Flaky,Multi-Factor,F,1,0,0.20,12
+689700394,test_entity_ruler_validate,Flaky,Multi-Factor,F,1,0,0.20,12
+689700394,test_add_pipe_duplicate_name,Flaky,Multi-Factor,F,1,0,0.20,3
+689700394,test_cant_add_pipe_first_and_last,Flaky,Multi-Factor,F,1,0,0.20,2
+689700394,test_get_pipe,Flaky,Multi-Factor,F,1,0,0.20,4
+689700394,test_replace_pipe,Non-Flaky,Multi-Factor,F,1,0,0.20,8
+689700394,test_rename_pipe,Flaky,Multi-Factor,F,1,0,0.20,5
+689700394,test_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.20,8
+689700394,test_raise_for_invalid_components,Flaky,Multi-Factor,F,1,0,0.20,2
+689700394,test_label_types,Flaky,Multi-Factor,F,1,0,0.20,5
+689700394,test_issue242,Flaky,Multi-Factor,F,1,0,0.33,19
+689700394,test_issue588,Flaky,Multi-Factor,F,1,0,0.20,3
+689700394,test_issue1375,Non-Flaky,Multi-Factor,F,1,0,0.29,8
+689700394,test_issue1727,Non-Flaky,Multi-Factor,T,1,0,0.40,14
+689700394,test_issue1915,Flaky,Multi-Factor,F,1,0,0.24,6
+689700394,test_issue2564,Flaky,Multi-Factor,T,1,0,0.40,11
+689700394,test_issue2833,Flaky,Multi-Factor,F,1,0,0.20,6
+689700394,test_issue3410,Flaky,Multi-Factor,F,1,0,0.29,12
+689700394,test_issue3456,Flaky,Multi-Factor,T,1,0,0.38,5
+689700394,test_issue3880,Non-Flaky,Multi-Factor,T,1,0,0.38,14
+689700394,test_issue4348,Non-Flaky,Multi-Factor,T,1,1,0.38,12
+689700394,test_issue4674,Flaky,Multi-Factor,F,1,0,0.20,22
+689700394,test_issue4725,Non-Flaky,Multi-Factor,F,1,0,0.22,14
+689700394,test_issue4849,Non-Flaky,Multi-Factor,F,1,0,0.20,24
+689700394,test_issue4903,Flaky,Multi-Factor,F,1,0,0.22,10
+689700394,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.20,13
+689700394,test_serialize_doc_exclude,Flaky,Multi-Factor,F,1,0,0.20,12
+689700394,test_serialize_language_exclude,Non-Flaky,Multi-Factor,F,1,0,0.38,13
+689700394,test_serialize_pipe_exclude,Non-Flaky,Multi-Factor,F,1,0,0.33,21
+689700394,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.44,5
+689700394,test_tokenizer_explain,Flaky,Multi-Factor,F,1,0,0.20,6
+689700394,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.25,25
+689700394,test_vectors_similarity_TD,Flaky,Multi-Factor,F,1,0,0.20,4
+689700394,test_vectors_similarity_TS,Flaky,Multi-Factor,F,1,0,0.20,4
+689700394,test_stringstore_retrieve_id,Flaky,Multi-Factor,F,1,0,0.20,5
+689700394,test_vectors_most_similar,Flaky,Multi-Factor,F,1,0,0.20,5
+689700394,test_vectors_span_span_similarity,Flaky,Multi-Factor,F,1,0,0.20,4
+689700394,test_vectors_span_doc_similarity,Flaky,Multi-Factor,F,1,0,0.20,4
+689700394,test_vocab_add_vector,Flaky,Multi-Factor,F,1,0,0.20,12
+689700394,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.20,25
+689693109,test_pretrain_make_docs,Non-Flaky,Multi-Factor,F,1,0,0.43,31
+689693109,test_displacy_invalid_arcs,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+689693109,test_displacy_raises_for_wrong_type,Flaky,Multi-Factor,F,1,0,0.25,2
+689693109,test_add_codes,Flaky,Multi-Factor,F,1,0,0.25,4
+689693109,test_gold_biluo_overlap,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_gold_biluo_misalign,Flaky,Multi-Factor,F,1,0,0.25,7
+689693109,test_iob_to_biluo,Flaky,Multi-Factor,F,1,0,0.25,7
+689693109,test_language_update,Non-Flaky,Multi-Factor,F,1,0,0.43,20
+689693109,test_language_pipe,Flaky,Multi-Factor,F,1,0,0.44,5
+689693109,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,F,1,0,0.33,13
+689693109,test_roc_auc_score,Non-Flaky,Multi-Factor,F,1,0,0.25,58
+689693109,test_add_overlapping_entities,Flaky,Multi-Factor,F,1,0,0.25,7
+689693109,test_doc_from_array_heads_in_bounds,Non-Flaky,Multi-Factor,F,1,0,0.25,21
+689693109,test_create_from_words_and_text,Non-Flaky,Multi-Factor,F,1,0,0.25,38
+689693109,test_doc_api_getitem,Non-Flaky,Multi-Factor,F,1,0,0.25,66
+689693109,test_doc_api_similarity_match,Flaky,Multi-Factor,F,1,0,0.33,7
+689693109,test_doc_from_array_sent_starts,Non-Flaky,Multi-Factor,F,1,0,0.25,29
+689693109,test_doc_retokenize_spans_merge_non_disjoint,Flaky,Multi-Factor,F,1,0,0.25,12
+689693109,test_doc_retokenize_merge_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.25,7
+689693109,test_doc_retokenize_split_heads_error,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_doc_retokenize_split_orths_mismatch,Flaky,Multi-Factor,F,1,0,0.25,10
+689693109,test_doc_retokenize_split_extension_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_span_similarity_match,Flaky,Multi-Factor,F,1,0,0.33,7
+689693109,test_span_label_readonly,Flaky,Multi-Factor,F,1,0,0.25,3
+689693109,test_span_kb_id_readonly,Flaky,Multi-Factor,F,1,0,0.25,3
+689693109,test_doc_to_json_underscore_error_attr,Flaky,Multi-Factor,F,1,0,0.25,4
+689693109,test_doc_to_json_underscore_error_serialize,Flaky,Multi-Factor,F,1,0,0.25,5
+689693109,test_doc_token_api_head_setter,Non-Flaky,Multi-Factor,F,1,0,0.25,44
+689693109,test_underscore_raises_for_dup,Flaky,Multi-Factor,F,1,0,0.25,3
+689693109,test_underscore_raises_for_invalid,Flaky,Multi-Factor,F,1,0,0.25,3
+689693109,test_lang_initialize,Flaky,Multi-Factor,F,1,0,0.50,6
+689693109,test_noun_chunks_is_parsed_de,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_noun_chunks_is_parsed_el,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_noun_chunks_is_parsed,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_noun_chunks_is_parsed_es,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_noun_chunks_is_parsed_fa,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_noun_chunks_is_parsed_fr,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_noun_chunks_is_parsed_id,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_noun_chunks_is_parsed_nb,Flaky,Multi-Factor,F,1,0,0.25,9
+689693109,test_noun_chunks_is_parsed_sv,Non-Flaky,Multi-Factor,F,1,0,0.25,32
+689693109,test_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.25,5
+689693109,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.33,25
+689693109,test_matcher_valid_callback,Flaky,Multi-Factor,F,1,0,0.25,5
+689693109,test_matcher_remove,Non-Flaky,Multi-Factor,F,1,0,0.25,18
+689693109,test_minimal_pattern_validation,Flaky,Multi-Factor,F,1,0,0.25,6
+689693109,test_phrase_matcher_validation,Non-Flaky,Multi-Factor,F,1,0,0.33,17
+689693109,test_attr_validation,Flaky,Multi-Factor,F,1,0,0.25,2
+689693109,test_attr_pipeline_checks,Non-Flaky,Multi-Factor,F,1,0,0.33,25
+689693109,test_phrase_matcher_basic_check,Flaky,Multi-Factor,F,1,0,0.25,5
+689693109,test_component_decorator_assigns,Non-Flaky,Multi-Factor,F,1,0,0.25,36
+689693109,test_analysis_validate_attrs_valid,Flaky,Multi-Factor,F,1,0,0.25,6
+689693109,test_analysis_validate_attrs_invalid,Flaky,Multi-Factor,F,1,0,0.25,2
+689693109,test_analysis_validate_attrs_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.25,15
+689693109,test_kb_invalid_entities,Flaky,Multi-Factor,F,1,0,0.29,11
+689693109,test_kb_invalid_probabilities,Flaky,Multi-Factor,F,1,0,0.29,9
+689693109,test_kb_invalid_combination,Flaky,Multi-Factor,F,1,0,0.29,11
+689693109,test_kb_invalid_entity_vector,Flaky,Multi-Factor,F,1,0,0.25,7
+689693109,test_append_alias,Non-Flaky,Multi-Factor,F,1,0,0.25,20
+689693109,test_append_invalid_alias,Flaky,Multi-Factor,F,1,0,0.25,12
+689693109,test_entity_ruler_validate,Flaky,Multi-Factor,F,1,0,0.25,12
+689693109,test_add_pipe_duplicate_name,Flaky,Multi-Factor,F,1,0,0.25,3
+689693109,test_cant_add_pipe_first_and_last,Flaky,Multi-Factor,F,1,0,0.25,2
+689693109,test_get_pipe,Flaky,Multi-Factor,F,1,0,0.25,4
+689693109,test_replace_pipe,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+689693109,test_rename_pipe,Flaky,Multi-Factor,F,1,0,0.25,5
+689693109,test_remove_pipe,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+689693109,test_raise_for_invalid_components,Flaky,Multi-Factor,F,1,0,0.25,2
+689693109,test_label_types,Flaky,Multi-Factor,F,1,0,0.25,5
+689693109,test_issue242,Flaky,Multi-Factor,F,1,0,0.38,19
+689693109,test_issue588,Flaky,Multi-Factor,F,1,0,0.25,3
+689693109,test_issue1375,Non-Flaky,Multi-Factor,F,1,0,0.33,8
+689693109,test_issue1727,Non-Flaky,Multi-Factor,F,1,0,0.44,14
+689693109,test_issue1915,Flaky,Multi-Factor,F,1,0,0.25,6
+689693109,test_issue2564,Flaky,Multi-Factor,F,1,0,0.44,11
+689693109,test_issue2833,Flaky,Multi-Factor,F,1,0,0.25,6
+689693109,test_issue3410,Flaky,Multi-Factor,F,1,0,0.33,12
+689693109,test_issue3456,Flaky,Multi-Factor,F,1,0,0.43,5
+689693109,test_issue3880,Non-Flaky,Multi-Factor,F,1,0,0.43,14
+689693109,test_issue4348,Flaky,Multi-Factor,F,1,1,0.43,12
+689693109,test_issue4674,Flaky,Multi-Factor,F,1,0,0.25,22
+689693109,test_issue4725,Non-Flaky,Multi-Factor,F,1,0,0.25,14
+689693109,test_issue4849,Non-Flaky,Multi-Factor,F,1,0,0.25,24
+689693109,test_issue4903,Flaky,Multi-Factor,F,1,0,0.25,10
+689693109,test_issue5152,Non-Flaky,Multi-Factor,F,1,0,0.25,13
+689693109,test_serialize_doc_exclude,Flaky,Multi-Factor,F,1,0,0.25,12
+689693109,test_serialize_language_exclude,Non-Flaky,Multi-Factor,F,1,0,0.43,13
+689693109,test_serialize_pipe_exclude,Non-Flaky,Multi-Factor,F,1,0,0.40,21
+689693109,test_pickle_vocab,Flaky,Multi-Factor,F,1,0,0.50,5
+689693109,test_tokenizer_explain,Flaky,Multi-Factor,F,1,0,0.25,6
+689693109,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.29,25
+689693109,test_vectors_similarity_TD,Flaky,Multi-Factor,F,1,0,0.25,4
+689693109,test_vectors_similarity_TS,Flaky,Multi-Factor,F,1,0,0.25,4
+689693109,test_stringstore_retrieve_id,Flaky,Multi-Factor,F,1,0,0.25,5
+689693109,test_vectors_most_similar,Flaky,Multi-Factor,F,1,0,0.25,5
+689693109,test_vectors_span_span_similarity,Flaky,Multi-Factor,F,1,0,0.25,4
+689693109,test_vectors_span_doc_similarity,Flaky,Multi-Factor,F,1,0,0.25,4
+689693109,test_vocab_add_vector,Flaky,Multi-Factor,F,1,0,0.25,12
+689693109,test_vectors_serialize,Non-Flaky,Multi-Factor,F,1,0,0.25,25
+669573184,test_pickle_vocab,Flaky,Traceback Coverage,F,0,0,0.43,5
+669378055,test_en_lex_attrs_norm_exceptions,Flaky,Traceback Coverage,F,0,0,0.20,2
+669378055,test_pickle_vocab,Flaky,Traceback Coverage,F,0,0,0.33,5
+669374581,test_en_lex_attrs_norm_exceptions,Flaky,Traceback Coverage,F,0,0,0.25,2
+669374581,test_pickle_vocab,Flaky,Traceback Coverage,F,0,0,0.40,5
+657679925,test_issue1963,Non-Flaky,Traceback Coverage,T,0,0,0.25,7
+657516389,test_issue5082,Non-Flaky,Traceback Coverage,T,0,0,0.25,32
+657508869,test_issue4725,Non-Flaky,Traceback Coverage,T,0,0,0.14,14
+657469238,test_issue4725,Non-Flaky,Traceback Coverage,T,0,0,0.17,14
+657467270,test_issue4725,Non-Flaky,Traceback Coverage,T,0,0,0.20,14
+657424384,test_issue4725,Non-Flaky,Traceback Coverage,T,0,0,0.25,14
+655367251,test_da_tokenizer_slash,Flaky,Traceback Coverage,F,0,0,0.25,2
+654091283,test_build_dependencies,Flaky,Traceback Coverage,F,0,0,0.25,0
+654088673,test_build_dependencies,Flaky,Traceback Coverage,F,0,0,0.29,0
+653106197,test_displacy_parse_deps,Non-Flaky,Traceback Coverage,T,0,0,0.28,20
+653094942,test_displacy_parse_deps,Non-Flaky,Traceback Coverage,T,0,0,0.29,20
+653038327,test_displacy_parse_deps,Non-Flaky,Traceback Coverage,T,0,0,0.31,20
+653035742,test_displacy_parse_deps,Non-Flaky,Traceback Coverage,T,0,0,0.33,20
+652532368,test_build_dependencies,Flaky,Traceback Coverage,F,0,0,0.17,0
+652509302,test_build_dependencies,Flaky,Traceback Coverage,F,0,0,0.20,0
+652505111,test_build_dependencies,Flaky,Traceback Coverage,F,0,0,0.25,0
+651505159,test_serialize_custom_tokenizer,Non-Flaky,Traceback Coverage,T,0,0,0.30,11
+649395680,test_issue4903,Non-Flaky,Traceback Coverage,T,0,0,0.14,10
+649394741,test_issue4903,Non-Flaky,Traceback Coverage,T,0,0,0.17,10
+649393385,test_issue4903,Non-Flaky,Traceback Coverage,T,0,0,0.20,10
+649391334,test_issue4903,Non-Flaky,Traceback Coverage,T,0,0,0.25,10
+649367688,test_language_pipe,Non-Flaky,Traceback Coverage,T,0,0,0.38,5
+644680464,test_displacy_parse_ents,Flaky,Traceback Coverage,F,0,0,0.33,7
+640705786,test_entity_ruler_from_disk_old_format_safe,Flaky,Traceback Coverage,F,0,0,0.17,10
+640705224,test_entity_ruler_from_disk_old_format_safe,Flaky,Traceback Coverage,F,0,0,0.20,10
+640704664,test_entity_ruler_from_disk_old_format_safe,Flaky,Traceback Coverage,F,0,0,0.25,10
+639327342,test_evaluate,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+639324400,test_evaluate,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+635829523,test_entity_ruler_properties,Non-Flaky,Traceback Coverage,T,0,0,0.25,3
+628155414,test_language_evaluate,Non-Flaky,Multi-Factor,F,1,0,0.33,15
+628155414,test_evaluate_no_pipe,Flaky,Multi-Factor,F,1,0,0.20,9
+628155414,test_las_per_type,Non-Flaky,Multi-Factor,F,1,0,0.20,41
+628155414,test_ner_per_type,Non-Flaky,Multi-Factor,F,1,0,0.33,46
+628155414,test_en_customized_tokenizer_handles_rules_property,Non-Flaky,Multi-Factor,F,1,0,0.20,26
+628153079,test_language_evaluate,Non-Flaky,Traceback Coverage,T,0,0,0.40,15
+628153079,test_evaluate_no_pipe,Non-Flaky,Traceback Coverage,T,0,0,0.25,9
+628153079,test_las_per_type,Non-Flaky,Traceback Coverage,T,0,0,0.25,41
+628153079,test_ner_per_type,Non-Flaky,Traceback Coverage,T,0,0,0.40,46
+628153079,test_en_customized_tokenizer_handles_rules_property,Non-Flaky,Traceback Coverage,T,0,0,0.25,26
+616256746,test_ignore_misaligned,Flaky,Traceback Coverage,F,0,0,0.40,25
+614426783,test_issue4651_with_phrase_matcher_attr,Non-Flaky,Traceback Coverage,T,0,0,0.29,21
+614426783,test_issue4651_without_phrase_matcher_attr,Non-Flaky,Traceback Coverage,T,0,0,0.29,21
+613948126,test_issue4651_with_phrase_matcher_attr,Non-Flaky,Traceback Coverage,T,0,0,0.17,21
+613948126,test_issue4651_without_phrase_matcher_attr,Non-Flaky,Traceback Coverage,T,0,0,0.17,21
+613946846,test_issue4651_with_phrase_matcher_attr,Non-Flaky,Traceback Coverage,T,0,0,0.20,21
+613946846,test_issue4651_without_phrase_matcher_attr,Non-Flaky,Traceback Coverage,T,0,0,0.20,21
+613940358,test_issue4651_with_phrase_matcher_attr,Non-Flaky,Traceback Coverage,T,0,0,0.25,21
+613940358,test_issue4651_without_phrase_matcher_attr,Non-Flaky,Traceback Coverage,T,0,0,0.25,21
+612033600,test_lb_tokenizer_handles_long_text,Flaky,Traceback Coverage,F,0,0,0.18,3
+612028918,test_lb_tokenizer_handles_long_text,Flaky,Traceback Coverage,F,0,0,0.20,3
+612010003,test_lb_tokenizer_handles_long_text,Flaky,Traceback Coverage,F,0,0,0.22,3
+611996922,test_lb_tokenizer_handles_long_text,Flaky,Traceback Coverage,F,0,0,0.25,3
+611961648,test_lb_tokenizer_handles_long_text,Flaky,Traceback Coverage,F,0,0,0.29,3
+611344784,test_ignore_misaligned,Non-Flaky,Traceback Coverage,T,0,0,0.25,25
+607242743,test_get_architecture,Non-Flaky,Traceback Coverage,T,0,0,0.29,4
+607240131,test_get_architecture,Non-Flaky,Multi-Factor,T,2,0,0.33,4
+607136899,test_language_update,Non-Flaky,Traceback Coverage,T,0,0,0.33,20
+607132636,test_language_update,Non-Flaky,Traceback Coverage,T,0,0,0.40,20
+605654697,test_language_update,Non-Flaky,Traceback Coverage,T,0,0,0.25,20
+605654697,test_language_evaluate,Non-Flaky,Traceback Coverage,T,0,0,0.25,15
+605654697,test_language_pipe,Non-Flaky,Traceback Coverage,T,0,0,0.29,5
+605654697,test_ner_per_type,Non-Flaky,Traceback Coverage,T,0,0,0.25,46
+605654697,test_add_label,Non-Flaky,Traceback Coverage,T,0,1,0.27,14
+605654697,test_preserving_links_asdoc,Non-Flaky,Traceback Coverage,T,0,0,0.57,34
+605654697,test_sentencizer,Non-Flaky,Traceback Coverage,T,0,0,0.25,7
+605654697,test_sentencizer_complex,Non-Flaky,Traceback Coverage,T,0,0,0.25,6
+605654697,test_sentencizer_custom_punct,Non-Flaky,Traceback Coverage,T,0,0,0.25,6
+605654697,test_sentencizer_across_scripts,Non-Flaky,Traceback Coverage,T,0,0,0.40,5
+605654697,test_issue2564,Non-Flaky,Traceback Coverage,T,0,0,0.38,11
+605654697,test_issue2800,Non-Flaky,Traceback Coverage,T,0,2,0.21,17
+605654697,test_issue3456,Non-Flaky,Traceback Coverage,T,0,0,0.33,5
+605654697,test_issue3468,Non-Flaky,Traceback Coverage,T,0,0,0.33,13
+605654697,test_issue3880,Non-Flaky,Traceback Coverage,T,0,0,0.33,14
+605654697,test_issue4030,Non-Flaky,Traceback Coverage,T,0,1,0.38,39
+605654697,test_multiple_predictions,Non-Flaky,Traceback Coverage,T,0,0,0.40,3
+605654697,test_issue4348,Non-Flaky,Traceback Coverage,T,0,1,0.33,11
+605654697,test_issue4402,Flaky,Traceback Coverage,F,0,0,0.29,80
+605500452,test_tok2vec_batch_sizes,Non-Flaky,Traceback Coverage,T,0,0,0.20,6
+605500452,test_tok2vec_configs,Non-Flaky,Traceback Coverage,T,0,0,0.20,6
+605499678,test_tok2vec_batch_sizes,Flaky,Multi-Factor,T,2,0,0.25,6
+605499678,test_tok2vec_configs,Flaky,Multi-Factor,T,2,0,0.25,6
+603638267,test_align,Non-Flaky,Traceback Coverage,T,0,0,0.20,5
+603638220,test_align,Flaky,Multi-Factor,T,2,0,0.25,5
+603455234,test_gold_misaligned,Non-Flaky,Traceback Coverage,T,0,0,0.20,2
+603453987,test_gold_misaligned,Non-Flaky,Traceback Coverage,T,0,0,0.25,2
+602731422,test_roundtrip_docs_to_json,Non-Flaky,Traceback Coverage,T,0,1,0.25,68
+602731422,test_issue4402,Non-Flaky,Traceback Coverage,T,0,0,0.17,81
+602717192,test_roundtrip_docs_to_json,Non-Flaky,Traceback Coverage,T,0,1,0.29,68
+602717192,test_issue4402,Non-Flaky,Traceback Coverage,T,0,0,0.20,81
+602705887,test_roundtrip_docs_to_json,Flaky,Traceback Coverage,F,0,1,0.33,68
+602705887,test_issue4402,Non-Flaky,Traceback Coverage,T,0,0,0.25,81
+602351439,test_component_decorator_function,Non-Flaky,Traceback Coverage,T,0,0,0.14,8
+602351439,test_component_decorator_class,Non-Flaky,Traceback Coverage,T,0,0,0.14,25
+602351439,test_component_decorator_assigns,Non-Flaky,Traceback Coverage,T,0,0,0.14,36
+602351439,test_component_factories_from_nlp,Non-Flaky,Traceback Coverage,T,0,0,0.14,16
+602351398,test_component_decorator_function,Non-Flaky,Multi-Factor,T,1,0,0.17,8
+602351398,test_component_decorator_class,Non-Flaky,Multi-Factor,T,1,0,0.17,25
+602351398,test_component_decorator_assigns,Non-Flaky,Multi-Factor,T,1,0,0.17,36
+602351398,test_component_factories_from_nlp,Non-Flaky,Multi-Factor,T,1,0,0.17,16
+602349387,test_component_decorator_function,Non-Flaky,Traceback Coverage,T,0,0,0.20,8
+602349387,test_component_decorator_class,Non-Flaky,Traceback Coverage,T,0,0,0.20,25
+602349387,test_component_decorator_assigns,Non-Flaky,Traceback Coverage,T,0,0,0.20,36
+602349387,test_component_factories_from_nlp,Non-Flaky,Traceback Coverage,T,0,0,0.20,16
+602333332,test_component_decorator_function,Flaky,Multi-Factor,U,2,0,0.25,8
+602333332,test_component_decorator_class,Non-Flaky,Multi-Factor,U,2,0,0.25,25
+602333332,test_component_decorator_assigns,Non-Flaky,Multi-Factor,U,2,0,0.25,36
+602333332,test_component_factories_from_nlp,Non-Flaky,Multi-Factor,U,2,0,0.25,16
+601376990,test_vocab_prune_vectors,Flaky,Traceback Coverage,F,0,0,0.38,16
+601375205,test_vocab_prune_vectors,Non-Flaky,Multi-Factor,F,2,0,0.43,16
+596530486,test_lb_tokenizer_handles_abbr,Non-Flaky,Traceback Coverage,T,0,0,0.17,2
+596530486,test_lb_tokenizer_splits_prefix_interact,Non-Flaky,Traceback Coverage,T,0,0,0.17,2
+596530486,test_lb_tokenizer_splits_suffix_interact,Non-Flaky,Traceback Coverage,T,0,0,0.17,2
+596530486,test_lb_tokenizer_splits_even_wrap_interact,Non-Flaky,Traceback Coverage,T,0,0,0.17,2
+596530486,test_lb_tokenizer_handles_long_text,Non-Flaky,Traceback Coverage,T,0,0,0.17,7
+596530486,test_lb_tokenizer_handles_examples,Non-Flaky,Traceback Coverage,T,0,0,0.17,2
+596528045,test_lb_tokenizer_handles_abbr,Non-Flaky,Traceback Coverage,T,0,0,0.20,2
+596528045,test_lb_tokenizer_splits_prefix_interact,Non-Flaky,Traceback Coverage,T,0,0,0.20,2
+596528045,test_lb_tokenizer_splits_suffix_interact,Non-Flaky,Traceback Coverage,T,0,0,0.20,2
+596528045,test_lb_tokenizer_splits_even_wrap_interact,Non-Flaky,Traceback Coverage,T,0,0,0.20,2
+596528045,test_lb_tokenizer_handles_long_text,Non-Flaky,Traceback Coverage,T,0,0,0.20,7
+596528045,test_lb_tokenizer_handles_long_words,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+596528045,test_lb_tokenizer_handles_examples,Flaky,Traceback Coverage,F,0,0,0.20,2
+596521424,test_lb_tokenizer_handles_abbr,Non-Flaky,Traceback Coverage,T,0,0,0.25,2
+596521424,test_lb_lex_attrs_norm_exceptions,Flaky,Traceback Coverage,F,0,0,0.25,0
+596521424,test_lb_tokenizer_splits_prefix_interact,Non-Flaky,Traceback Coverage,T,0,0,0.25,2
+596521424,test_lb_tokenizer_splits_suffix_interact,Non-Flaky,Traceback Coverage,T,0,0,0.25,2
+596521424,test_lb_tokenizer_splits_even_wrap_interact,Non-Flaky,Traceback Coverage,T,0,0,0.25,2
+596521424,test_lb_tokenizer_handles_long_text,Non-Flaky,Traceback Coverage,T,0,0,0.25,7
+596521424,test_lb_tokenizer_handles_long_words,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+596521424,test_lb_tokenizer_handles_examples,Flaky,Traceback Coverage,F,0,0,0.25,2
+594858430,test_get_architecture,Non-Flaky,Traceback Coverage,T,0,0,0.20,4
+594855566,test_get_architecture,Non-Flaky,Multi-Factor,T,2,0,0.25,4
+594548163,test_pretrain_make_docs,Flaky,Traceback Coverage,F,0,0,0.40,31
+594548163,test_displacy_rtl,Flaky,Traceback Coverage,F,0,0,0.25,16
+594548163,test_roundtrip_docs_to_json,Flaky,Traceback Coverage,F,0,1,0.25,68
+594548163,test_lemmatizer_reflects_lookups_changes,Flaky,Traceback Coverage,F,0,0,0.25,23
+594548163,test_tagger_warns_no_lemma_lookups,Flaky,Traceback Coverage,F,0,0,0.25,13
+594548163,test_empty_doc,Flaky,Traceback Coverage,F,0,0,0.25,2
+594548163,test_single_word,Flaky,Traceback Coverage,F,0,0,0.25,4
+594548163,test_lookup_lemmatization,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_doc_api_has_vector,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_doc_api_similarity_match,Flaky,Traceback Coverage,F,0,0,0.25,7
+594548163,test_pickle_single_doc,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_list_of_docs_pickles_efficiently,Flaky,Traceback Coverage,F,0,1,0.25,11
+594548163,test_user_data_from_disk,Flaky,Traceback Coverage,F,0,0,0.25,6
+594548163,test_user_data_unpickles,Flaky,Traceback Coverage,F,0,0,0.25,6
+594548163,test_hooks_unpickle,Flaky,Traceback Coverage,F,0,0,0.25,8
+594548163,test_doc_retokenize_spans_entity_split_iob,Flaky,Traceback Coverage,F,0,0,0.25,12
+594548163,test_span_similarity_match,Flaky,Traceback Coverage,F,0,0,0.25,7
+594548163,test_doc_token_api_vectors,Flaky,Traceback Coverage,F,0,0,0.25,13
+594548163,test_set_pos,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_token0_has_sent_start_true,Flaky,Traceback Coverage,F,0,0,0.25,4
+594548163,test_lang_initialize,Flaky,Traceback Coverage,F,0,0,0.50,6
+594548163,test_issue768,Flaky,Traceback Coverage,F,0,0,0.25,9
+594548163,test_add_label,Flaky,Traceback Coverage,F,0,1,0.22,14
+594548163,test_get_oracle_actions,Flaky,Traceback Coverage,F,0,0,0.25,16
+594548163,test_accept_blocked_token,Flaky,Traceback Coverage,F,0,0,0.25,40
+594548163,test_overwrite_token,Flaky,Traceback Coverage,F,0,0,0.25,18
+594548163,test_ruler_before_ner,Flaky,Traceback Coverage,F,0,0,0.40,17
+594548163,test_ner_before_ruler,Flaky,Traceback Coverage,F,0,0,0.40,17
+594548163,test_block_ner,Flaky,Traceback Coverage,F,0,0,0.25,13
+594548163,test_beam_parse,Flaky,Traceback Coverage,F,0,0,0.33,6
+594548163,test_sentencizer_across_scripts,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_issue595,Flaky,Traceback Coverage,F,0,0,0.25,13
+594548163,test_issue600,Flaky,Traceback Coverage,F,0,0,0.25,3
+594548163,test_issue743,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_issue850,Flaky,Traceback Coverage,F,0,0,0.33,12
+594548163,test_issue850_basic,Flaky,Traceback Coverage,F,0,0,0.33,11
+594548163,test_issue1061,Flaky,Traceback Coverage,F,0,0,0.25,16
+594548163,test_issue1242,Flaky,Traceback Coverage,F,0,0,0.25,6
+594548163,test_issue1250,Flaky,Traceback Coverage,F,0,0,0.25,8
+594548163,test_issue1257,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_issue1375,Flaky,Traceback Coverage,F,0,0,0.25,8
+594548163,test_issue1387,Flaky,Traceback Coverage,F,0,0,0.25,11
+594548163,test_issue1434,Flaky,Traceback Coverage,F,0,0,0.33,11
+594548163,test_issue1450,Flaky,Traceback Coverage,F,0,0,0.33,10
+594548163,test_issue1488,Flaky,Traceback Coverage,F,0,1,0.25,18
+594548163,test_issue1494,Flaky,Traceback Coverage,F,0,0,0.25,12
+594548163,test_issue1506,Flaky,Traceback Coverage,F,0,1,0.25,19
+594548163,test_issue1537,Flaky,Traceback Coverage,F,0,0,0.25,21
+594548163,test_issue1547,Flaky,Traceback Coverage,F,0,0,0.43,7
+594548163,test_issue1654,Flaky,Traceback Coverage,F,0,0,0.25,12
+594548163,test_issue1757,Flaky,Traceback Coverage,F,0,0,0.25,10
+594548163,test_issue1799,Flaky,Traceback Coverage,F,0,0,0.25,18
+594548163,test_issue1834,Flaky,Traceback Coverage,F,0,0,0.25,14
+594548163,test_issue1883,Flaky,Traceback Coverage,F,0,0,0.33,7
+594548163,test_issue1915,Flaky,Traceback Coverage,F,0,0,0.21,6
+594548163,test_issue1945,Flaky,Traceback Coverage,F,0,0,0.33,8
+594548163,test_issue2179,Flaky,Traceback Coverage,F,0,0,0.19,11
+594548163,test_issue2482,Flaky,Traceback Coverage,F,0,0,0.36,5
+594548163,test_issue2564,Flaky,Traceback Coverage,F,0,0,0.33,11
+594548163,test_issue2671,Flaky,Traceback Coverage,F,0,0,0.33,20
+594548163,test_issue2782,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_issue2800,Flaky,Traceback Coverage,F,0,2,0.17,17
+594548163,test_issue2901,Flaky,Traceback Coverage,F,0,0,0.40,7
+594548163,test_issue3002,Flaky,Traceback Coverage,F,0,0,0.25,6
+594548163,test_issue3199,Flaky,Traceback Coverage,F,0,0,0.25,7
+594548163,test_issue3209,Flaky,Traceback Coverage,F,0,0,0.22,15
+594548163,test_issue3248_1,Flaky,Traceback Coverage,F,0,0,0.25,7
+594548163,test_issue3248_2,Flaky,Traceback Coverage,F,0,0,0.40,8
+594548163,test_issue3289,Flaky,Traceback Coverage,F,0,0,0.30,8
+594548163,test_issue3345,Flaky,Traceback Coverage,F,0,0,0.50,81
+594548163,test_issue3410,Flaky,Traceback Coverage,F,0,0,0.25,12
+594548163,test_issue3456,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_issue3468,Flaky,Traceback Coverage,F,0,0,0.25,13
+594548163,test_issue3531,Flaky,Traceback Coverage,F,0,0,0.25,26
+594548163,test_issue3611,Flaky,Traceback Coverage,F,0,1,0.40,37
+594548163,test_issue3625,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_issue3803,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_issue3869,Flaky,Traceback Coverage,F,0,0,0.25,7
+594548163,test_issue3880,Flaky,Traceback Coverage,F,0,0,0.25,14
+594548163,test_issue3959,Flaky,Traceback Coverage,F,0,0,0.25,16
+594548163,test_issue4030,Flaky,Traceback Coverage,F,0,1,0.33,41
+594548163,test_issue4042,Flaky,Traceback Coverage,F,0,0,0.50,25
+594548163,test_issue4042_bug2,Flaky,Traceback Coverage,F,0,0,0.25,31
+594548163,test_issue4190,Flaky,Traceback Coverage,F,0,0,0.22,17
+594548163,test_issue4267,Flaky,Traceback Coverage,F,0,0,0.25,24
+594548163,test_issue4272,Flaky,Traceback Coverage,F,0,0,0.25,5
+594548163,test_issue4313,Flaky,Traceback Coverage,F,0,0,0.25,24
+594548163,test_issue4348,Flaky,Traceback Coverage,F,0,1,0.25,12
+594548163,test_serialize_doc_bin,Flaky,Traceback Coverage,F,0,0,0.33,10
+594548163,test_serialize_language_meta_disk,Flaky,Traceback Coverage,F,0,0,0.43,5
+594548163,test_serialize_with_custom_tokenizer,Flaky,Traceback Coverage,F,0,0,0.25,18
+594548163,test_serialize_language_exclude,Flaky,Traceback Coverage,F,0,0,0.40,13
+594548163,test_tokenizer_add_special_case_tag,Flaky,Traceback Coverage,F,0,0,0.25,8
+594548161,test_pretrain_make_docs,Non-Flaky,Multi-Factor,T,3,0,0.33,31
+594548161,test_displacy_rtl,Non-Flaky,Multi-Factor,T,3,0,0.20,16
+594548161,test_roundtrip_docs_to_json,Non-Flaky,Multi-Factor,T,3,1,0.20,68
+594548161,test_lemmatizer_reflects_lookups_changes,Non-Flaky,Multi-Factor,T,3,0,0.20,23
+594548161,test_tagger_warns_no_lemma_lookups,Non-Flaky,Multi-Factor,T,3,0,0.20,13
+594548161,test_empty_doc,Flaky,Multi-Factor,T,3,0,0.20,2
+594548161,test_single_word,Non-Flaky,Multi-Factor,T,3,0,0.20,4
+594548161,test_lookup_lemmatization,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_doc_api_has_vector,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_doc_api_similarity_match,Flaky,Multi-Factor,T,3,0,0.20,7
+594548161,test_pickle_single_doc,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_list_of_docs_pickles_efficiently,Flaky,Multi-Factor,T,3,1,0.20,11
+594548161,test_user_data_from_disk,Flaky,Multi-Factor,T,3,0,0.20,6
+594548161,test_user_data_unpickles,Flaky,Multi-Factor,T,3,0,0.20,6
+594548161,test_hooks_unpickle,Flaky,Multi-Factor,T,3,0,0.20,8
+594548161,test_doc_retokenize_spans_entity_split_iob,Non-Flaky,Multi-Factor,T,3,0,0.20,12
+594548161,test_span_similarity_match,Flaky,Multi-Factor,T,3,0,0.20,7
+594548161,test_doc_token_api_vectors,Non-Flaky,Multi-Factor,T,3,0,0.20,13
+594548161,test_set_pos,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_token0_has_sent_start_true,Non-Flaky,Multi-Factor,T,3,0,0.20,4
+594548161,test_lang_initialize,Flaky,Multi-Factor,T,3,0,0.47,6
+594548161,test_issue768,Flaky,Multi-Factor,T,3,0,0.20,9
+594548161,test_add_label,Non-Flaky,Multi-Factor,T,3,1,0.20,14
+594548161,test_get_oracle_actions,Non-Flaky,Multi-Factor,T,3,0,0.20,16
+594548161,test_accept_blocked_token,Non-Flaky,Multi-Factor,T,3,0,0.20,40
+594548161,test_overwrite_token,Non-Flaky,Multi-Factor,T,3,0,0.20,18
+594548161,test_ruler_before_ner,Non-Flaky,Multi-Factor,T,3,0,0.33,17
+594548161,test_ner_before_ruler,Non-Flaky,Multi-Factor,T,3,0,0.33,17
+594548161,test_block_ner,Non-Flaky,Multi-Factor,T,3,0,0.20,13
+594548161,test_beam_parse,Flaky,Multi-Factor,T,3,0,0.31,6
+594548161,test_issue595,Non-Flaky,Multi-Factor,T,3,0,0.22,13
+594548161,test_issue600,Flaky,Multi-Factor,T,3,0,0.20,3
+594548161,test_issue743,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_issue850,Non-Flaky,Multi-Factor,T,3,0,0.29,12
+594548161,test_issue850_basic,Flaky,Multi-Factor,T,3,0,0.29,11
+594548161,test_issue1061,Non-Flaky,Multi-Factor,T,3,0,0.20,16
+594548161,test_issue1242,Flaky,Multi-Factor,T,3,0,0.20,6
+594548161,test_issue1250,Flaky,Multi-Factor,T,3,0,0.20,8
+594548161,test_issue1257,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_issue1375,Flaky,Multi-Factor,T,3,0,0.20,8
+594548161,test_issue1387,Flaky,Multi-Factor,T,3,0,0.22,11
+594548161,test_issue1434,Flaky,Multi-Factor,T,3,0,0.29,11
+594548161,test_issue1450,Non-Flaky,Multi-Factor,T,3,0,0.29,10
+594548161,test_issue1488,Non-Flaky,Multi-Factor,T,3,1,0.20,18
+594548161,test_issue1494,Non-Flaky,Multi-Factor,T,3,0,0.20,12
+594548161,test_issue1506,Flaky,Multi-Factor,T,3,1,0.20,19
+594548161,test_issue1537,Non-Flaky,Multi-Factor,T,3,0,0.20,21
+594548161,test_issue1547,Flaky,Multi-Factor,T,3,0,0.38,7
+594548161,test_issue1654,Non-Flaky,Multi-Factor,T,3,0,0.20,12
+594548161,test_issue1757,Non-Flaky,Multi-Factor,T,3,0,0.20,10
+594548161,test_issue1799,Non-Flaky,Multi-Factor,T,3,0,0.20,18
+594548161,test_issue1834,Non-Flaky,Multi-Factor,T,3,0,0.20,14
+594548161,test_issue1883,Flaky,Multi-Factor,T,3,0,0.29,7
+594548161,test_issue1915,Flaky,Multi-Factor,T,3,0,0.20,6
+594548161,test_issue1945,Flaky,Multi-Factor,T,3,0,0.29,8
+594548161,test_issue2179,Flaky,Multi-Factor,T,3,0,0.19,11
+594548161,test_issue2482,Flaky,Multi-Factor,T,3,0,0.33,5
+594548161,test_issue2564,Flaky,Multi-Factor,T,3,0,0.29,11
+594548161,test_issue2671,Non-Flaky,Multi-Factor,T,3,0,0.29,20
+594548161,test_issue2782,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_issue2800,Non-Flaky,Multi-Factor,T,3,2,0.15,17
+594548161,test_issue2901,Flaky,Multi-Factor,T,3,0,0.33,7
+594548161,test_issue3002,Flaky,Multi-Factor,T,3,0,0.20,6
+594548161,test_issue3199,Flaky,Multi-Factor,T,3,0,0.20,7
+594548161,test_issue3209,Non-Flaky,Multi-Factor,T,3,0,0.21,15
+594548161,test_issue3248_1,Flaky,Multi-Factor,T,3,0,0.20,7
+594548161,test_issue3248_2,Flaky,Multi-Factor,T,3,0,0.33,8
+594548161,test_issue3289,Flaky,Multi-Factor,T,3,0,0.27,8
+594548161,test_issue3345,Non-Flaky,Multi-Factor,T,3,0,0.43,81
+594548161,test_issue3410,Non-Flaky,Multi-Factor,T,3,0,0.20,12
+594548161,test_issue3456,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_issue3468,Non-Flaky,Multi-Factor,T,3,0,0.20,13
+594548161,test_issue3531,Non-Flaky,Multi-Factor,T,3,0,0.20,26
+594548161,test_issue3611,Non-Flaky,Multi-Factor,T,3,1,0.33,37
+594548161,test_issue3625,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_issue3803,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_issue3869,Flaky,Multi-Factor,T,3,0,0.20,7
+594548161,test_issue3880,Non-Flaky,Multi-Factor,T,3,0,0.20,14
+594548161,test_issue3959,Non-Flaky,Multi-Factor,T,3,0,0.20,16
+594548161,test_issue4030,Non-Flaky,Multi-Factor,T,3,1,0.29,41
+594548161,test_issue4042,Non-Flaky,Multi-Factor,T,3,0,0.43,25
+594548161,test_issue4042_bug2,Non-Flaky,Multi-Factor,T,3,0,0.20,31
+594548161,test_issue4190,Non-Flaky,Multi-Factor,T,3,0,0.20,17
+594548161,test_issue4267,Non-Flaky,Multi-Factor,T,3,0,0.20,24
+594548161,test_issue4272,Flaky,Multi-Factor,T,3,0,0.20,5
+594548161,test_issue4313,Non-Flaky,Multi-Factor,T,3,0,0.20,24
+594548161,test_issue4348,Non-Flaky,Multi-Factor,T,3,1,0.20,12
+594548161,test_serialize_doc_bin,Non-Flaky,Multi-Factor,T,3,0,0.29,10
+594548161,test_serialize_language_meta_disk,Flaky,Multi-Factor,T,3,0,0.38,5
+594548161,test_serialize_with_custom_tokenizer,Non-Flaky,Multi-Factor,T,3,0,0.20,18
+594548161,test_serialize_language_exclude,Non-Flaky,Multi-Factor,T,3,0,0.33,13
+594548161,test_tokenizer_add_special_case_tag,Flaky,Multi-Factor,T,3,0,0.20,8
+593978174,test_language_pipe,Non-Flaky,Traceback Coverage,T,0,0,0.17,5
+593938542,test_language_pipe,Non-Flaky,Traceback Coverage,T,0,0,0.20,5
+593906488,test_language_pipe,Non-Flaky,Traceback Coverage,T,0,0,0.25,5
+593013950,test_serialize_doc_bin,Non-Flaky,Traceback Coverage,T,0,0,0.20,10
+593013279,test_serialize_doc_bin,Non-Flaky,Traceback Coverage,T,0,0,0.25,10
+592805909,test_vocab_prune_vectors,Non-Flaky,Traceback Coverage,T,0,0,0.33,16
+591480430,test_tokenizer_special_cases_with_affixes,Flaky,Traceback Coverage,F,0,0,0.25,0
+590885688,test_issue3248_2,Non-Flaky,Traceback Coverage,T,0,0,0.25,8
+589391538,test_doc_add_entities_set_ents_iob,Missing factors,Multi-Factor,F,2,0,0.26,0
+588959706,test_phrase_matcher_remove,Non-Flaky,Traceback Coverage,T,0,0,0.25,24
+588959706,test_ruler_before_ner,Flaky,Traceback Coverage,F,0,0,0.25,17
+588959706,test_ner_before_ruler,Flaky,Traceback Coverage,F,0,0,0.25,17
+588959706,test_entity_ruler_entity_id,Flaky,Traceback Coverage,F,0,0,0.40,6
+588959706,test_entity_ruler_cfg_ent_id_sep,Flaky,Traceback Coverage,F,0,0,0.25,7
+588933151,test_preserving_links_asdoc,Flaky,Traceback Coverage,F,0,0,0.50,34
+588933151,test_issue3345,Flaky,Traceback Coverage,F,0,0,0.40,81
+587536678,test_tokenizer_validate_special_case,Flaky,Traceback Coverage,F,0,0,0.25,0
+587055523,test_doc_add_entities_set_ents_iob,Missing factors,Multi-Factor,F,1,0,0.22,0
+586969011,test_doc_add_entities_set_ents_iob,Non-Flaky,Traceback Coverage,T,0,0,0.24,10
+586774467,test_doc_add_entities_set_ents_iob,Flaky,Multi-Factor,F,1,0,0.19,10
+586758543,test_doc_add_entities_set_ents_iob,Flaky,Multi-Factor,F,1,0,0.20,10
+586718063,test_doc_add_entities_set_ents_iob,Flaky,Multi-Factor,F,1,0,0.21,10
+586711455,test_doc_add_entities_set_ents_iob,Flaky,Traceback Coverage,F,0,0,0.23,10
+586706422,test_doc_add_entities_set_ents_iob,Flaky,Traceback Coverage,F,0,0,0.25,10
+586421779,test_multiple_predictions,Non-Flaky,Traceback Coverage,T,0,0,0.25,3
+586413345,test_issue4030,Non-Flaky,Traceback Coverage,T,0,1,0.20,42
+586345718,test_issue4030,Non-Flaky,Traceback Coverage,T,0,1,0.25,42
+584947765,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.16,11
+584947765,test_issue2482,Non-Flaky,Traceback Coverage,T,0,0,0.30,5
+584947765,test_issue3209,Non-Flaky,Traceback Coverage,T,0,0,0.18,15
+584947765,test_issue3289,Non-Flaky,Traceback Coverage,T,0,0,0.22,8
+584947765,test_entity_ruler_in_pipeline_from_issue,Non-Flaky,Traceback Coverage,T,0,0,0.22,13
+584947765,test_issue4054,Non-Flaky,Traceback Coverage,T,0,0,0.27,18
+584947765,test_issue4133,Non-Flaky,Traceback Coverage,T,0,0,0.22,17
+584947765,test_issue4190,Non-Flaky,Traceback Coverage,T,0,0,0.12,17
+584947765,test_serialize_parser_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.33,11
+584947765,test_serialize_tagger_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.27,9
+584947765,test_serialize_tensorizer_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.27,9
+584947765,test_serialize_custom_tokenizer,Non-Flaky,Traceback Coverage,T,0,0,0.22,5
+584947763,test_issue2179,Flaky,Multi-Factor,F,1,0,0.17,11
+584947763,test_issue2482,Flaky,Multi-Factor,F,1,0,0.33,5
+584947763,test_issue3209,Non-Flaky,Multi-Factor,F,1,0,0.19,15
+584947763,test_issue3289,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+584947763,test_entity_ruler_in_pipeline_from_issue,Non-Flaky,Multi-Factor,F,1,0,0.25,13
+584947763,test_issue4054,Non-Flaky,Multi-Factor,F,1,0,0.30,18
+584947763,test_issue4133,Non-Flaky,Multi-Factor,F,1,0,0.25,17
+584947763,test_issue4190,Non-Flaky,Multi-Factor,F,1,0,0.14,17
+584947763,test_serialize_parser_roundtrip_disk,Flaky,Multi-Factor,F,1,0,0.36,11
+584947763,test_serialize_tagger_roundtrip_disk,Flaky,Multi-Factor,F,1,0,0.30,9
+584947763,test_serialize_tensorizer_roundtrip_disk,Flaky,Multi-Factor,F,1,0,0.30,9
+584947763,test_serialize_custom_tokenizer,Flaky,Multi-Factor,F,1,0,0.25,5
+584945987,test_lt_lemmatizer,Non-Flaky,Traceback Coverage,T,0,0,0.29,1
+584945987,test_nl_lemmatizer_noun_lemmas_irreg,Non-Flaky,Traceback Coverage,T,0,0,0.33,3
+584945987,test_nl_lemmatizer_verb_lemmas_irreg,Non-Flaky,Traceback Coverage,T,0,0,0.33,3
+584945987,test_nl_lemmatizer_lookup_noun,Non-Flaky,Traceback Coverage,T,0,0,0.20,2
+584945987,test_nl_lemmatizer_lookup_verb,Non-Flaky,Traceback Coverage,T,0,0,0.20,2
+584945987,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.18,11
+584945987,test_issue2482,Non-Flaky,Traceback Coverage,T,0,0,0.43,5
+584945987,test_issue3209,Non-Flaky,Traceback Coverage,T,0,0,0.21,15
+584945987,test_issue3289,Non-Flaky,Traceback Coverage,T,0,0,0.33,8
+584945987,test_entity_ruler_in_pipeline_from_issue,Non-Flaky,Traceback Coverage,T,0,0,0.33,13
+584945987,test_issue4054,Non-Flaky,Traceback Coverage,T,0,0,0.38,18
+584945987,test_issue4133,Non-Flaky,Traceback Coverage,T,0,0,0.33,17
+584945987,test_issue4190,Non-Flaky,Traceback Coverage,T,0,0,0.20,17
+584945987,test_serialize_parser_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.44,11
+584945987,test_serialize_tagger_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.38,9
+584945987,test_serialize_tensorizer_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.38,9
+584945987,test_serialize_custom_tokenizer,Non-Flaky,Traceback Coverage,T,0,0,0.33,5
+584945983,test_lt_lemmatizer,Flaky,Multi-Factor,F,2,0,0.25,1
+584945983,test_nl_lemmatizer_noun_lemmas_irreg,Flaky,Multi-Factor,F,2,0,0.29,3
+584945983,test_nl_lemmatizer_verb_lemmas_irreg,Flaky,Multi-Factor,F,2,0,0.29,3
+584945983,test_nl_lemmatizer_lookup_noun,Flaky,Multi-Factor,F,2,0,0.17,2
+584945983,test_nl_lemmatizer_lookup_verb,Flaky,Multi-Factor,F,2,0,0.17,2
+584945983,test_issue2179,Flaky,Multi-Factor,F,2,0,0.17,11
+584945983,test_issue2482,Flaky,Multi-Factor,F,2,0,0.38,5
+584945983,test_issue3209,Non-Flaky,Multi-Factor,F,2,0,0.20,15
+584945983,test_issue3289,Flaky,Multi-Factor,F,2,0,0.29,8
+584945983,test_entity_ruler_in_pipeline_from_issue,Non-Flaky,Multi-Factor,F,2,0,0.29,13
+584945983,test_issue4054,Non-Flaky,Multi-Factor,F,2,0,0.33,18
+584945983,test_issue4133,Flaky,Multi-Factor,F,2,0,0.29,17
+584945983,test_issue4190,Flaky,Multi-Factor,F,2,0,0.17,17
+584945983,test_serialize_parser_roundtrip_disk,Flaky,Multi-Factor,F,2,0,0.40,11
+584945983,test_serialize_tagger_roundtrip_disk,Flaky,Multi-Factor,F,2,0,0.33,9
+584945983,test_serialize_tensorizer_roundtrip_disk,Flaky,Multi-Factor,F,2,0,0.33,9
+584945983,test_serialize_custom_tokenizer,Flaky,Multi-Factor,F,2,0,0.29,5
+584942770,test_lt_lemmatizer,Flaky,Multi-Factor,F,2,0,0.33,1
+584942770,test_nl_lemmatizer_noun_lemmas_irreg,Flaky,Multi-Factor,F,2,0,0.40,3
+584942770,test_nl_lemmatizer_verb_lemmas_irreg,Flaky,Multi-Factor,F,2,0,0.40,3
+584942770,test_nl_lemmatizer_lookup_noun,Flaky,Multi-Factor,F,2,0,0.25,2
+584942770,test_nl_lemmatizer_lookup_verb,Flaky,Multi-Factor,F,2,0,0.25,2
+584942770,test_issue2179,Flaky,Multi-Factor,F,2,0,0.19,11
+584942770,test_issue2482,Flaky,Multi-Factor,F,2,0,0.50,5
+584942770,test_issue3209,Non-Flaky,Multi-Factor,F,2,0,0.23,15
+584942770,test_issue3289,Flaky,Multi-Factor,F,2,0,0.40,8
+584942770,test_entity_ruler_in_pipeline_from_issue,Non-Flaky,Multi-Factor,F,2,0,0.40,13
+584942770,test_issue4054,Non-Flaky,Multi-Factor,F,2,0,0.43,18
+584942770,test_issue4133,Flaky,Multi-Factor,F,2,0,0.40,17
+584942770,test_issue4190,Flaky,Multi-Factor,F,2,0,0.25,17
+584942770,test_serialize_parser_roundtrip_disk,Flaky,Multi-Factor,F,2,0,0.50,11
+584942770,test_serialize_tagger_roundtrip_disk,Flaky,Multi-Factor,F,2,0,0.43,9
+584942770,test_serialize_tensorizer_roundtrip_disk,Flaky,Multi-Factor,F,2,0,0.43,9
+584942770,test_serialize_custom_tokenizer,Flaky,Multi-Factor,F,2,0,0.40,5
+582543517,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.47,6
+582337222,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.44,6
+579648420,test_issue1547,Flaky,Traceback Coverage,F,0,0,0.33,7
+578759522,test_issue4054,Non-Flaky,Multi-Factor,F,1,0,0.33,18
+578733778,test_issue4054,Non-Flaky,Multi-Factor,F,1,0,0.40,18
+578505918,test_add_label_deserializes_correctly,Non-Flaky,Traceback Coverage,T,0,1,0.25,9
+578505918,test_issue1727,Non-Flaky,Traceback Coverage,T,0,0,0.38,13
+578505918,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.15,11
+578505918,test_issue2482,Non-Flaky,Traceback Coverage,T,0,0,0.40,5
+578505918,test_issue3209,Non-Flaky,Traceback Coverage,T,0,0,0.17,15
+578505918,test_issue3289,Non-Flaky,Traceback Coverage,T,0,0,0.25,8
+578505918,test_entity_ruler_in_pipeline_from_issue,Non-Flaky,Traceback Coverage,T,0,0,0.25,13
+578505918,test_issue4054,Non-Flaky,Traceback Coverage,T,0,0,0.25,18
+578505918,test_issue4133,Non-Flaky,Traceback Coverage,T,0,0,0.25,17
+578505918,test_serialize_language_meta_disk,Non-Flaky,Traceback Coverage,T,0,0,0.33,5
+578505918,test_serialize_language_exclude,Non-Flaky,Traceback Coverage,T,0,0,0.25,13
+578505918,test_serialize_parser_roundtrip_bytes,Non-Flaky,Traceback Coverage,T,0,0,0.43,6
+578505918,test_serialize_parser_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.43,11
+578505918,test_to_from_bytes,Non-Flaky,Traceback Coverage,T,0,0,0.40,7
+578505918,test_serialize_tagger_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.33,9
+578505918,test_serialize_tensorizer_roundtrip_bytes,Non-Flaky,Traceback Coverage,T,0,0,0.33,5
+578505918,test_serialize_tensorizer_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.33,7
+578505918,test_serialize_pipe_exclude,Non-Flaky,Traceback Coverage,T,0,0,0.25,17
+578505918,test_serialize_custom_tokenizer,Non-Flaky,Traceback Coverage,T,0,0,0.25,5
+578505918,test_serialize_vocab,Non-Flaky,Traceback Coverage,T,0,0,0.25,4
+578505918,test_serialize_vocab_roundtrip_bytes,Non-Flaky,Traceback Coverage,T,0,0,0.25,14
+578505918,test_serialize_vocab_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.33,15
+578505918,test_serialize_vocab_lex_attrs_bytes,Non-Flaky,Traceback Coverage,T,0,0,0.25,7
+578505918,test_deserialize_vocab_seen_entries,Non-Flaky,Traceback Coverage,T,0,0,0.25,5
+578505918,test_serialize_vocab_lex_attrs_disk,Non-Flaky,Traceback Coverage,T,0,0,0.33,10
+577904584,test_displacy_parse_deps,Non-Flaky,Multi-Factor,F,1,0,0.29,20
+576542221,test_displacy_parse_deps,Non-Flaky,Multi-Factor,F,1,0,0.23,20
+576541781,test_displacy_parse_deps,Non-Flaky,Multi-Factor,T,1,0,0.25,20
+576529032,test_displacy_parse_deps,Flaky,Traceback Coverage,F,0,0,0.33,20
+576529032,test_doc_retokenize_spans_entity_merge,Non-Flaky,Traceback Coverage,T,0,0,0.27,18
+576529032,test_issue3009,Flaky,Traceback Coverage,F,0,0,0.38,26
+576528875,test_displacy_parse_deps,Flaky,Traceback Coverage,F,0,0,0.27,20
+576528875,test_doc_retokenize_spans_entity_merge,Non-Flaky,Traceback Coverage,T,0,0,0.23,18
+576528875,test_issue3009,Flaky,Traceback Coverage,F,0,0,0.33,26
+576528847,test_displacy_parse_deps,Non-Flaky,Multi-Factor,F,1,0,0.30,20
+576528847,test_doc_retokenize_spans_entity_merge,Non-Flaky,Multi-Factor,F,1,0,0.25,18
+576528847,test_issue3009,Non-Flaky,Multi-Factor,F,1,0,0.36,26
+576430627,test_displacy_parse_deps,Flaky,Traceback Coverage,F,0,0,0.38,20
+576430627,test_doc_retokenize_spans_entity_merge,Non-Flaky,Traceback Coverage,T,0,0,0.30,18
+576430627,test_issue3009,Flaky,Traceback Coverage,F,0,0,0.42,26
+576430612,test_displacy_parse_deps,Non-Flaky,Multi-Factor,F,1,0,0.43,20
+576430612,test_doc_retokenize_spans_entity_merge,Non-Flaky,Multi-Factor,F,1,0,0.33,18
+576430612,test_issue3009,Non-Flaky,Multi-Factor,F,1,0,0.45,26
+575024280,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.17,18
+574982413,test_lookups_api,Non-Flaky,Multi-Factor,U,1,0,0.20,18
+574915159,test_lookups_api,Non-Flaky,Multi-Factor,F,1,0,0.25,18
+574910059,test_da_lemmatizer_lookup_assigns,Flaky,Multi-Factor,U,1,0,0.20,2
+574910059,test_de_lemmatizer_lookup_assigns,Flaky,Multi-Factor,U,1,0,0.20,2
+574910059,test_fr_lemmatizer_verb,Flaky,Multi-Factor,U,1,0,0.20,4
+574910059,test_fr_lemmatizer_noun_verb_2,Flaky,Multi-Factor,U,1,0,0.20,2
+574910059,test_fr_lemmatizer_noun_2,Flaky,Multi-Factor,U,1,0,0.20,3
+574910059,test_lt_lemmatizer,Flaky,Multi-Factor,U,1,0,0.20,1
+574910059,test_nl_lemmatizer_noun_lemmas_irreg,Flaky,Multi-Factor,U,1,0,0.25,3
+574910059,test_nl_lemmatizer_verb_lemmas_irreg,Flaky,Multi-Factor,U,1,0,0.25,3
+574910059,test_ro_lemmatizer_lookup_assigns,Flaky,Multi-Factor,U,1,0,0.20,2
+574910059,test_lemmatizer_lookup_assigns,Flaky,Multi-Factor,U,1,0,0.43,2
+574910059,test_tr_lemmatizer_lookup_assigns,Flaky,Multi-Factor,U,1,0,0.20,2
+574888138,test_lang_initialize,Flaky,Multi-Factor,T,2,0,0.40,6
+574888138,test_da_lemmatizer_lookup_assigns,Flaky,Multi-Factor,F,2,0,0.25,2
+574888138,test_de_lemmatizer_lookup_assigns,Flaky,Multi-Factor,F,2,0,0.25,2
+574888138,test_fr_lemmatizer_verb,Flaky,Multi-Factor,F,2,0,0.25,4
+574888138,test_fr_lemmatizer_noun_verb_2,Flaky,Multi-Factor,F,2,0,0.25,2
+574888138,test_fr_lemmatizer_noun_2,Flaky,Multi-Factor,F,2,0,0.25,3
+574888138,test_lt_lemmatizer,Flaky,Multi-Factor,F,2,0,0.25,1
+574888138,test_ro_lemmatizer_lookup_assigns,Flaky,Multi-Factor,F,2,0,0.25,2
+574888138,test_lemmatizer_lookup_assigns,Flaky,Multi-Factor,F,2,0,0.50,2
+574888138,test_tr_lemmatizer_lookup_assigns,Flaky,Multi-Factor,F,2,0,0.25,2
+574844217,test_displacy_parse_deps,Flaky,Traceback Coverage,F,0,0,0.33,20
+574844217,test_doc_retokenize_spans_entity_merge,Flaky,Traceback Coverage,F,0,0,0.25,18
+574844217,test_issue3009,Flaky,Traceback Coverage,F,0,0,0.40,26
+574342350,test_attr_pipeline_checks,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+567273975,test_issue4042,Non-Flaky,Traceback Coverage,T,0,0,0.40,0
+566993141,test_issue4042,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+562768897,test_docs_to_json_roundtrip,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+559075621,test_pl_lemmatizer_lookup,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+559062537,test_pl_lemmatizer_lookup,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+557914173,test_vocab_api_symbols,Flaky,Multi-Factor,F,2,0,0.20,1
+557913789,test_vocab_api_symbols,Flaky,Traceback Coverage,F,0,0,0.25,1
+557372525,test_issue3611,Non-Flaky,Traceback Coverage,T,0,1,0.25,34
+557248081,test_lt_tokenizer_handles_long_text,Flaky,Traceback Coverage,F,0,0,0.20,3
+557247828,test_lt_tokenizer_handles_long_text,Non-Flaky,Traceback Coverage,T,0,0,0.25,5
+554181925,test_issue2901,Non-Flaky,Traceback Coverage,T,0,0,0.25,7
+554168375,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.36,6
+554151846,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.38,6
+554077784,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.42,6
+553427855,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.36,6
+553414257,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.40,6
+553261295,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.44,6
+553260224,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.50,6
+551639506,test_preserving_links_asdoc,Non-Flaky,Traceback Coverage,T,0,0,0.40,32
+550296081,test_preserving_links_asdoc,Non-Flaky,Traceback Coverage,T,0,0,0.25,32
+547663105,test_serialize_kb_disk,Non-Flaky,Traceback Coverage,T,0,0,0.20,14
+547657774,test_serialize_kb_disk,Non-Flaky,Traceback Coverage,T,0,0,0.25,14
+545085451,test_pretrain_make_docs,Non-Flaky,Traceback Coverage,T,0,0,0.25,31
+534145313,test_tokenizer_handles_testcases,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+531253452,test_doc_to_json_underscore_error_serialize,Non-Flaky,Traceback Coverage,T,0,0,0.17,5
+531253452,test_token_underscore_method,Non-Flaky,Traceback Coverage,T,0,0,0.17,4
+531253452,test_serialize_ext_attrs_from_bytes,Non-Flaky,Traceback Coverage,T,0,0,0.17,6
+531253417,test_doc_to_json_underscore_error_serialize,Flaky,Traceback Coverage,F,0,0,0.14,5
+531253417,test_token_underscore_method,Flaky,Traceback Coverage,F,0,0,0.14,4
+531253417,test_serialize_ext_attrs_from_bytes,Flaky,Traceback Coverage,F,0,0,0.14,6
+531251841,test_doc_to_json_underscore_error_serialize,Non-Flaky,Traceback Coverage,T,0,0,0.20,5
+531251841,test_token_underscore_method,Non-Flaky,Traceback Coverage,T,0,0,0.20,4
+531251841,test_serialize_ext_attrs_from_bytes,Non-Flaky,Traceback Coverage,T,0,0,0.20,6
+531251831,test_doc_to_json_underscore_error_serialize,Non-Flaky,Traceback Coverage,T,0,0,0.25,5
+531251831,test_token_underscore_method,Non-Flaky,Traceback Coverage,T,0,0,0.25,4
+531251831,test_serialize_ext_attrs_from_bytes,Non-Flaky,Traceback Coverage,T,0,0,0.25,6
+529992511,test_lemmatizer_lookup_assigns,Flaky,Traceback Coverage,F,0,0,0.40,0
+523690902,test_entity_ruler_init,Non-Flaky,Traceback Coverage,T,0,0,0.38,10
+523690902,test_entity_ruler_existing,Non-Flaky,Traceback Coverage,T,0,0,0.38,7
+523690902,test_entity_ruler_existing_overwrite,Non-Flaky,Traceback Coverage,T,0,0,0.38,8
+523690902,test_entity_ruler_existing_complex,Non-Flaky,Traceback Coverage,T,0,0,0.38,9
+523690902,test_entity_ruler_entity_id,Non-Flaky,Traceback Coverage,T,0,0,0.25,6
+523690902,test_issue3345,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+521399016,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.43,6
+521399016,test_lemmatizer_lookup_assigns,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+520253329,test_create_symlink_windows,Non-Flaky,Traceback Coverage,T,0,0,0.25,14
+510286081,test_add_label,Non-Flaky,Traceback Coverage,T,0,1,0.12,14
+510286077,test_add_label,Non-Flaky,Multi-Factor,T,1,1,0.14,14
+510280237,test_add_label,Flaky,Traceback Coverage,F,0,1,0.17,14
+510280215,test_add_label,Non-Flaky,Multi-Factor,F,2,1,0.20,14
+510279948,test_add_label,Non-Flaky,Multi-Factor,F,2,1,0.25,14
+509972125,test_dependency_tree_matcher,Non-Flaky,Traceback Coverage,T,0,0,0.33,0
+509902469,test_kb_valid_entities,Non-Flaky,Traceback Coverage,T,0,0,0.17,0
+509902469,test_kb_invalid_entities,Non-Flaky,Traceback Coverage,T,0,0,0.17,0
+509902469,test_kb_invalid_probabilities,Non-Flaky,Traceback Coverage,T,0,0,0.17,0
+509902469,test_kb_invalid_combination,Non-Flaky,Traceback Coverage,T,0,0,0.17,0
+509902469,test_candidate_generation,Non-Flaky,Traceback Coverage,T,0,0,0.17,0
+509899864,test_kb_valid_entities,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+509899864,test_kb_invalid_entities,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+509899864,test_kb_invalid_probabilities,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+509899864,test_kb_invalid_combination,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+509899864,test_candidate_generation,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+509898897,test_kb_valid_entities,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+509898897,test_kb_invalid_entities,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+509898897,test_kb_invalid_probabilities,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+509898897,test_kb_invalid_combination,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+509898897,test_candidate_generation,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+509425029,test_issue3009,Flaky,Traceback Coverage,F,0,0,0.33,0
+509420639,test_issue3009,Flaky,Multi-Factor,F,2,0,0.38,4
+506782029,test_lang_initialize,Flaky,Traceback Coverage,F,0,0,0.33,6
+506448084,test_cli_converters_conllu2json,Non-Flaky,Traceback Coverage,T,0,0,0.25,21
+504737468,test_token_api_conjuncts_chain,Flaky,Traceback Coverage,F,0,0,0.20,7
+504737468,test_token_api_conjuncts_simple,Flaky,Traceback Coverage,F,0,0,0.20,6
+504737468,test_token_api_non_conjuncts,Flaky,Traceback Coverage,F,0,0,0.20,6
+504737420,test_token_api_conjuncts_chain,Flaky,Multi-Factor,F,2,0,0.25,7
+504737420,test_token_api_conjuncts_simple,Flaky,Multi-Factor,F,2,0,0.25,6
+504737420,test_token_api_non_conjuncts,Flaky,Multi-Factor,F,2,0,0.25,6
+504463178,test_en_parser_noun_chunks_dative,Non-Flaky,Multi-Factor,F,1,0,0.12,13
+504463158,test_en_parser_noun_chunks_dative,Non-Flaky,Multi-Factor,F,1,0,0.14,13
+504463131,test_en_parser_noun_chunks_dative,Non-Flaky,Multi-Factor,F,1,0,0.11,13
+504460506,test_en_parser_noun_chunks_dative,Non-Flaky,Multi-Factor,F,1,0,0.17,13
+504456153,test_en_parser_noun_chunks_dative,Non-Flaky,Multi-Factor,F,2,0,0.20,13
+504446491,test_en_parser_noun_chunks_dative,Flaky,Traceback Coverage,F,0,0,0.25,13
+504375736,test_issue1915,Non-Flaky,Traceback Coverage,T,0,0,0.17,6
+504375736,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.11,11
+504375736,test_issue2800,Non-Flaky,Traceback Coverage,T,0,2,0.10,17
+504375736,test_issue3209,Non-Flaky,Traceback Coverage,T,0,0,0.10,15
+504375730,test_issue1915,Flaky,Multi-Factor,F,1,0,0.15,6
+504375730,test_issue2179,Flaky,Multi-Factor,F,1,0,0.11,11
+504375730,test_issue2800,Non-Flaky,Multi-Factor,F,1,2,0.09,17
+504375730,test_issue3209,Non-Flaky,Multi-Factor,F,1,0,0.09,15
+504374934,test_issue1915,Non-Flaky,Traceback Coverage,T,0,0,0.18,6
+504374934,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.12,11
+504374934,test_issue2800,Non-Flaky,Traceback Coverage,T,0,2,0.11,17
+504374934,test_issue3209,Non-Flaky,Traceback Coverage,T,0,0,0.11,15
+504374922,test_issue1915,Flaky,Multi-Factor,F,1,0,0.20,6
+504374922,test_issue2179,Flaky,Multi-Factor,F,1,0,0.12,11
+504374922,test_issue2800,Non-Flaky,Multi-Factor,F,1,2,0.12,17
+504374922,test_issue3209,Non-Flaky,Multi-Factor,F,1,0,0.12,15
+504372910,test_issue1915,Flaky,Traceback Coverage,F,0,0,0.25,6
+504372910,test_issue2179,Flaky,Traceback Coverage,F,0,0,0.14,11
+504372910,test_issue2800,Flaky,Traceback Coverage,F,0,2,0.17,17
+504372910,test_issue3209,Flaky,Traceback Coverage,F,0,0,0.17,15
+504372903,test_issue1915,Flaky,Multi-Factor,F,1,0,0.22,6
+504372903,test_issue2179,Flaky,Multi-Factor,F,1,0,0.13,11
+504372903,test_issue2800,Non-Flaky,Multi-Factor,F,1,2,0.14,17
+504372903,test_issue3209,Non-Flaky,Multi-Factor,F,1,0,0.14,15
+504371102,test_issue1915,Flaky,Traceback Coverage,F,0,0,0.29,6
+504371102,test_issue2179,Flaky,Traceback Coverage,F,0,0,0.15,11
+504371102,test_issue2800,Flaky,Traceback Coverage,F,0,2,0.20,17
+504371102,test_issue3209,Flaky,Traceback Coverage,F,0,0,0.20,15
+504369522,test_issue1915,Flaky,Multi-Factor,T,2,0,0.33,6
+504369522,test_issue2179,Flaky,Multi-Factor,T,2,0,0.17,11
+504369522,test_issue2800,Non-Flaky,Multi-Factor,T,2,2,0.25,17
+504369522,test_issue3209,Non-Flaky,Multi-Factor,T,2,0,0.25,15
+504329613,test_doc_array_to_from_string_attrs,Flaky,Multi-Factor,F,1,0,0.14,6
+504328678,test_doc_array_to_from_string_attrs,Flaky,Multi-Factor,F,2,0,0.17,6
+504318120,test_doc_array_to_from_string_attrs,Flaky,Multi-Factor,F,1,0,0.20,6
+504315678,test_doc_array_to_from_string_attrs,Flaky,Traceback Coverage,F,0,0,0.25,6
+503212762,test_doc_retokenize_spans_entity_merge,Non-Flaky,Traceback Coverage,T,0,0,0.14,18
+503212762,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.20,6
+503212762,test_de_parser_noun_chunks_standard_de,Non-Flaky,Traceback Coverage,T,0,0,0.20,12
+503212762,test_de_extended_chunk,Non-Flaky,Traceback Coverage,T,0,0,0.20,13
+503212762,test_add_morphology_with_int_ids,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+503212762,test_add_morphology_with_mix_strings_and_ints,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+503212762,test_issue595,Non-Flaky,Traceback Coverage,T,0,0,0.14,10
+503212762,test_issue1387,Non-Flaky,Traceback Coverage,T,0,0,0.14,10
+503212740,test_doc_retokenize_spans_entity_merge,Non-Flaky,Traceback Coverage,T,0,0,0.17,18
+503212740,test_lang_initialize,Non-Flaky,Traceback Coverage,T,0,0,0.25,6
+503212740,test_de_parser_noun_chunks_standard_de,Non-Flaky,Traceback Coverage,T,0,0,0.25,12
+503212740,test_de_extended_chunk,Non-Flaky,Traceback Coverage,T,0,0,0.25,13
+503212740,test_add_morphology_with_int_ids,Non-Flaky,Traceback Coverage,T,0,0,0.25,1
+503212740,test_add_morphology_with_mix_strings_and_ints,Non-Flaky,Traceback Coverage,T,0,0,0.25,1
+503212740,test_issue595,Non-Flaky,Traceback Coverage,T,0,0,0.17,10
+503212740,test_issue1387,Non-Flaky,Traceback Coverage,T,0,0,0.17,10
+503042456,test_roundtrip_offsets_biluo_conversion,Flaky,Traceback Coverage,F,0,0,0.20,8
+503042456,test_biluo_spans,Flaky,Traceback Coverage,F,0,0,0.20,8
+503042456,test_displacy_parse_ents,Flaky,Traceback Coverage,F,0,0,0.20,7
+503042456,test_displacy_parse_deps,Flaky,Traceback Coverage,F,0,0,0.20,20
+503042456,test_displacy_spans,Flaky,Traceback Coverage,F,0,0,0.20,5
+503042456,test_displacy_render_wrapper,Flaky,Traceback Coverage,F,0,0,0.20,9
+503042456,test_doc_api_set_ents,Flaky,Traceback Coverage,F,0,0,0.20,9
+503042456,test_doc_retokenize_retokenizer_attrs,Flaky,Traceback Coverage,F,0,0,0.20,9
+503042456,test_doc_retokenize_spans_merge_tokens,Flaky,Traceback Coverage,F,0,0,0.20,14
+503042456,test_doc_retokenize_spans_entity_merge,Flaky,Traceback Coverage,F,0,0,0.20,18
+503042456,test_spans_by_character,Flaky,Traceback Coverage,F,0,0,0.20,5
+503042456,test_span_ents_property,Flaky,Traceback Coverage,F,0,0,0.20,26
+503042456,test_da_tokenizer_handles_posessives_and_contractions,Flaky,Traceback Coverage,F,0,0,0.20,29
+503042456,test_matcher_phrase_matcher,Flaky,Traceback Coverage,F,0,0,0.29,5
+503042456,test_phrase_matcher_string_attrs,Flaky,Traceback Coverage,F,0,0,0.29,14
+503042456,test_phrase_matcher_string_attrs_negative,Flaky,Traceback Coverage,F,0,0,0.29,11
+503042456,test_phrase_matcher_bool_attrs,Flaky,Traceback Coverage,F,0,0,0.29,16
+503042456,test_phrase_matcher_validation,Flaky,Traceback Coverage,F,0,0,0.20,17
+503042456,test_get_oracle_moves,Flaky,Traceback Coverage,F,0,0,0.20,5
+503042456,test_get_oracle_moves_negative_entities,Flaky,Traceback Coverage,F,0,0,0.20,9
+503042456,test_get_oracle_moves_negative_entities2,Flaky,Traceback Coverage,F,0,0,0.20,7
+503042456,test_get_oracle_moves_negative_O,Flaky,Traceback Coverage,F,0,0,0.20,7
+503042456,test_beam_parse,Flaky,Traceback Coverage,F,0,0,0.27,6
+503042456,test_parser_pseudoprojectivity,Flaky,Traceback Coverage,F,0,0,0.20,63
+503042456,test_entity_ruler_init,Flaky,Traceback Coverage,F,0,0,0.29,10
+503042456,test_entity_ruler_existing,Flaky,Traceback Coverage,F,0,0,0.29,7
+503042456,test_entity_ruler_existing_overwrite,Flaky,Traceback Coverage,F,0,0,0.29,8
+503042456,test_entity_ruler_existing_complex,Flaky,Traceback Coverage,F,0,0,0.29,9
+503042456,test_issue118,Flaky,Traceback Coverage,F,0,0,0.29,17
+503042456,test_issue118_prefix_reorder,Flaky,Traceback Coverage,F,0,0,0.29,17
+503042456,test_issue595,Non-Flaky,Traceback Coverage,T,0,0,0.20,10
+503042456,test_issue1387,Non-Flaky,Traceback Coverage,T,0,0,0.20,10
+503042456,test_issue1547,Flaky,Traceback Coverage,F,0,0,0.20,7
+503042456,test_issue2569,Flaky,Traceback Coverage,F,0,0,0.29,10
+503042456,test_issue2871,Flaky,Traceback Coverage,F,0,0,0.20,16
+503042456,test_issue3012,Flaky,Traceback Coverage,F,0,0,0.20,18
+503042456,test_issue3288,Flaky,Traceback Coverage,F,0,0,0.20,8
+503042456,test_vocab_lexeme_lt,Flaky,Traceback Coverage,F,0,0,0.20,7
+503042442,test_roundtrip_offsets_biluo_conversion,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+503042442,test_biluo_spans,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+503042442,test_displacy_parse_ents,Flaky,Multi-Factor,F,1,0,0.25,7
+503042442,test_displacy_parse_deps,Non-Flaky,Multi-Factor,F,1,0,0.25,20
+503042442,test_displacy_spans,Flaky,Multi-Factor,F,1,0,0.25,5
+503042442,test_displacy_render_wrapper,Flaky,Multi-Factor,F,1,0,0.25,9
+503042442,test_doc_api_set_ents,Flaky,Multi-Factor,F,1,0,0.25,9
+503042442,test_doc_retokenize_retokenizer_attrs,Flaky,Multi-Factor,F,1,0,0.25,9
+503042442,test_doc_retokenize_spans_merge_tokens,Non-Flaky,Multi-Factor,F,1,0,0.25,14
+503042442,test_doc_retokenize_spans_entity_merge,Non-Flaky,Multi-Factor,F,1,0,0.25,18
+503042442,test_spans_by_character,Flaky,Multi-Factor,F,1,0,0.25,5
+503042442,test_span_ents_property,Non-Flaky,Multi-Factor,F,1,0,0.25,26
+503042442,test_da_tokenizer_handles_posessives_and_contractions,Non-Flaky,Multi-Factor,F,1,0,0.25,29
+503042442,test_matcher_phrase_matcher,Flaky,Multi-Factor,F,1,0,0.33,5
+503042442,test_phrase_matcher_string_attrs,Non-Flaky,Multi-Factor,F,1,0,0.33,14
+503042442,test_phrase_matcher_string_attrs_negative,Flaky,Multi-Factor,F,1,0,0.33,11
+503042442,test_phrase_matcher_bool_attrs,Non-Flaky,Multi-Factor,F,1,0,0.33,16
+503042442,test_phrase_matcher_validation,Non-Flaky,Multi-Factor,F,1,0,0.25,17
+503042442,test_get_oracle_moves,Flaky,Multi-Factor,F,1,0,0.25,5
+503042442,test_get_oracle_moves_negative_entities,Flaky,Multi-Factor,F,1,0,0.25,9
+503042442,test_get_oracle_moves_negative_entities2,Flaky,Multi-Factor,F,1,0,0.25,7
+503042442,test_get_oracle_moves_negative_O,Flaky,Multi-Factor,F,1,0,0.25,7
+503042442,test_beam_parse,Flaky,Multi-Factor,F,1,0,0.30,6
+503042442,test_parser_pseudoprojectivity,Non-Flaky,Multi-Factor,F,1,0,0.25,63
+503042442,test_entity_ruler_init,Flaky,Multi-Factor,F,1,0,0.33,10
+503042442,test_entity_ruler_existing,Flaky,Multi-Factor,F,1,0,0.33,7
+503042442,test_entity_ruler_existing_overwrite,Non-Flaky,Multi-Factor,F,1,0,0.33,8
+503042442,test_entity_ruler_existing_complex,Flaky,Multi-Factor,F,1,0,0.33,9
+503042442,test_issue118,Non-Flaky,Multi-Factor,F,1,0,0.33,17
+503042442,test_issue118_prefix_reorder,Non-Flaky,Multi-Factor,F,1,0,0.33,17
+503042442,test_issue595,Non-Flaky,Multi-Factor,T,1,0,0.25,10
+503042442,test_issue1387,Non-Flaky,Multi-Factor,T,1,0,0.25,10
+503042442,test_issue1547,Flaky,Multi-Factor,F,1,0,0.25,7
+503042442,test_issue2569,Flaky,Multi-Factor,F,1,0,0.33,10
+503042442,test_issue2871,Non-Flaky,Multi-Factor,F,1,0,0.25,16
+503042442,test_issue3012,Non-Flaky,Multi-Factor,F,1,0,0.25,18
+503042442,test_issue3288,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+503042442,test_vocab_lexeme_lt,Flaky,Multi-Factor,F,1,0,0.25,7
+502856158,test_issue3009,Flaky,Traceback Coverage,F,0,0,0.29,4
+502856142,test_issue3009,Flaky,Multi-Factor,F,1,0,0.33,4
+496090478,test_matcher_regex,Flaky,Multi-Factor,T,2,0,0.25,9
+496090478,test_matcher_regex_shape,Flaky,Multi-Factor,T,2,0,0.25,9
+493790615,test_doc_split,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+493790615,test_split_dependencies,Non-Flaky,Traceback Coverage,T,0,0,0.22,0
+493790615,test_spans_entity_merge_iob,Non-Flaky,Traceback Coverage,T,0,0,0.23,0
+493790615,test_spans_sentence_update_after_merge,Flaky,Traceback Coverage,F,0,0,0.13,0
+493790585,test_doc_split,Missing factors,Multi-Factor,F,1,0,0.22,0
+493790585,test_split_dependencies,Missing factors,Multi-Factor,T,1,0,0.25,0
+493790585,test_spans_entity_merge_iob,Missing factors,Multi-Factor,F,1,0,0.25,0
+493790585,test_spans_sentence_update_after_merge,Missing factors,Multi-Factor,F,1,0,0.14,0
+493780644,test_doc_split,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+493780644,test_split_dependencies,Non-Flaky,Traceback Coverage,T,0,0,0.29,0
+493780644,test_spans_entity_merge_iob,Non-Flaky,Traceback Coverage,T,0,0,0.27,0
+493780644,test_spans_sentence_update_after_merge,Flaky,Traceback Coverage,F,0,0,0.15,0
+493780594,test_doc_split,Missing factors,Multi-Factor,F,1,0,0.29,0
+493780594,test_split_dependencies,Missing factors,Multi-Factor,F,1,0,0.33,0
+493780594,test_spans_entity_merge_iob,Missing factors,Multi-Factor,F,1,0,0.30,0
+493780594,test_spans_sentence_update_after_merge,Missing factors,Multi-Factor,T,1,0,0.17,0
+493774418,test_spans_sentence_update_after_merge,Non-Flaky,Traceback Coverage,T,0,0,0.18,0
+493774386,test_spans_sentence_update_after_merge,Missing factors,Multi-Factor,T,3,0,0.20,0
+493324683,test_pipe_base_class_add_label,Non-Flaky,Traceback Coverage,T,0,0,0.08,8
+493324683,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.09,11
+493324551,test_pipe_base_class_add_label,Non-Flaky,Multi-Factor,F,1,0,0.08,8
+493324551,test_issue2179,Flaky,Multi-Factor,F,1,0,0.10,11
+493275502,test_pipe_base_class_add_label,Non-Flaky,Traceback Coverage,T,0,0,0.09,8
+493275502,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.11,11
+493275480,test_pipe_base_class_add_label,Flaky,Traceback Coverage,F,0,0,0.10,8
+493275480,test_issue2179,Flaky,Traceback Coverage,F,0,0,0.12,11
+493275374,test_pipe_base_class_add_label,Non-Flaky,Traceback Coverage,T,0,0,0.11,8
+493275334,test_pipe_base_class_add_label,Non-Flaky,Traceback Coverage,T,0,0,0.12,8
+493275334,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.14,11
+493275262,test_pipe_base_class_add_label,Non-Flaky,Traceback Coverage,T,0,0,0.14,8
+493275262,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.17,11
+493275255,test_pipe_base_class_add_label,Non-Flaky,Traceback Coverage,T,0,0,0.17,8
+493275255,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+493275245,test_pipe_base_class_add_label,Flaky,Traceback Coverage,F,0,0,0.20,8
+493275214,test_pipe_base_class_add_label,Non-Flaky,Traceback Coverage,T,0,0,0.25,8
+493275214,test_issue2179,Non-Flaky,Traceback Coverage,T,0,0,0.25,11
+492780736,test_spans_sentence_update_after_merge,Non-Flaky,Traceback Coverage,T,0,0,0.11,0
+492766709,test_spans_sentence_update_after_merge,Non-Flaky,Traceback Coverage,T,0,0,0.12,0
+492758002,test_doc_split,Non-Flaky,Traceback Coverage,T,0,0,0.17,0
+492758002,test_spans_sentence_update_after_merge,Non-Flaky,Traceback Coverage,T,0,0,0.14,0
+492757492,test_spans_sentence_update_after_merge,Non-Flaky,Traceback Coverage,T,0,0,0.17,0
+492751758,test_doc_split,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+492751758,test_split_dependencies,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+492751758,test_split_heads_error,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+492751758,test_spans_entity_merge_iob,Non-Flaky,Traceback Coverage,T,0,0,0.22,0
+492751758,test_spans_sentence_update_after_merge,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+492749903,test_doc_split,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+492749903,test_split_dependencies,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+492749903,test_split_heads_error,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+492749903,test_spans_entity_merge_iob,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+492749903,test_spans_sentence_update_after_merge,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+490707733,test_issue1971,Non-Flaky,Traceback Coverage,T,0,0,0.25,15
+488543503,test_ur_tokenizer_handles_long_text,Non-Flaky,Traceback Coverage,T,0,0,0.25,6
+487019864,test_fr_tokenizer_infix_exceptions,Flaky,Traceback Coverage,F,0,0,0.20,2
+486971208,test_fr_tokenizer_infix_exceptions,Flaky,Traceback Coverage,F,0,0,0.25,2
+486332722,test_issue801,Flaky,Traceback Coverage,F,0,0,0.25,4
+482010510,test_matcher_from_usage_docs,Non-Flaky,Traceback Coverage,T,0,0,0.20,16
+482010510,test_matcher_no_match,Non-Flaky,Traceback Coverage,T,0,0,0.20,2
+482010510,test_matcher_match_start,Non-Flaky,Traceback Coverage,T,0,0,0.20,2
+482010510,test_matcher_match_end,Non-Flaky,Traceback Coverage,T,0,0,0.20,3
+482010510,test_matcher_match_middle,Non-Flaky,Traceback Coverage,T,0,0,0.20,3
+482010510,test_matcher_match_multi,Non-Flaky,Traceback Coverage,T,0,0,0.20,6
+482010510,test_matcher_empty_dict,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+482010510,test_matcher_operator_shadow,Non-Flaky,Traceback Coverage,T,0,0,0.20,7
+482010510,test_matcher_match_zero,Non-Flaky,Traceback Coverage,T,0,0,0.20,22
+482010510,test_matcher_match_zero_plus,Non-Flaky,Traceback Coverage,T,0,0,0.20,6
+482010510,test_matcher_match_one_plus,Non-Flaky,Traceback Coverage,T,0,0,0.20,12
+482010510,test_matcher_any_token_operator,Non-Flaky,Traceback Coverage,T,0,0,0.20,9
+482010510,test_matcher_extension_attribute,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+482010510,test_dependency_tree_matcher,Non-Flaky,Traceback Coverage,T,0,0,0.20,3
+482010510,test_greedy_matching,Non-Flaky,Traceback Coverage,T,0,0,0.20,8
+482010510,test_operator_combos,Non-Flaky,Traceback Coverage,T,0,0,0.20,33
+482010510,test_matcher_end_zero_plus,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+482010510,test_matcher_phrase_matcher,Non-Flaky,Traceback Coverage,T,0,0,0.20,5
+482010510,test_phrase_matcher_string_attrs,Non-Flaky,Traceback Coverage,T,0,0,0.20,14
+482010510,test_phrase_matcher_string_attrs_negative,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+482010510,test_phrase_matcher_bool_attrs,Non-Flaky,Traceback Coverage,T,0,0,0.20,16
+482010510,test_entity_ruler_init,Non-Flaky,Traceback Coverage,T,0,0,0.20,10
+482010510,test_entity_ruler_existing,Non-Flaky,Traceback Coverage,T,0,0,0.20,7
+482010510,test_entity_ruler_existing_overwrite,Non-Flaky,Traceback Coverage,T,0,0,0.20,8
+482010510,test_entity_ruler_existing_complex,Non-Flaky,Traceback Coverage,T,0,0,0.20,9
+482010510,test_issue118,Non-Flaky,Traceback Coverage,T,0,0,0.20,17
+482010510,test_issue118_prefix_reorder,Non-Flaky,Traceback Coverage,T,0,0,0.20,17
+482010510,test_issue242,Non-Flaky,Traceback Coverage,T,0,0,0.29,19
+482010510,test_issue587,Non-Flaky,Traceback Coverage,T,0,0,0.20,16
+482010510,test_issue590,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+482010510,test_issue615,Non-Flaky,Traceback Coverage,T,0,0,0.20,22
+482010510,test_issue850,Non-Flaky,Traceback Coverage,T,0,0,0.20,12
+482010510,test_issue850_basic,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+482010510,test_issue1434,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+482010510,test_issue1450,Non-Flaky,Traceback Coverage,T,0,0,0.20,10
+482010510,test_issue1883,Non-Flaky,Traceback Coverage,T,0,0,0.20,7
+482010510,test_issue1945,Non-Flaky,Traceback Coverage,T,0,0,0.20,8
+482010510,test_issue2569,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+482010510,test_issue2671,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+482010510,test_issue3009,Non-Flaky,Traceback Coverage,T,0,0,0.20,4
+482010510,test_issue2464,Non-Flaky,Traceback Coverage,T,0,0,0.29,5
+482010495,test_matcher_from_usage_docs,Non-Flaky,Multi-Factor,F,1,0,0.25,16
+482010495,test_matcher_no_match,Flaky,Multi-Factor,F,1,0,0.25,2
+482010495,test_matcher_match_start,Flaky,Multi-Factor,F,1,0,0.25,2
+482010495,test_matcher_match_end,Flaky,Multi-Factor,F,1,0,0.25,3
+482010495,test_matcher_match_middle,Flaky,Multi-Factor,F,1,0,0.25,3
+482010495,test_matcher_match_multi,Flaky,Multi-Factor,F,1,0,0.25,6
+482010495,test_matcher_empty_dict,Flaky,Multi-Factor,F,1,0,0.25,11
+482010495,test_matcher_operator_shadow,Flaky,Multi-Factor,F,1,0,0.25,7
+482010495,test_matcher_match_zero,Flaky,Multi-Factor,F,1,0,0.25,22
+482010495,test_matcher_match_zero_plus,Flaky,Multi-Factor,F,1,0,0.25,6
+482010495,test_matcher_match_one_plus,Flaky,Multi-Factor,F,1,0,0.25,12
+482010495,test_matcher_any_token_operator,Flaky,Multi-Factor,F,1,0,0.25,9
+482010495,test_matcher_extension_attribute,Flaky,Multi-Factor,F,1,0,0.25,11
+482010495,test_dependency_tree_matcher,Flaky,Multi-Factor,F,1,0,0.25,3
+482010495,test_greedy_matching,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+482010495,test_operator_combos,Non-Flaky,Multi-Factor,F,1,0,0.25,33
+482010495,test_matcher_end_zero_plus,Flaky,Multi-Factor,F,1,0,0.25,11
+482010495,test_matcher_phrase_matcher,Flaky,Multi-Factor,F,1,0,0.25,5
+482010495,test_phrase_matcher_string_attrs,Non-Flaky,Multi-Factor,F,1,0,0.25,14
+482010495,test_phrase_matcher_string_attrs_negative,Flaky,Multi-Factor,F,1,0,0.25,11
+482010495,test_phrase_matcher_bool_attrs,Non-Flaky,Multi-Factor,F,1,0,0.25,16
+482010495,test_entity_ruler_init,Flaky,Multi-Factor,F,1,0,0.25,10
+482010495,test_entity_ruler_existing,Flaky,Multi-Factor,F,1,0,0.25,7
+482010495,test_entity_ruler_existing_overwrite,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+482010495,test_entity_ruler_existing_complex,Flaky,Multi-Factor,F,1,0,0.25,9
+482010495,test_issue118,Non-Flaky,Multi-Factor,F,1,0,0.25,17
+482010495,test_issue118_prefix_reorder,Non-Flaky,Multi-Factor,F,1,0,0.25,17
+482010495,test_issue242,Flaky,Multi-Factor,F,1,0,0.33,19
+482010495,test_issue587,Non-Flaky,Multi-Factor,F,1,0,0.25,16
+482010495,test_issue590,Flaky,Multi-Factor,F,1,0,0.25,11
+482010495,test_issue615,Flaky,Multi-Factor,F,1,0,0.25,22
+482010495,test_issue850,Flaky,Multi-Factor,F,1,0,0.25,12
+482010495,test_issue850_basic,Flaky,Multi-Factor,F,1,0,0.25,11
+482010495,test_issue1434,Flaky,Multi-Factor,F,1,0,0.25,11
+482010495,test_issue1450,Flaky,Multi-Factor,F,1,0,0.25,10
+482010495,test_issue1883,Flaky,Multi-Factor,F,1,0,0.25,7
+482010495,test_issue1945,Non-Flaky,Multi-Factor,F,1,0,0.25,8
+482010495,test_issue2569,Missing factors,Multi-Factor,F,1,0,0.25,0
+482010495,test_issue2671,Missing factors,Multi-Factor,F,1,0,0.25,0
+482010495,test_issue3009,Flaky,Multi-Factor,F,1,0,0.25,4
+482010495,test_issue2464,Flaky,Multi-Factor,F,1,0,0.33,5
+480446846,test_lex_attrs_like_number,Non-Flaky,Traceback Coverage,T,0,0,0.20,3
+480428761,test_lex_attrs_like_number,Non-Flaky,Traceback Coverage,T,0,0,0.25,3
+473570396,test_doc_api_merge,Non-Flaky,Multi-Factor,T,1,0,0.14,62
+473570396,test_spans_entity_merge_iob,Non-Flaky,Multi-Factor,T,1,0,0.14,34
+473570385,test_doc_api_merge,Non-Flaky,Multi-Factor,F,1,0,0.17,62
+473570385,test_spans_entity_merge_iob,Non-Flaky,Multi-Factor,F,1,0,0.17,34
+473564145,test_doc_api_merge,Non-Flaky,Multi-Factor,T,1,0,0.20,62
+473564145,test_spans_entity_merge_iob,Non-Flaky,Multi-Factor,T,1,0,0.20,34
+473563694,test_doc_api_merge,Non-Flaky,Multi-Factor,T,2,0,0.25,62
+473563694,test_spans_entity_merge_iob,Non-Flaky,Multi-Factor,T,2,0,0.25,34
+473324787,test_issue2464,Non-Flaky,Traceback Coverage,T,0,0,0.20,5
+473323854,test_issue2464,Flaky,Multi-Factor,T,2,0,0.25,5
+473104451,test_spans_lca_matrix,Flaky,Traceback Coverage,F,0,0,0.40,20
+472888949,test_spans_lca_matrix,Flaky,Traceback Coverage,F,0,0,0.25,20
+470486004,test_doc_add_entities_set_ents_iob,Flaky,Multi-Factor,F,2,0,0.18,11
+470486004,test_predict_doc,Flaky,Multi-Factor,F,2,0,0.14,3
+470486004,test_update_doc,Flaky,Multi-Factor,F,2,0,0.14,4
+470486004,test_beam_parse,Flaky,Multi-Factor,F,2,0,0.22,6
+470485991,test_doc_add_entities_set_ents_iob,Non-Flaky,Traceback Coverage,T,0,0,0.20,11
+470485991,test_predict_doc,Non-Flaky,Traceback Coverage,T,0,0,0.17,3
+470485991,test_update_doc,Flaky,Traceback Coverage,F,0,0,0.17,4
+470485991,test_beam_parse,Non-Flaky,Traceback Coverage,T,0,0,0.25,6
+470484768,test_doc_add_entities_set_ents_iob,Non-Flaky,Traceback Coverage,T,0,0,0.22,11
+470484768,test_predict_doc,Non-Flaky,Traceback Coverage,T,0,0,0.20,3
+470484768,test_update_doc,Flaky,Traceback Coverage,F,0,0,0.20,4
+470484768,test_beam_parse,Non-Flaky,Traceback Coverage,T,0,0,0.29,6
+470483245,test_doc_add_entities_set_ents_iob,Flaky,Multi-Factor,T,2,0,0.25,11
+470483245,test_predict_doc,Flaky,Multi-Factor,T,2,0,0.25,3
+470483245,test_update_doc,Non-Flaky,Multi-Factor,T,2,0,0.25,4
+470483245,test_beam_parse,Flaky,Multi-Factor,T,2,0,0.33,6
+464603539,test_pickle_vocab,Non-Flaky,Multi-Factor,F,1,0,0.25,15
+462355761,test_issue2482,Flaky,Multi-Factor,T,2,0,0.25,5
+462355761,test_serialize_parser_roundtrip_bytes,Flaky,Multi-Factor,T,2,0,0.33,6
+462355761,test_serialize_parser_roundtrip_disk,Flaky,Multi-Factor,T,2,0,0.33,9
+462355761,test_to_from_bytes,Flaky,Multi-Factor,T,2,0,0.25,7
+461816736,test_cli_trained_model_can_be_saved,Flaky,Traceback Coverage,F,0,0,0.33,76
+461278242,test_require_gpu,Flaky,Traceback Coverage,F,0,0,0.20,2
+461278242,test_doc_add_entities_set_ents_iob,Flaky,Traceback Coverage,F,0,0,0.14,11
+461278242,test_spans_merge_non_disjoint,Flaky,Traceback Coverage,F,0,0,0.20,7
+461278242,test_doc_add_entities_set_ents_iob,Flaky,Traceback Coverage,F,0,0,0.14,11
+461278242,test_build_model,Flaky,Traceback Coverage,F,0,0,0.20,2
+461278242,test_beam_parse,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_issue242,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_issue1727,Flaky,Traceback Coverage,F,0,0,0.29,0
+461278242,test_issue1915,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_cli_trained_model_can_be_saved,Flaky,Traceback Coverage,F,0,0,0.20,76
+461278242,test_issue2564,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_train_with_many_entity_types,Flaky,Traceback Coverage,F,0,0,0.20,4
+461278242,test_serialize_language_meta_disk,Flaky,Traceback Coverage,F,0,0,0.20,5
+461278242,test_serialize_parser_roundtrip_bytes,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_serialize_parser_roundtrip_disk,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_serialize_tensorizer_roundtrip_bytes,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_serialize_tensorizer_roundtrip_disk,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_serialize_vocab_roundtrip_disk,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_serialize_vocab_lex_attrs_disk,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278242,test_vocab_prune_vectors,Flaky,Traceback Coverage,F,0,0,0.20,0
+461278171,test_require_gpu,Flaky,Multi-Factor,F,3,0,0.25,2
+461278171,test_doc_add_entities_set_ents_iob,Missing factors,Multi-Factor,F,3,0,0.20,11
+461278171,test_spans_merge_non_disjoint,Flaky,Multi-Factor,F,3,0,0.25,7
+461278171,test_doc_add_entities_set_ents_iob,Missing factors,Multi-Factor,F,3,0,0.20,11
+461278171,test_build_model,Flaky,Multi-Factor,F,3,0,0.25,2
+461278171,test_beam_parse,Missing factors,Multi-Factor,F,3,0,0.25,6
+461278171,test_issue242,Missing factors,Multi-Factor,F,3,0,0.25,19
+461278171,test_issue1727,Missing factors,Multi-Factor,F,3,0,0.33,13
+461278171,test_issue1915,Missing factors,Multi-Factor,F,3,0,0.25,6
+461278171,test_cli_trained_model_can_be_saved,Non-Flaky,Multi-Factor,F,3,0,0.25,76
+461278171,test_issue2564,Missing factors,Multi-Factor,F,3,0,0.25,10
+461278171,test_train_with_many_entity_types,Flaky,Multi-Factor,F,3,0,0.25,4
+461278171,test_serialize_language_meta_disk,Flaky,Multi-Factor,F,3,0,0.25,5
+461278171,test_serialize_parser_roundtrip_bytes,Missing factors,Multi-Factor,F,3,0,0.25,6
+461278171,test_serialize_parser_roundtrip_disk,Missing factors,Multi-Factor,F,3,0,0.25,9
+461278171,test_serialize_tensorizer_roundtrip_bytes,Missing factors,Multi-Factor,F,3,0,0.25,5
+461278171,test_serialize_tensorizer_roundtrip_disk,Missing factors,Multi-Factor,F,3,0,0.25,7
+461278171,test_serialize_vocab_roundtrip_disk,Missing factors,Multi-Factor,F,3,0,0.25,15
+461278171,test_serialize_vocab_lex_attrs_disk,Missing factors,Multi-Factor,F,3,0,0.25,10
+461278171,test_vocab_prune_vectors,Missing factors,Multi-Factor,F,3,0,0.25,16
+460030337,test_docs_to_json,Flaky,Traceback Coverage,F,0,0,0.20,0
+460030318,test_docs_to_json,Non-Flaky,Traceback Coverage,T,0,0,0.25,0
+459896651,test_vectors__ngrams_word,Flaky,Traceback Coverage,F,0,0,0.20,0
+459896651,test_vectors__ngrams_subword,Flaky,Traceback Coverage,F,0,0,0.20,0
+459895732,test_vectors__ngrams_word,Missing factors,Multi-Factor,T,2,0,0.25,1
+459895732,test_vectors__ngrams_subword,Missing factors,Multi-Factor,T,2,0,0.25,15
+459893989,test_entity_ruler_serialize_bytes,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+459893989,test_issue1727,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+459893989,test_serialize_tagger_roundtrip_disk,Non-Flaky,Traceback Coverage,T,0,0,0.20,0
+459893975,test_entity_ruler_serialize_bytes,Missing factors,Multi-Factor,F,3,0,0.25,10
+459893975,test_issue1727,Missing factors,Multi-Factor,F,3,0,0.25,13
+459893975,test_serialize_tagger_roundtrip_disk,Missing factors,Multi-Factor,F,3,0,0.25,9

@@ -1,0 +1,7 @@
+Failed Test,Coverage status,Previous State,Build ID,Build Finished Time,Path
+test_issue5152,F,failed,689997586,2020-05-22 11:35:52,spaCy/spacy/tests/regression/test_issue5152.py
+test_to_disk_resource_warning,F,failed,689997586,2020-05-22 11:35:52,spaCy/spacy/tests/regression/test_issue5230.py
+test_resource_warning,F,failed,689997586,2020-05-22 11:35:52,spaCy/spacy/tests/regression/test_issue5230.py
+test_issue5458,F,failed,689997586,2020-05-22 11:35:52,spaCy/spacy/tests/regression/test_issue5458.py
+test_pickle_vocab,F,failed,689997586,2020-05-22 11:35:52,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+test_vectors_serialize,F,failed,689997586,2020-05-22 11:35:52,spaCy/spacy/tests/vocab_vectors/test_vectors.py

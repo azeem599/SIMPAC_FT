@@ -1,0 +1,157 @@
+Test Case,Number of Smells,Smell type,Tip,Location,Path
+test_urls,8,Network,URL,497,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_urls,8,Network,URL,500,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_urls,8,Network,URL,500,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_urls,8,Network,URL,501,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_urls,8,Network,URL,503,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_urls,8,Network,URL,503,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_urls,8,Network,URL,504,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_urls,8,Network,URL,507,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_save_slice,7,Randomness,random without seed,237,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_save_slice,7,Randomness,random without seed,239,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_save_slice,7,Network,URL,241,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_save_slice,7,Network,URL,256,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_save_slice,7,Network,URL,257,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_save_slice,7,Network,URL,279,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_save_slice,7,Network,URL,280,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_get_user_slices_for_owners,6,Network,URL,368,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_get_user_slices_for_owners,6,Network,URL,369,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_get_user_slices_for_owners,6,Network,URL,380,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_get_user_slices_for_owners,6,Network,URL,381,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_get_user_slices_for_owners,6,Network,URL,393,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_get_user_slices_for_owners,6,Network,URL,394,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_user_profile,4,Network,URL,809,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_user_profile,4,Network,URL,810,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_user_profile,4,Network,URL,814,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_user_profile,4,Network,URL,815,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_copy_dash,4,Network,URL,210,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_copy_dash,4,Network,URL,211,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_copy_dash,4,Network,URL,216,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_copy_dash,4,Network,URL,217,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_client,4,Network,URL,188,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_client,4,Network,URL,189,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_client,4,Network,URL,205,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_client,4,Network,URL,206,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_sqllab_viz_bad_payload,4,Randomness,random without seed,393,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_sqllab_viz_bad_payload,4,Randomness,random without seed,394,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_sqllab_viz_bad_payload,4,Network,URL,402,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_sqllab_viz_bad_payload,4,Network,URL,403,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_filter_endpoint,3,Network,URL,306,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_filter_endpoint,3,Network,URL,314,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_filter_endpoint,3,Network,URL,314,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_slices,3,Network,URL,339,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_slices,3,Network,URL,340,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_slices,3,Network,URL,341,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_save_dash_with_dashboard_title,3,Network,URL,158,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash_with_dashboard_title,3,Network,URL,159,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash_with_dashboard_title,3,Network,URL,164,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash_with_colors,3,Network,URL,180,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash_with_colors,3,Network,URL,181,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash_with_colors,3,Network,URL,190,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_sqllab_viz,3,Randomness,random without seed,364,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_sqllab_viz,3,Randomness,random without seed,367,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_sqllab_viz,3,Randomness,random without seed,368,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_api_database,3,Network,URL,538,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_api_database,3,Network,URL,540,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_api_database,3,Network,URL,542,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_test_connection,3,Network,URL,679,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\databases\api_tests.py
+test_test_connection,3,Network,URL,680,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\databases\api_tests.py
+test_test_connection,3,Network,URL,692,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\databases\api_tests.py
+test_test_connection_failed,3,Network,URL,708,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\databases\api_tests.py
+test_test_connection_failed,3,Network,URL,709,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\databases\api_tests.py
+test_test_connection_failed,3,Network,URL,725,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\databases\api_tests.py
+test_tablemodelview_list,2,Network,URL,347,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_tablemodelview_list,2,Network,URL,348,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_add_slice,2,Network,URL,358,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_add_slice,2,Network,URL,359,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_get_user_slices,2,Network,URL,401,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_get_user_slices,2,Network,URL,402,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_slices_V2,2,Network,URL,425,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_slices_V2,2,Network,URL,426,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_databaseview_edit,2,Network,URL,553,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_databaseview_edit,2,Network,URL,556,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_csv_endpoint,2,Randomness,random without seed,642,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_csv_endpoint,2,Randomness,random without seed,649,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_fetch_datasource_metadata,2,Network,URL,791,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_fetch_datasource_metadata,2,Network,URL,792,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_dashboard,2,Network,URL,56,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_dashboard,2,Network,URL,56,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_new_dashboard,2,Network,URL,64,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_new_dashboard,2,Network,URL,65,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_dashboard_modes,2,Network,URL,73,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_dashboard_modes,2,Network,URL,78,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash,2,Network,URL,93,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash,2,Network,URL,94,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash_with_filter,2,Network,URL,112,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash_with_filter,2,Network,URL,113,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash_with_invalid_filters,2,Network,URL,139,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_save_dash_with_invalid_filters,2,Network,URL,140,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_add_slices,2,Network,URL,240,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_add_slices,2,Network,URL,241,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_remove_slices,2,Network,URL,278,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_remove_slices,2,Network,URL,279,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_users_can_view_published_dashboard,2,Randomness,random without seed,384,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_users_can_view_published_dashboard,2,Randomness,random without seed,385,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_users_can_view_own_dashboard,2,Randomness,random without seed,413,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_users_can_view_own_dashboard,2,Randomness,random without seed,414,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_users_can_view_favorited_dashboards,2,Randomness,random without seed,441,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_users_can_view_favorited_dashboards,2,Randomness,random without seed,442,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_external_metadata,2,Network,URL,30,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\datasource_tests.py
+test_external_metadata,2,Network,URL,36,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\datasource_tests.py
+test_external_metadata,2,Network,URL,582,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\datasource_tests.py
+test_external_metadata,2,Network,URL,583,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\datasource_tests.py
+test_get_datasource,2,Network,URL,120,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\datasource_tests.py
+test_get_datasource,2,Network,URL,121,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\datasource_tests.py
+test_get_datasource_failed,2,Network,URL,140,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\datasource_tests.py
+test_get_datasource_failed,2,Network,URL,141,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\datasource_tests.py
+test_filter_druid_datasource,2,Network,URL,337,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_filter_druid_datasource,2,Network,URL,338,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_druid_time_granularities,2,Network,URL,562,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_druid_time_granularities,2,Network,URL,566,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_external_metadata,2,Network,URL,30,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_external_metadata,2,Network,URL,36,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_external_metadata,2,Network,URL,582,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_external_metadata,2,Network,URL,583,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_search_query_on_text,2,Network,URL,290,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_search_query_on_text,2,Network,URL,291,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_query_api_filter,2,Network,URL,467,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_query_api_filter,2,Network,URL,468,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_query_api_can_access_all_queries,2,Network,URL,496,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_query_api_can_access_all_queries,2,Network,URL,497,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_query_admin_can_access_all_queries,2,Network,URL,519,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_query_admin_can_access_all_queries,2,Network,URL,520,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_get_charts_changed_on,2,Time,datetime.now,559,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\charts\api_tests.py
+test_get_charts_changed_on,2,Time,datetime.now,575,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\charts\api_tests.py
+test_get_dashboards_changed_on,2,Time,datetime.now,168,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboards\api_tests.py
+test_get_dashboards_changed_on,2,Time,datetime.now,184,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboards\api_tests.py
+test_test_connection_unsafe_uri,2,Network,URL,748,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\databases\api_tests.py
+test_test_connection_unsafe_uri,2,Network,URL,749,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\databases\api_tests.py
+test_get_query_no_data_access,2,Randomness,random without seed,156,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\queries\api_tests.py
+test_get_query_no_data_access,2,Randomness,random without seed,157,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\queries\api_tests.py
+test_run_sync_query_cta_config,1,Async Wait,sleep,194,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\celery_tests.py
+test_run_async_query_cta_config,1,Async Wait,sleep,212,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\celery_tests.py
+test_run_async_cta_query,1,Async Wait,sleep,230,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\celery_tests.py
+test_run_async_cta_query_with_lower_limit,1,Async Wait,sleep,249,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\celery_tests.py
+test_schemas_access_for_csv_upload_endpoint,1,Network,URL,933,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_feature_flag_serialization,1,Network,URL,1134,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\core_tests.py
+test_user_can_not_view_unpublished_dash,1,Randomness,random without seed,474,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\dashboard_tests.py
+test_sync_druid_perm,1,Time,datetime.now,370,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\druid_tests.py
+test_send_mime,1,Network,assert_called_with,128,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\email_tests.py
+test_send_mime_ssl,1,Network,assert_called_with,146,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\email_tests.py
+test_send_mime_noauth,1,Network,assert_called_with,159,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\email_tests.py
+test_crontab_scheduler,1,Time,datetime.now,102,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\schedules_test.py
+test_wider_schedules,1,Time,datetime.now,130,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\schedules_test.py
+test_deliver_slice_inline_image,1,Network,URL,380,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\schedules_test.py
+test_deliver_slice_attachment,1,Network,URL,434,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\schedules_test.py
+test_deliver_slice_csv_attachment,1,Network,URL,480,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\schedules_test.py
+test_deliver_slice_csv_inline,1,Network,URL,524,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\schedules_test.py
+test_queries_endpoint,1,Time,datetime.now,219,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\sqllab_tests.py
+test_top_n_dashboards_strategy,1,Training,For _ in range,181,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\strategy_tests.py
+test_get_async_dashboard_screenshot,1,IO,Resource Operation without Checking Existence,55,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\thumbnails_tests.py
+test_get_async_dashboard_screenshot,1,IO,Open a file without close it,55,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\thumbnails_tests.py
+test_get_async_dashboard_screenshot,1,Network,assert_called_with,103,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\thumbnails_tests.py
+test_get_async_chart_screenshot,1,Network,assert_called_with,140,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\thumbnails_tests.py
+test_get_query,1,Randomness,random without seed,80,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\queries\api_tests.py
+test_get_query_not_found,1,Randomness,random without seed,137,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\queries\api_tests.py
+test_get_query_filter,1,Randomness,random without seed,206,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\queries\api_tests.py
+test_get_queries_no_data_access,1,Randomness,random without seed,231,D:\CoursesResources\MasterThesis\Python_projects\incubator-superset\tests\queries\api_tests.py

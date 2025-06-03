@@ -1,0 +1,17 @@
+Failed Test Case,"Number of Times, the TC failed due to unrelated changes",Path,Latest Failed Build ID
+test_search_query_on_time,20,tests/sqllab_tests.py,643182021
+test_copy_dash,11,tests/dashboard_tests.py,604618809
+test_load_world_bank_health_n_pop,4,tests/load_examples_test.py,672776651
+test_testconn,4,tests/core_tests.py,632737193
+test_run_async_query,4,tests/celery_tests.py,434854505
+test_load_energy,3,tests/load_examples_test.py,672776651
+test_setup_cache_null_config,2,tests/utils_tests.py,641613896
+test_only_owners_can_save,2,tests/core_tests.py,368380902
+test_save_dash,2,tests/core_tests.py,368380902
+test_save_dash_with_dashboard_title,2,tests/core_tests.py,368380902
+test_save_dash_with_filter,2,tests/core_tests.py,368380902
+test_load_birth_names,1,tests/load_examples_test.py,672776651
+test_load_unicode_test_data,1,tests/load_examples_test.py,672776651
+test_data_for_slices,1,tests/model_tests.py,663237252
+test_run_async_query_with_lower_limit,1,tests/celery_tests.py,425115390
+test_csv_endpoint,1,tests/core_tests.py,404638094

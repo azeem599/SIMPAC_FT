@@ -1,0 +1,1083 @@
+Build ID,Test Method,Flaky or Not,Detection Method,Number of Test Smells,Flaky Frequency,Size,Path
+734249531,test_tt_tokenizer_handles_testcases,flaky,Traceback Coverage,0,0.25,2,spaCy/spacy/tests/lang/tt/test_tokenizer.py
+733751356,test_issue6177,flaky,Traceback Coverage,0,0.25,0,spaCy/spacy/tests/regression/test_issue_6177.py
+720238021,test_en_lex_attrs_like_number_for_ordinal,flaky,Traceback Coverage,0,0.20,1,spaCy/spacy/tests/lang/en/test_text.py
+697797112,test_serialize_tagger_roundtrip_bytes,flaky,Traceback Coverage,0,0.20,6,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+697796662,test_serialize_tagger_roundtrip_bytes,flaky,Traceback Coverage,0,0.25,6,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+669573184,test_pickle_vocab,flaky,Traceback Coverage,0,0.43,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+669378055,test_en_lex_attrs_norm_exceptions,flaky,Traceback Coverage,0,0.20,2,spaCy/spacy/tests/lang/en/test_exceptions.py
+669378055,test_pickle_vocab,flaky,Traceback Coverage,0,0.33,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+669374581,test_en_lex_attrs_norm_exceptions,flaky,Traceback Coverage,0,0.25,2,spaCy/spacy/tests/lang/en/test_exceptions.py
+669374581,test_pickle_vocab,flaky,Traceback Coverage,0,0.40,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+655367251,test_da_tokenizer_slash,flaky,Traceback Coverage,0,0.25,2,spaCy/spacy/tests/lang/da/test_exceptions.py
+654091283,test_build_dependencies,flaky,Traceback Coverage,0,0.25,0,spaCy/spacy/tests/test_requirements.py
+654088673,test_build_dependencies,flaky,Traceback Coverage,0,0.29,0,spaCy/spacy/tests/test_requirements.py
+652532368,test_build_dependencies,flaky,Traceback Coverage,0,0.17,0,spaCy/spacy/tests/test_requirements.py
+652509302,test_build_dependencies,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/test_requirements.py
+652505111,test_build_dependencies,flaky,Traceback Coverage,0,0.25,0,spaCy/spacy/tests/test_requirements.py
+644680464,test_displacy_parse_ents,flaky,Traceback Coverage,0,0.33,7,spaCy/spacy/tests/test_displacy.py
+640705786,test_entity_ruler_from_disk_old_format_safe,flaky,Traceback Coverage,0,0.17,10,spaCy/spacy/tests/regression/test_issue3526.py
+640705224,test_entity_ruler_from_disk_old_format_safe,flaky,Traceback Coverage,0,0.20,10,spaCy/spacy/tests/regression/test_issue3526.py
+640704664,test_entity_ruler_from_disk_old_format_safe,flaky,Traceback Coverage,0,0.25,10,spaCy/spacy/tests/regression/test_issue3526.py
+616256746,test_ignore_misaligned,flaky,Traceback Coverage,0,0.40,25,spaCy/spacy/tests/test_gold.py
+612033600,test_lb_tokenizer_handles_long_text,flaky,Traceback Coverage,0,0.18,3,spaCy/spacy/tests/lang/lb/test_text.py
+612028918,test_lb_tokenizer_handles_long_text,flaky,Traceback Coverage,0,0.20,3,spaCy/spacy/tests/lang/lb/test_text.py
+612010003,test_lb_tokenizer_handles_long_text,flaky,Traceback Coverage,0,0.22,3,spaCy/spacy/tests/lang/lb/test_text.py
+611996922,test_lb_tokenizer_handles_long_text,flaky,Traceback Coverage,0,0.25,3,spaCy/spacy/tests/lang/lb/test_text.py
+611961648,test_lb_tokenizer_handles_long_text,flaky,Traceback Coverage,0,0.29,3,spaCy/spacy/tests/lang/lb/test_text.py
+605654697,test_issue4402,flaky,Traceback Coverage,0,0.29,80,spaCy/spacy/tests/regression/test_issue4402.py
+602705887,test_roundtrip_docs_to_json,flaky,Traceback Coverage,1,0.33,68,spaCy/spacy/tests/test_gold.py
+601376990,test_vocab_prune_vectors,flaky,Traceback Coverage,0,0.38,16,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+596528045,test_lb_tokenizer_handles_examples,flaky,Traceback Coverage,0,0.20,2,spaCy/spacy/tests/lang/lb/test_text.py
+596521424,test_lb_lex_attrs_norm_exceptions,flaky,Traceback Coverage,0,0.25,0,spaCy/spacy/tests/lang/lb/test_exceptions.py
+596521424,test_lb_tokenizer_handles_examples,flaky,Traceback Coverage,0,0.25,2,spaCy/spacy/tests/lang/lb/test_text.py
+594548163,test_pretrain_make_docs,flaky,Traceback Coverage,0,0.40,31,spaCy/spacy/tests/test_cli.py
+594548163,test_displacy_rtl,flaky,Traceback Coverage,0,0.25,16,spaCy/spacy/tests/test_displacy.py
+594548163,test_roundtrip_docs_to_json,flaky,Traceback Coverage,1,0.25,68,spaCy/spacy/tests/test_gold.py
+594548163,test_lemmatizer_reflects_lookups_changes,flaky,Traceback Coverage,0,0.25,23,spaCy/spacy/tests/test_lemmatizer.py
+594548163,test_tagger_warns_no_lemma_lookups,flaky,Traceback Coverage,0,0.25,13,spaCy/spacy/tests/test_lemmatizer.py
+594548163,test_empty_doc,flaky,Traceback Coverage,0,0.25,2,spaCy/spacy/tests/doc/test_creation.py
+594548163,test_single_word,flaky,Traceback Coverage,0,0.25,4,spaCy/spacy/tests/doc/test_creation.py
+594548163,test_lookup_lemmatization,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/doc/test_creation.py
+594548163,test_doc_api_has_vector,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/doc/test_doc_api.py
+594548163,test_doc_api_similarity_match,flaky,Traceback Coverage,0,0.25,7,spaCy/spacy/tests/doc/test_doc_api.py
+594548163,test_pickle_single_doc,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548163,test_list_of_docs_pickles_efficiently,flaky,Traceback Coverage,1,0.25,11,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548163,test_user_data_from_disk,flaky,Traceback Coverage,0,0.25,6,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548163,test_user_data_unpickles,flaky,Traceback Coverage,0,0.25,6,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548163,test_hooks_unpickle,flaky,Traceback Coverage,0,0.25,8,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548163,test_doc_retokenize_spans_entity_split_iob,flaky,Traceback Coverage,0,0.25,12,spaCy/spacy/tests/doc/test_retokenize_split.py
+594548163,test_span_similarity_match,flaky,Traceback Coverage,0,0.25,7,spaCy/spacy/tests/doc/test_span.py
+594548163,test_doc_token_api_vectors,flaky,Traceback Coverage,0,0.25,13,spaCy/spacy/tests/doc/test_token_api.py
+594548163,test_set_pos,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/doc/test_token_api.py
+594548163,test_token0_has_sent_start_true,flaky,Traceback Coverage,0,0.25,4,spaCy/spacy/tests/doc/test_token_api.py
+594548163,test_lang_initialize,flaky,Traceback Coverage,0,0.50,6,spaCy/spacy/tests/lang/test_initialize.py
+594548163,test_issue768,flaky,Traceback Coverage,0,0.25,9,spaCy/spacy/tests/lang/fr/test_prefix_suffix_infix.py
+594548163,test_add_label,flaky,Traceback Coverage,1,0.22,14,spaCy/spacy/tests/parser/test_add_label.py
+594548163,test_get_oracle_actions,flaky,Traceback Coverage,0,0.25,16,spaCy/spacy/tests/parser/test_arc_eager_oracle.py
+594548163,test_accept_blocked_token,flaky,Traceback Coverage,0,0.25,40,spaCy/spacy/tests/parser/test_ner.py
+594548163,test_overwrite_token,flaky,Traceback Coverage,0,0.25,18,spaCy/spacy/tests/parser/test_ner.py
+594548163,test_ruler_before_ner,flaky,Traceback Coverage,0,0.40,17,spaCy/spacy/tests/parser/test_ner.py
+594548163,test_ner_before_ruler,flaky,Traceback Coverage,0,0.40,17,spaCy/spacy/tests/parser/test_ner.py
+594548163,test_block_ner,flaky,Traceback Coverage,0,0.25,13,spaCy/spacy/tests/parser/test_ner.py
+594548163,test_beam_parse,flaky,Traceback Coverage,0,0.33,6,spaCy/spacy/tests/parser/test_nn_beam.py
+594548163,test_sentencizer_across_scripts,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/pipeline/test_sentencizer.py
+594548163,test_issue595,flaky,Traceback Coverage,0,0.25,13,spaCy/spacy/tests/regression/test_issue1-1000.py
+594548163,test_issue600,flaky,Traceback Coverage,0,0.25,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+594548163,test_issue743,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/regression/test_issue1-1000.py
+594548163,test_issue850,flaky,Traceback Coverage,0,0.33,12,spaCy/spacy/tests/regression/test_issue1-1000.py
+594548163,test_issue850_basic,flaky,Traceback Coverage,0,0.33,11,spaCy/spacy/tests/regression/test_issue1-1000.py
+594548163,test_issue1061,flaky,Traceback Coverage,0,0.25,16,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1242,flaky,Traceback Coverage,0,0.25,6,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1250,flaky,Traceback Coverage,0,0.25,8,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1257,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1375,flaky,Traceback Coverage,0,0.25,8,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1387,flaky,Traceback Coverage,0,0.25,11,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1434,flaky,Traceback Coverage,0,0.33,11,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1450,flaky,Traceback Coverage,0,0.33,10,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1488,flaky,Traceback Coverage,1,0.25,18,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1494,flaky,Traceback Coverage,0,0.25,12,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548163,test_issue1506,flaky,Traceback Coverage,1,0.25,19,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue1537,flaky,Traceback Coverage,0,0.25,21,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue1547,flaky,Traceback Coverage,0,0.43,7,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue1654,flaky,Traceback Coverage,0,0.25,12,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue1757,flaky,Traceback Coverage,0,0.25,10,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue1799,flaky,Traceback Coverage,0,0.25,18,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue1834,flaky,Traceback Coverage,0,0.25,14,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue1883,flaky,Traceback Coverage,0,0.33,7,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue1915,flaky,Traceback Coverage,0,0.21,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue1945,flaky,Traceback Coverage,0,0.33,8,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548163,test_issue2179,flaky,Traceback Coverage,0,0.19,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+594548163,test_issue2482,flaky,Traceback Coverage,0,0.36,5,spaCy/spacy/tests/regression/test_issue2001-2500.py
+594548163,test_issue2564,flaky,Traceback Coverage,0,0.33,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+594548163,test_issue2671,flaky,Traceback Coverage,0,0.33,20,spaCy/spacy/tests/regression/test_issue2501-3000.py
+594548163,test_issue2782,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/regression/test_issue2501-3000.py
+594548163,test_issue2800,flaky,Traceback Coverage,2,0.17,17,spaCy/spacy/tests/regression/test_issue2501-3000.py
+594548163,test_issue2901,flaky,Traceback Coverage,0,0.40,7,spaCy/spacy/tests/regression/test_issue2501-3000.py
+594548163,test_issue3002,flaky,Traceback Coverage,0,0.25,6,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3199,flaky,Traceback Coverage,0,0.25,7,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3209,flaky,Traceback Coverage,0,0.22,15,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3248_1,flaky,Traceback Coverage,0,0.25,7,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3248_2,flaky,Traceback Coverage,0,0.40,8,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3289,flaky,Traceback Coverage,0,0.30,8,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3345,flaky,Traceback Coverage,0,0.50,81,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3410,flaky,Traceback Coverage,0,0.25,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3456,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3468,flaky,Traceback Coverage,0,0.25,13,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548163,test_issue3531,flaky,Traceback Coverage,0,0.25,26,spaCy/spacy/tests/regression/test_issue3531.py
+594548163,test_issue3611,flaky,Traceback Coverage,1,0.40,37,spaCy/spacy/tests/regression/test_issue3611.py
+594548163,test_issue3625,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/regression/test_issue3625.py
+594548163,test_issue3803,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/regression/test_issue3803.py
+594548163,test_issue3869,flaky,Traceback Coverage,0,0.25,7,spaCy/spacy/tests/regression/test_issue3869.py
+594548163,test_issue3880,flaky,Traceback Coverage,0,0.25,14,spaCy/spacy/tests/regression/test_issue3880.py
+594548163,test_issue3959,flaky,Traceback Coverage,0,0.25,16,spaCy/spacy/tests/regression/test_issue3959.py
+594548163,test_issue4030,flaky,Traceback Coverage,1,0.33,41,spaCy/spacy/tests/regression/test_issue4030.py
+594548163,test_issue4042,flaky,Traceback Coverage,0,0.50,25,spaCy/spacy/tests/regression/test_issue4042.py
+594548163,test_issue4042_bug2,flaky,Traceback Coverage,0,0.25,31,spaCy/spacy/tests/regression/test_issue4042.py
+594548163,test_issue4190,flaky,Traceback Coverage,0,0.22,17,spaCy/spacy/tests/regression/test_issue4190.py
+594548163,test_issue4267,flaky,Traceback Coverage,0,0.25,24,spaCy/spacy/tests/regression/test_issue4267.py
+594548163,test_issue4272,flaky,Traceback Coverage,0,0.25,5,spaCy/spacy/tests/regression/test_issue4272.py
+594548163,test_issue4313,flaky,Traceback Coverage,0,0.25,24,spaCy/spacy/tests/regression/test_issue4313.py
+594548163,test_issue4348,flaky,Traceback Coverage,1,0.25,12,spaCy/spacy/tests/regression/test_issue4348.py
+594548163,test_serialize_doc_bin,flaky,Traceback Coverage,0,0.33,10,spaCy/spacy/tests/serialize/test_serialize_doc.py
+594548163,test_serialize_language_meta_disk,flaky,Traceback Coverage,0,0.43,5,spaCy/spacy/tests/serialize/test_serialize_language.py
+594548163,test_serialize_with_custom_tokenizer,flaky,Traceback Coverage,0,0.25,18,spaCy/spacy/tests/serialize/test_serialize_language.py
+594548163,test_serialize_language_exclude,flaky,Traceback Coverage,0,0.40,13,spaCy/spacy/tests/serialize/test_serialize_language.py
+594548163,test_tokenizer_add_special_case_tag,flaky,Traceback Coverage,0,0.25,8,spaCy/spacy/tests/tokenizer/test_tokenizer.py
+591480430,test_tokenizer_special_cases_with_affixes,flaky,Traceback Coverage,0,0.25,0,spaCy/spacy/tests/tokenizer/test_tokenizer.py
+588959706,test_ruler_before_ner,flaky,Traceback Coverage,0,0.25,17,spaCy/spacy/tests/parser/test_ner.py
+588959706,test_ner_before_ruler,flaky,Traceback Coverage,0,0.25,17,spaCy/spacy/tests/parser/test_ner.py
+588959706,test_entity_ruler_entity_id,flaky,Traceback Coverage,0,0.40,6,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+588959706,test_entity_ruler_cfg_ent_id_sep,flaky,Traceback Coverage,0,0.25,7,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+588933151,test_preserving_links_asdoc,flaky,Traceback Coverage,0,0.50,34,spaCy/spacy/tests/pipeline/test_entity_linker.py
+588933151,test_issue3345,flaky,Traceback Coverage,0,0.40,81,spaCy/spacy/tests/regression/test_issue3001-3500.py
+587536678,test_tokenizer_validate_special_case,flaky,Traceback Coverage,0,0.25,0,spaCy/spacy/tests/tokenizer/test_tokenizer.py
+586711455,test_doc_add_entities_set_ents_iob,flaky,Traceback Coverage,0,0.23,10,spaCy/spacy/tests/parser/test_ner.py
+586706422,test_doc_add_entities_set_ents_iob,flaky,Traceback Coverage,0,0.25,10,spaCy/spacy/tests/parser/test_ner.py
+579648420,test_issue1547,flaky,Traceback Coverage,0,0.33,7,spaCy/spacy/tests/regression/test_issue1501-2000.py
+576529032,test_displacy_parse_deps,flaky,Traceback Coverage,0,0.33,20,spaCy/spacy/tests/test_displacy.py
+576529032,test_issue3009,flaky,Traceback Coverage,0,0.38,26,spaCy/spacy/tests/regression/test_issue3001-3500.py
+576528875,test_displacy_parse_deps,flaky,Traceback Coverage,0,0.27,20,spaCy/spacy/tests/test_displacy.py
+576528875,test_issue3009,flaky,Traceback Coverage,0,0.33,26,spaCy/spacy/tests/regression/test_issue3001-3500.py
+576430627,test_displacy_parse_deps,flaky,Traceback Coverage,0,0.38,20,spaCy/spacy/tests/test_displacy.py
+576430627,test_issue3009,flaky,Traceback Coverage,0,0.42,26,spaCy/spacy/tests/regression/test_issue3001-3500.py
+574844217,test_displacy_parse_deps,flaky,Traceback Coverage,0,0.33,20,spaCy/spacy/tests/test_displacy.py
+574844217,test_doc_retokenize_spans_entity_merge,flaky,Traceback Coverage,0,0.25,18,spaCy/spacy/tests/doc/test_retokenize_merge.py
+574844217,test_issue3009,flaky,Traceback Coverage,0,0.40,26,spaCy/spacy/tests/regression/test_issue3001-3500.py
+557913789,test_vocab_api_symbols,flaky,Traceback Coverage,0,0.25,1,spaCy/spacy/tests/vocab_vectors/test_vocab_api.py
+557248081,test_lt_tokenizer_handles_long_text,flaky,Traceback Coverage,0,0.20,3,spaCy/spacy/tests/lang/lt/test_text.py
+531253417,test_doc_to_json_underscore_error_serialize,flaky,Traceback Coverage,0,0.14,5,spaCy/spacy/tests/doc/test_to_json.py
+531253417,test_token_underscore_method,flaky,Traceback Coverage,0,0.14,4,spaCy/spacy/tests/doc/test_underscore.py
+531253417,test_serialize_ext_attrs_from_bytes,flaky,Traceback Coverage,0,0.14,6,spaCy/spacy/tests/serialize/test_serialize_extension_attrs.py
+529992511,test_lemmatizer_lookup_assigns,flaky,Traceback Coverage,0,0.40,0,spaCy/spacy/tests/lang/pl/test_lemma.py
+510280237,test_add_label,flaky,Traceback Coverage,1,0.17,14,spaCy/spacy/tests/parser/test_add_label.py
+509425029,test_issue3009,flaky,Traceback Coverage,0,0.33,0,spaCy/spacy/tests/regression/test_issue3009.py
+506782029,test_lang_initialize,flaky,Traceback Coverage,0,0.33,6,spaCy/spacy/tests/lang/test_initialize.py
+504737468,test_token_api_conjuncts_chain,flaky,Traceback Coverage,0,0.20,7,spaCy/spacy/tests/doc/test_token_api.py
+504737468,test_token_api_conjuncts_simple,flaky,Traceback Coverage,0,0.20,6,spaCy/spacy/tests/doc/test_token_api.py
+504737468,test_token_api_non_conjuncts,flaky,Traceback Coverage,0,0.20,6,spaCy/spacy/tests/doc/test_token_api.py
+504446491,test_en_parser_noun_chunks_dative,flaky,Traceback Coverage,0,0.25,13,spaCy/spacy/tests/lang/en/test_parser.py
+504372910,test_issue1915,flaky,Traceback Coverage,0,0.25,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+504372910,test_issue2179,flaky,Traceback Coverage,0,0.14,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+504372910,test_issue2800,flaky,Traceback Coverage,2,0.17,17,spaCy/spacy/tests/regression/test_issue2501-3000.py
+504372910,test_issue3209,flaky,Traceback Coverage,0,0.17,15,spaCy/spacy/tests/regression/test_issue3209.py
+504371102,test_issue1915,flaky,Traceback Coverage,0,0.29,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+504371102,test_issue2179,flaky,Traceback Coverage,0,0.15,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+504371102,test_issue2800,flaky,Traceback Coverage,2,0.20,17,spaCy/spacy/tests/regression/test_issue2501-3000.py
+504371102,test_issue3209,flaky,Traceback Coverage,0,0.20,15,spaCy/spacy/tests/regression/test_issue3209.py
+504315678,test_doc_array_to_from_string_attrs,flaky,Traceback Coverage,0,0.25,6,spaCy/spacy/tests/doc/test_array.py
+503042456,test_roundtrip_offsets_biluo_conversion,flaky,Traceback Coverage,0,0.20,8,spaCy/spacy/tests/test_gold.py
+503042456,test_biluo_spans,flaky,Traceback Coverage,0,0.20,8,spaCy/spacy/tests/test_gold.py
+503042456,test_displacy_parse_ents,flaky,Traceback Coverage,0,0.20,7,spaCy/spacy/tests/test_misc.py
+503042456,test_displacy_parse_deps,flaky,Traceback Coverage,0,0.20,20,spaCy/spacy/tests/test_misc.py
+503042456,test_displacy_spans,flaky,Traceback Coverage,0,0.20,5,spaCy/spacy/tests/test_misc.py
+503042456,test_displacy_render_wrapper,flaky,Traceback Coverage,0,0.20,9,spaCy/spacy/tests/test_misc.py
+503042456,test_doc_api_set_ents,flaky,Traceback Coverage,0,0.20,9,spaCy/spacy/tests/doc/test_doc_api.py
+503042456,test_doc_retokenize_retokenizer_attrs,flaky,Traceback Coverage,0,0.20,9,spaCy/spacy/tests/doc/test_retokenize_merge.py
+503042456,test_doc_retokenize_spans_merge_tokens,flaky,Traceback Coverage,0,0.20,14,spaCy/spacy/tests/doc/test_retokenize_merge.py
+503042456,test_doc_retokenize_spans_entity_merge,flaky,Traceback Coverage,0,0.20,18,spaCy/spacy/tests/doc/test_retokenize_merge.py
+503042456,test_spans_by_character,flaky,Traceback Coverage,0,0.20,5,spaCy/spacy/tests/doc/test_span.py
+503042456,test_span_ents_property,flaky,Traceback Coverage,0,0.20,26,spaCy/spacy/tests/doc/test_span.py
+503042456,test_da_tokenizer_handles_posessives_and_contractions,flaky,Traceback Coverage,0,0.20,29,spaCy/spacy/tests/lang/da/test_prefix_suffix_infix.py
+503042456,test_matcher_phrase_matcher,flaky,Traceback Coverage,0,0.29,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+503042456,test_phrase_matcher_string_attrs,flaky,Traceback Coverage,0,0.29,14,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+503042456,test_phrase_matcher_string_attrs_negative,flaky,Traceback Coverage,0,0.29,11,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+503042456,test_phrase_matcher_bool_attrs,flaky,Traceback Coverage,0,0.29,16,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+503042456,test_phrase_matcher_validation,flaky,Traceback Coverage,0,0.20,17,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+503042456,test_get_oracle_moves,flaky,Traceback Coverage,0,0.20,5,spaCy/spacy/tests/parser/test_ner.py
+503042456,test_get_oracle_moves_negative_entities,flaky,Traceback Coverage,0,0.20,9,spaCy/spacy/tests/parser/test_ner.py
+503042456,test_get_oracle_moves_negative_entities2,flaky,Traceback Coverage,0,0.20,7,spaCy/spacy/tests/parser/test_ner.py
+503042456,test_get_oracle_moves_negative_O,flaky,Traceback Coverage,0,0.20,7,spaCy/spacy/tests/parser/test_ner.py
+503042456,test_beam_parse,flaky,Traceback Coverage,0,0.27,6,spaCy/spacy/tests/parser/test_nn_beam.py
+503042456,test_parser_pseudoprojectivity,flaky,Traceback Coverage,0,0.20,63,spaCy/spacy/tests/parser/test_nonproj.py
+503042456,test_entity_ruler_init,flaky,Traceback Coverage,0,0.29,10,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+503042456,test_entity_ruler_existing,flaky,Traceback Coverage,0,0.29,7,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+503042456,test_entity_ruler_existing_overwrite,flaky,Traceback Coverage,0,0.29,8,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+503042456,test_entity_ruler_existing_complex,flaky,Traceback Coverage,0,0.29,9,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+503042456,test_issue118,flaky,Traceback Coverage,0,0.29,17,spaCy/spacy/tests/regression/test_issue1-1000.py
+503042456,test_issue118_prefix_reorder,flaky,Traceback Coverage,0,0.29,17,spaCy/spacy/tests/regression/test_issue1-1000.py
+503042456,test_issue1547,flaky,Traceback Coverage,0,0.20,7,spaCy/spacy/tests/regression/test_issue1501-2000.py
+503042456,test_issue2569,flaky,Traceback Coverage,0,0.29,10,spaCy/spacy/tests/regression/test_issue2501-3000.py
+503042456,test_issue2871,flaky,Traceback Coverage,0,0.20,16,spaCy/spacy/tests/regression/test_issue2501-3000.py
+503042456,test_issue3012,flaky,Traceback Coverage,0,0.20,18,spaCy/spacy/tests/regression/test_issue3012.py
+503042456,test_issue3288,flaky,Traceback Coverage,0,0.20,8,spaCy/spacy/tests/regression/test_issue3288.py
+503042456,test_vocab_lexeme_lt,flaky,Traceback Coverage,0,0.20,7,spaCy/spacy/tests/vocab_vectors/test_lexeme.py
+502856158,test_issue3009,flaky,Traceback Coverage,0,0.29,4,spaCy/spacy/tests/regression/test_issue3009.py
+493790615,test_spans_sentence_update_after_merge,flaky,Traceback Coverage,0,0.13,0,spaCy/spacy/tests/doc/test_doc_split.py
+493780644,test_spans_sentence_update_after_merge,flaky,Traceback Coverage,0,0.15,0,spaCy/spacy/tests/doc/test_doc_split.py
+493275480,test_pipe_base_class_add_label,flaky,Traceback Coverage,0,0.10,8,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+493275480,test_issue2179,flaky,Traceback Coverage,0,0.12,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+493275245,test_pipe_base_class_add_label,flaky,Traceback Coverage,0,0.20,8,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+487019864,test_fr_tokenizer_infix_exceptions,flaky,Traceback Coverage,0,0.20,2,spaCy/spacy/tests/lang/fr/test_exceptions.py
+486971208,test_fr_tokenizer_infix_exceptions,flaky,Traceback Coverage,0,0.25,2,spaCy/spacy/tests/lang/fr/test_exceptions.py
+486332722,test_issue801,flaky,Traceback Coverage,0,0.25,4,spaCy/spacy/tests/regression/test_issue1-1000.py
+473104451,test_spans_lca_matrix,flaky,Traceback Coverage,0,0.40,20,spaCy/spacy/tests/doc/test_span.py
+472888949,test_spans_lca_matrix,flaky,Traceback Coverage,0,0.25,20,spaCy/spacy/tests/doc/test_span.py
+470485991,test_update_doc,flaky,Traceback Coverage,0,0.17,4,spaCy/spacy/tests/parser/test_neural_parser.py
+470484768,test_update_doc,flaky,Traceback Coverage,0,0.20,4,spaCy/spacy/tests/parser/test_neural_parser.py
+461816736,test_cli_trained_model_can_be_saved,flaky,Traceback Coverage,0,0.33,76,spaCy/spacy/tests/regression/test_issue1622.py
+461278242,test_require_gpu,flaky,Traceback Coverage,0,0.20,2,spaCy/spacy/tests/test_misc.py
+461278242,test_doc_add_entities_set_ents_iob,flaky,Traceback Coverage,0,0.14,11,spaCy/spacy/tests/doc/test_add_entities.py
+461278242,test_spans_merge_non_disjoint,flaky,Traceback Coverage,0,0.20,7,spaCy/spacy/tests/doc/test_span_merge.py
+461278242,test_doc_add_entities_set_ents_iob,flaky,Traceback Coverage,0,0.14,11,spaCy/spacy/tests/parser/test_ner.py
+461278242,test_build_model,flaky,Traceback Coverage,0,0.20,2,spaCy/spacy/tests/parser/test_neural_parser.py
+461278242,test_beam_parse,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/parser/test_nn_beam.py
+461278242,test_issue242,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/regression/test_issue1-1000.py
+461278242,test_issue1727,flaky,Traceback Coverage,0,0.29,0,spaCy/spacy/tests/regression/test_issue1501-2000.py
+461278242,test_issue1915,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/regression/test_issue1501-2000.py
+461278242,test_cli_trained_model_can_be_saved,flaky,Traceback Coverage,0,0.20,76,spaCy/spacy/tests/regression/test_issue1622.py
+461278242,test_issue2564,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/regression/test_issue2564.py
+461278242,test_train_with_many_entity_types,flaky,Traceback Coverage,0,0.20,4,spaCy/spacy/tests/regression/test_issue2800.py
+461278242,test_serialize_language_meta_disk,flaky,Traceback Coverage,0,0.20,5,spaCy/spacy/tests/serialize/test_serialize_language.py
+461278242,test_serialize_parser_roundtrip_bytes,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+461278242,test_serialize_parser_roundtrip_disk,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+461278242,test_serialize_tensorizer_roundtrip_bytes,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+461278242,test_serialize_tensorizer_roundtrip_disk,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+461278242,test_serialize_vocab_roundtrip_disk,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+461278242,test_serialize_vocab_lex_attrs_disk,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+461278242,test_vocab_prune_vectors,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+460030337,test_docs_to_json,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/test_gold.py
+459896651,test_vectors__ngrams_word,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+459896651,test_vectors__ngrams_subword,flaky,Traceback Coverage,0,0.20,0,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+713314552,test_lang_initialize,flaky,Multi-Factor,0,0.38,6,spaCy/spacy/tests/lang/test_initialize.py
+690015635,test_to_disk_resource_warning,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/regression/test_issue5230.py
+690015635,test_resource_warning,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/regression/test_issue5230.py
+690015635,test_issue5458,flaky,Multi-Factor,0,0.13,12,spaCy/spacy/tests/regression/test_issue5458.py
+690015635,test_pickle_vocab,flaky,Multi-Factor,0,0.19,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+690006342,test_issue5458,flaky,Multi-Factor,0,0.14,12,spaCy/spacy/tests/regression/test_issue5458.py
+690006342,test_pickle_vocab,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689997586,test_to_disk_resource_warning,flaky,Multi-Factor,0,0.29,2,spaCy/spacy/tests/regression/test_issue5230.py
+689997586,test_resource_warning,flaky,Multi-Factor,0,0.29,5,spaCy/spacy/tests/regression/test_issue5230.py
+689997586,test_issue5458,flaky,Multi-Factor,0,0.15,12,spaCy/spacy/tests/regression/test_issue5458.py
+689997586,test_pickle_vocab,flaky,Multi-Factor,0,0.21,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689986405,test_to_disk_resource_warning,flaky,Multi-Factor,0,0.33,2,spaCy/spacy/tests/regression/test_issue5230.py
+689986405,test_resource_warning,flaky,Multi-Factor,0,0.33,5,spaCy/spacy/tests/regression/test_issue5230.py
+689986405,test_issue5458,flaky,Multi-Factor,0,0.17,12,spaCy/spacy/tests/regression/test_issue5458.py
+689986405,test_pickle_vocab,flaky,Multi-Factor,0,0.22,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689949250,test_to_disk_resource_warning,flaky,Multi-Factor,0,0.40,2,spaCy/spacy/tests/regression/test_issue5230.py
+689949250,test_resource_warning,flaky,Multi-Factor,0,0.40,5,spaCy/spacy/tests/regression/test_issue5230.py
+689949250,test_issue5458,flaky,Multi-Factor,0,0.18,12,spaCy/spacy/tests/regression/test_issue5458.py
+689949250,test_pickle_vocab,flaky,Multi-Factor,0,0.23,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689833476,test_to_disk_resource_warning,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/regression/test_issue5230.py
+689833476,test_resource_warning,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/regression/test_issue5230.py
+689833476,test_issue5458,flaky,Multi-Factor,0,0.10,12,spaCy/spacy/tests/regression/test_issue5458.py
+689833476,test_pickle_vocab,flaky,Multi-Factor,0,0.19,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689825616,test_issue5458,flaky,Multi-Factor,0,0.11,12,spaCy/spacy/tests/regression/test_issue5458.py
+689825616,test_pickle_vocab,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689779338,test_issue5458,flaky,Multi-Factor,0,0.12,12,spaCy/spacy/tests/regression/test_issue5458.py
+689779338,test_pickle_vocab,flaky,Multi-Factor,0,0.21,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689759732,test_issue5458,flaky,Multi-Factor,0,0.14,12,spaCy/spacy/tests/regression/test_issue5458.py
+689759732,test_pickle_vocab,flaky,Multi-Factor,0,0.22,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689759391,test_pickle_vocab,flaky,Multi-Factor,0,0.24,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689759017,test_displacy_raises_for_wrong_type,flaky,Multi-Factor,0,0.08,2,spaCy/spacy/tests/test_displacy.py
+689759017,test_add_codes,flaky,Multi-Factor,0,0.08,4,spaCy/spacy/tests/test_errors.py
+689759017,test_gold_biluo_overlap,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/test_gold.py
+689759017,test_gold_biluo_misalign,flaky,Multi-Factor,0,0.08,7,spaCy/spacy/tests/test_gold.py
+689759017,test_iob_to_biluo,flaky,Multi-Factor,0,0.08,7,spaCy/spacy/tests/test_gold.py
+689759017,test_language_pipe,flaky,Multi-Factor,0,0.24,5,spaCy/spacy/tests/test_language.py
+689759017,test_add_overlapping_entities,flaky,Multi-Factor,0,0.08,7,spaCy/spacy/tests/doc/test_add_entities.py
+689759017,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.14,7,spaCy/spacy/tests/doc/test_doc_api.py
+689759017,test_doc_retokenize_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.08,12,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689759017,test_doc_retokenize_merge_extension_attrs_invalid,flaky,Multi-Factor,0,0.08,7,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689759017,test_doc_retokenize_split_heads_error,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689759017,test_doc_retokenize_split_orths_mismatch,flaky,Multi-Factor,0,0.08,10,spaCy/spacy/tests/doc/test_retokenize_split.py
+689759017,test_doc_retokenize_split_extension_attrs_invalid,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689759017,test_span_similarity_match,flaky,Multi-Factor,0,0.14,7,spaCy/spacy/tests/doc/test_span.py
+689759017,test_span_label_readonly,flaky,Multi-Factor,0,0.08,3,spaCy/spacy/tests/doc/test_span.py
+689759017,test_span_kb_id_readonly,flaky,Multi-Factor,0,0.08,3,spaCy/spacy/tests/doc/test_span.py
+689759017,test_doc_to_json_underscore_error_attr,flaky,Multi-Factor,0,0.08,4,spaCy/spacy/tests/doc/test_to_json.py
+689759017,test_doc_to_json_underscore_error_serialize,flaky,Multi-Factor,0,0.12,5,spaCy/spacy/tests/doc/test_to_json.py
+689759017,test_underscore_raises_for_dup,flaky,Multi-Factor,0,0.08,3,spaCy/spacy/tests/doc/test_underscore.py
+689759017,test_underscore_raises_for_invalid,flaky,Multi-Factor,0,0.08,3,spaCy/spacy/tests/doc/test_underscore.py
+689759017,test_lang_initialize,flaky,Multi-Factor,0,0.36,6,spaCy/spacy/tests/lang/test_initialize.py
+689759017,test_noun_chunks_is_parsed_de,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/lang/de/test_noun_chunks.py
+689759017,test_noun_chunks_is_parsed_el,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/lang/el/test_noun_chunks.py
+689759017,test_noun_chunks_is_parsed,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/lang/en/test_noun_chunks.py
+689759017,test_noun_chunks_is_parsed_es,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/lang/es/test_noun_chunks.py
+689759017,test_noun_chunks_is_parsed_fa,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/lang/fa/test_noun_chunks.py
+689759017,test_noun_chunks_is_parsed_fr,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/lang/fr/test_noun_chunks.py
+689759017,test_noun_chunks_is_parsed_id,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/lang/id/test_noun_chunks.py
+689759017,test_noun_chunks_is_parsed_nb,flaky,Multi-Factor,0,0.08,9,spaCy/spacy/tests/lang/nb/test_noun_chunks.py
+689759017,test_matcher_basic_check,flaky,Multi-Factor,0,0.08,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689759017,test_matcher_valid_callback,flaky,Multi-Factor,0,0.08,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689759017,test_minimal_pattern_validation,flaky,Multi-Factor,0,0.08,6,spaCy/spacy/tests/matcher/test_pattern_validation.py
+689759017,test_attr_validation,flaky,Multi-Factor,0,0.08,2,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689759017,test_phrase_matcher_basic_check,flaky,Multi-Factor,0,0.08,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689759017,test_analysis_validate_attrs_valid,flaky,Multi-Factor,0,0.08,6,spaCy/spacy/tests/pipeline/test_analysis.py
+689759017,test_analysis_validate_attrs_invalid,flaky,Multi-Factor,0,0.08,2,spaCy/spacy/tests/pipeline/test_analysis.py
+689759017,test_kb_invalid_entities,flaky,Multi-Factor,0,0.13,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689759017,test_kb_invalid_probabilities,flaky,Multi-Factor,0,0.13,9,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689759017,test_kb_invalid_combination,flaky,Multi-Factor,0,0.13,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689759017,test_kb_invalid_entity_vector,flaky,Multi-Factor,0,0.08,7,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689759017,test_append_invalid_alias,flaky,Multi-Factor,0,0.08,12,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689759017,test_entity_ruler_validate,flaky,Multi-Factor,0,0.08,12,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+689759017,test_add_pipe_duplicate_name,flaky,Multi-Factor,0,0.08,3,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689759017,test_cant_add_pipe_first_and_last,flaky,Multi-Factor,0,0.08,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689759017,test_get_pipe,flaky,Multi-Factor,0,0.08,4,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689759017,test_rename_pipe,flaky,Multi-Factor,0,0.08,5,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689759017,test_raise_for_invalid_components,flaky,Multi-Factor,0,0.08,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689759017,test_label_types,flaky,Multi-Factor,0,0.08,5,spaCy/spacy/tests/pipeline/test_tagger.py
+689759017,test_issue242,flaky,Multi-Factor,0,0.19,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+689759017,test_issue588,flaky,Multi-Factor,0,0.08,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+689759017,test_issue1915,flaky,Multi-Factor,0,0.17,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+689759017,test_issue2564,flaky,Multi-Factor,0,0.24,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689759017,test_issue2833,flaky,Multi-Factor,0,0.08,6,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689759017,test_issue3410,flaky,Multi-Factor,0,0.14,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689759017,test_issue3456,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689759017,test_issue4348,flaky,Multi-Factor,1,0.20,12,spaCy/spacy/tests/regression/test_issue4348.py
+689759017,test_issue4674,flaky,Multi-Factor,0,0.08,22,spaCy/spacy/tests/regression/test_issue4674.py
+689759017,test_issue4903,flaky,Multi-Factor,0,0.12,10,spaCy/spacy/tests/regression/test_issue4903.py
+689759017,test_serialize_doc_exclude,flaky,Multi-Factor,0,0.08,12,spaCy/spacy/tests/serialize/test_serialize_doc.py
+689759017,test_pickle_vocab,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689759017,test_tokenizer_explain,flaky,Multi-Factor,0,0.08,6,spaCy/spacy/tests/tokenizer/test_explain.py
+689759017,test_vectors_similarity_TD,flaky,Multi-Factor,0,0.08,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689759017,test_vectors_similarity_TS,flaky,Multi-Factor,0,0.08,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689759017,test_stringstore_retrieve_id,flaky,Multi-Factor,0,0.08,5,spaCy/spacy/tests/vocab_vectors/test_stringstore.py
+689759017,test_vectors_most_similar,flaky,Multi-Factor,0,0.08,5,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689759017,test_vectors_span_span_similarity,flaky,Multi-Factor,0,0.08,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689759017,test_vectors_span_doc_similarity,flaky,Multi-Factor,0,0.08,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689759017,test_vocab_add_vector,flaky,Multi-Factor,0,0.08,12,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689751308,test_displacy_raises_for_wrong_type,flaky,Multi-Factor,0,0.09,2,spaCy/spacy/tests/test_displacy.py
+689751308,test_add_codes,flaky,Multi-Factor,0,0.09,4,spaCy/spacy/tests/test_errors.py
+689751308,test_gold_biluo_overlap,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/test_gold.py
+689751308,test_gold_biluo_misalign,flaky,Multi-Factor,0,0.09,7,spaCy/spacy/tests/test_gold.py
+689751308,test_iob_to_biluo,flaky,Multi-Factor,0,0.09,7,spaCy/spacy/tests/test_gold.py
+689751308,test_language_pipe,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/test_language.py
+689751308,test_add_overlapping_entities,flaky,Multi-Factor,0,0.09,7,spaCy/spacy/tests/doc/test_add_entities.py
+689751308,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.15,7,spaCy/spacy/tests/doc/test_doc_api.py
+689751308,test_doc_retokenize_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.09,12,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689751308,test_doc_retokenize_merge_extension_attrs_invalid,flaky,Multi-Factor,0,0.09,7,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689751308,test_doc_retokenize_split_heads_error,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689751308,test_doc_retokenize_split_orths_mismatch,flaky,Multi-Factor,0,0.09,10,spaCy/spacy/tests/doc/test_retokenize_split.py
+689751308,test_doc_retokenize_split_extension_attrs_invalid,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689751308,test_span_similarity_match,flaky,Multi-Factor,0,0.15,7,spaCy/spacy/tests/doc/test_span.py
+689751308,test_span_label_readonly,flaky,Multi-Factor,0,0.09,3,spaCy/spacy/tests/doc/test_span.py
+689751308,test_span_kb_id_readonly,flaky,Multi-Factor,0,0.09,3,spaCy/spacy/tests/doc/test_span.py
+689751308,test_doc_to_json_underscore_error_attr,flaky,Multi-Factor,0,0.09,4,spaCy/spacy/tests/doc/test_to_json.py
+689751308,test_doc_to_json_underscore_error_serialize,flaky,Multi-Factor,0,0.13,5,spaCy/spacy/tests/doc/test_to_json.py
+689751308,test_underscore_raises_for_dup,flaky,Multi-Factor,0,0.09,3,spaCy/spacy/tests/doc/test_underscore.py
+689751308,test_underscore_raises_for_invalid,flaky,Multi-Factor,0,0.09,3,spaCy/spacy/tests/doc/test_underscore.py
+689751308,test_lang_initialize,flaky,Multi-Factor,0,0.37,6,spaCy/spacy/tests/lang/test_initialize.py
+689751308,test_noun_chunks_is_parsed_de,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/lang/de/test_noun_chunks.py
+689751308,test_noun_chunks_is_parsed_el,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/lang/el/test_noun_chunks.py
+689751308,test_noun_chunks_is_parsed,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/lang/en/test_noun_chunks.py
+689751308,test_noun_chunks_is_parsed_es,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/lang/es/test_noun_chunks.py
+689751308,test_noun_chunks_is_parsed_fa,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/lang/fa/test_noun_chunks.py
+689751308,test_noun_chunks_is_parsed_fr,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/lang/fr/test_noun_chunks.py
+689751308,test_noun_chunks_is_parsed_id,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/lang/id/test_noun_chunks.py
+689751308,test_noun_chunks_is_parsed_nb,flaky,Multi-Factor,0,0.09,9,spaCy/spacy/tests/lang/nb/test_noun_chunks.py
+689751308,test_matcher_basic_check,flaky,Multi-Factor,0,0.09,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689751308,test_matcher_valid_callback,flaky,Multi-Factor,0,0.09,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689751308,test_minimal_pattern_validation,flaky,Multi-Factor,0,0.09,6,spaCy/spacy/tests/matcher/test_pattern_validation.py
+689751308,test_attr_validation,flaky,Multi-Factor,0,0.09,2,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689751308,test_phrase_matcher_basic_check,flaky,Multi-Factor,0,0.09,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689751308,test_analysis_validate_attrs_valid,flaky,Multi-Factor,0,0.09,6,spaCy/spacy/tests/pipeline/test_analysis.py
+689751308,test_analysis_validate_attrs_invalid,flaky,Multi-Factor,0,0.09,2,spaCy/spacy/tests/pipeline/test_analysis.py
+689751308,test_kb_invalid_entities,flaky,Multi-Factor,0,0.14,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689751308,test_kb_invalid_probabilities,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689751308,test_kb_invalid_combination,flaky,Multi-Factor,0,0.14,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689751308,test_kb_invalid_entity_vector,flaky,Multi-Factor,0,0.09,7,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689751308,test_append_invalid_alias,flaky,Multi-Factor,0,0.09,12,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689751308,test_entity_ruler_validate,flaky,Multi-Factor,0,0.09,12,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+689751308,test_add_pipe_duplicate_name,flaky,Multi-Factor,0,0.09,3,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689751308,test_cant_add_pipe_first_and_last,flaky,Multi-Factor,0,0.09,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689751308,test_get_pipe,flaky,Multi-Factor,0,0.09,4,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689751308,test_rename_pipe,flaky,Multi-Factor,0,0.09,5,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689751308,test_raise_for_invalid_components,flaky,Multi-Factor,0,0.09,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689751308,test_label_types,flaky,Multi-Factor,0,0.09,5,spaCy/spacy/tests/pipeline/test_tagger.py
+689751308,test_issue242,flaky,Multi-Factor,0,0.20,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+689751308,test_issue588,flaky,Multi-Factor,0,0.09,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+689751308,test_issue1915,flaky,Multi-Factor,0,0.17,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+689751308,test_issue2564,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689751308,test_issue2833,flaky,Multi-Factor,0,0.09,6,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689751308,test_issue3410,flaky,Multi-Factor,0,0.15,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689751308,test_issue3456,flaky,Multi-Factor,0,0.21,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689751308,test_issue4348,flaky,Multi-Factor,1,0.21,12,spaCy/spacy/tests/regression/test_issue4348.py
+689751308,test_issue4674,flaky,Multi-Factor,0,0.09,22,spaCy/spacy/tests/regression/test_issue4674.py
+689751308,test_issue4903,flaky,Multi-Factor,0,0.13,10,spaCy/spacy/tests/regression/test_issue4903.py
+689751308,test_serialize_doc_exclude,flaky,Multi-Factor,0,0.09,12,spaCy/spacy/tests/serialize/test_serialize_doc.py
+689751308,test_pickle_vocab,flaky,Multi-Factor,0,0.27,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689751308,test_tokenizer_explain,flaky,Multi-Factor,0,0.09,6,spaCy/spacy/tests/tokenizer/test_explain.py
+689751308,test_vectors_similarity_TD,flaky,Multi-Factor,0,0.09,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689751308,test_vectors_similarity_TS,flaky,Multi-Factor,0,0.09,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689751308,test_stringstore_retrieve_id,flaky,Multi-Factor,0,0.09,5,spaCy/spacy/tests/vocab_vectors/test_stringstore.py
+689751308,test_vectors_most_similar,flaky,Multi-Factor,0,0.09,5,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689751308,test_vectors_span_span_similarity,flaky,Multi-Factor,0,0.09,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689751308,test_vectors_span_doc_similarity,flaky,Multi-Factor,0,0.09,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689751308,test_vocab_add_vector,flaky,Multi-Factor,0,0.09,12,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689750767,test_displacy_invalid_arcs,flaky,Multi-Factor,0,0.10,8,spaCy/spacy/tests/test_displacy.py
+689750767,test_displacy_raises_for_wrong_type,flaky,Multi-Factor,0,0.10,2,spaCy/spacy/tests/test_displacy.py
+689750767,test_add_codes,flaky,Multi-Factor,0,0.10,4,spaCy/spacy/tests/test_errors.py
+689750767,test_gold_biluo_overlap,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/test_gold.py
+689750767,test_gold_biluo_misalign,flaky,Multi-Factor,0,0.10,7,spaCy/spacy/tests/test_gold.py
+689750767,test_iob_to_biluo,flaky,Multi-Factor,0,0.10,7,spaCy/spacy/tests/test_gold.py
+689750767,test_language_pipe,flaky,Multi-Factor,0,0.27,5,spaCy/spacy/tests/test_language.py
+689750767,test_load_model_blank_shortcut,flaky,Multi-Factor,0,0.25,8,spaCy/spacy/tests/test_misc.py
+689750767,test_add_overlapping_entities,flaky,Multi-Factor,0,0.10,7,spaCy/spacy/tests/doc/test_add_entities.py
+689750767,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.17,7,spaCy/spacy/tests/doc/test_doc_api.py
+689750767,test_doc_retokenize_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.10,12,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689750767,test_doc_retokenize_merge_extension_attrs_invalid,flaky,Multi-Factor,0,0.10,7,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689750767,test_doc_retokenize_split_heads_error,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689750767,test_doc_retokenize_split_orths_mismatch,flaky,Multi-Factor,0,0.10,10,spaCy/spacy/tests/doc/test_retokenize_split.py
+689750767,test_doc_retokenize_split_extension_attrs_invalid,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689750767,test_span_similarity_match,flaky,Multi-Factor,0,0.17,7,spaCy/spacy/tests/doc/test_span.py
+689750767,test_span_label_readonly,flaky,Multi-Factor,0,0.10,3,spaCy/spacy/tests/doc/test_span.py
+689750767,test_span_kb_id_readonly,flaky,Multi-Factor,0,0.10,3,spaCy/spacy/tests/doc/test_span.py
+689750767,test_doc_to_json_underscore_error_attr,flaky,Multi-Factor,0,0.10,4,spaCy/spacy/tests/doc/test_to_json.py
+689750767,test_doc_to_json_underscore_error_serialize,flaky,Multi-Factor,0,0.14,5,spaCy/spacy/tests/doc/test_to_json.py
+689750767,test_underscore_raises_for_dup,flaky,Multi-Factor,0,0.10,3,spaCy/spacy/tests/doc/test_underscore.py
+689750767,test_underscore_raises_for_invalid,flaky,Multi-Factor,0,0.10,3,spaCy/spacy/tests/doc/test_underscore.py
+689750767,test_lang_initialize,flaky,Multi-Factor,0,0.38,6,spaCy/spacy/tests/lang/test_initialize.py
+689750767,test_noun_chunks_is_parsed_de,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/lang/de/test_noun_chunks.py
+689750767,test_noun_chunks_is_parsed_el,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/lang/el/test_noun_chunks.py
+689750767,test_noun_chunks_is_parsed,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/lang/en/test_noun_chunks.py
+689750767,test_noun_chunks_is_parsed_es,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/lang/es/test_noun_chunks.py
+689750767,test_noun_chunks_is_parsed_fa,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/lang/fa/test_noun_chunks.py
+689750767,test_noun_chunks_is_parsed_fr,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/lang/fr/test_noun_chunks.py
+689750767,test_noun_chunks_is_parsed_id,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/lang/id/test_noun_chunks.py
+689750767,test_noun_chunks_is_parsed_nb,flaky,Multi-Factor,0,0.10,9,spaCy/spacy/tests/lang/nb/test_noun_chunks.py
+689750767,test_matcher_basic_check,flaky,Multi-Factor,0,0.10,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689750767,test_matcher_valid_callback,flaky,Multi-Factor,0,0.10,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689750767,test_minimal_pattern_validation,flaky,Multi-Factor,0,0.10,6,spaCy/spacy/tests/matcher/test_pattern_validation.py
+689750767,test_phrase_matcher_validation,flaky,Multi-Factor,0,0.17,17,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689750767,test_attr_validation,flaky,Multi-Factor,0,0.10,2,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689750767,test_phrase_matcher_basic_check,flaky,Multi-Factor,0,0.10,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689750767,test_analysis_validate_attrs_valid,flaky,Multi-Factor,0,0.10,6,spaCy/spacy/tests/pipeline/test_analysis.py
+689750767,test_analysis_validate_attrs_invalid,flaky,Multi-Factor,0,0.10,2,spaCy/spacy/tests/pipeline/test_analysis.py
+689750767,test_kb_invalid_entities,flaky,Multi-Factor,0,0.15,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689750767,test_kb_invalid_probabilities,flaky,Multi-Factor,0,0.15,9,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689750767,test_kb_invalid_combination,flaky,Multi-Factor,0,0.15,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689750767,test_kb_invalid_entity_vector,flaky,Multi-Factor,0,0.10,7,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689750767,test_append_invalid_alias,flaky,Multi-Factor,0,0.10,12,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689750767,test_entity_ruler_validate,flaky,Multi-Factor,0,0.10,12,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+689750767,test_add_pipe_duplicate_name,flaky,Multi-Factor,0,0.10,3,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689750767,test_cant_add_pipe_first_and_last,flaky,Multi-Factor,0,0.10,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689750767,test_get_pipe,flaky,Multi-Factor,0,0.10,4,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689750767,test_replace_pipe,flaky,Multi-Factor,0,0.10,8,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689750767,test_rename_pipe,flaky,Multi-Factor,0,0.10,5,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689750767,test_remove_pipe,flaky,Multi-Factor,0,0.10,8,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689750767,test_raise_for_invalid_components,flaky,Multi-Factor,0,0.10,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689750767,test_label_types,flaky,Multi-Factor,0,0.10,5,spaCy/spacy/tests/pipeline/test_tagger.py
+689750767,test_issue242,flaky,Multi-Factor,0,0.21,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+689750767,test_issue588,flaky,Multi-Factor,0,0.10,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+689750767,test_issue1375,flaky,Multi-Factor,0,0.17,8,spaCy/spacy/tests/regression/test_issue1001-1500.py
+689750767,test_issue1915,flaky,Multi-Factor,0,0.18,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+689750767,test_issue2564,flaky,Multi-Factor,0,0.27,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689750767,test_issue2833,flaky,Multi-Factor,0,0.10,6,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689750767,test_issue3410,flaky,Multi-Factor,0,0.17,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689750767,test_issue3456,flaky,Multi-Factor,0,0.23,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689750767,test_issue4348,flaky,Multi-Factor,1,0.23,12,spaCy/spacy/tests/regression/test_issue4348.py
+689750767,test_issue4674,flaky,Multi-Factor,0,0.10,22,spaCy/spacy/tests/regression/test_issue4674.py
+689750767,test_issue4903,flaky,Multi-Factor,0,0.14,10,spaCy/spacy/tests/regression/test_issue4903.py
+689750767,test_serialize_doc_exclude,flaky,Multi-Factor,0,0.10,12,spaCy/spacy/tests/serialize/test_serialize_doc.py
+689750767,test_serialize_pipe_exclude,flaky,Multi-Factor,0,0.18,21,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+689750767,test_pickle_vocab,flaky,Multi-Factor,0,0.29,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689750767,test_tokenizer_explain,flaky,Multi-Factor,0,0.10,6,spaCy/spacy/tests/tokenizer/test_explain.py
+689750767,test_vectors_similarity_TD,flaky,Multi-Factor,0,0.10,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689750767,test_vectors_similarity_TS,flaky,Multi-Factor,0,0.10,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689750767,test_stringstore_retrieve_id,flaky,Multi-Factor,0,0.10,5,spaCy/spacy/tests/vocab_vectors/test_stringstore.py
+689750767,test_vectors_most_similar,flaky,Multi-Factor,0,0.10,5,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689750767,test_vectors_span_span_similarity,flaky,Multi-Factor,0,0.10,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689750767,test_vectors_span_doc_similarity,flaky,Multi-Factor,0,0.10,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689750767,test_vocab_add_vector,flaky,Multi-Factor,0,0.10,12,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689744566,test_displacy_raises_for_wrong_type,flaky,Multi-Factor,0,0.11,2,spaCy/spacy/tests/test_displacy.py
+689744566,test_add_codes,flaky,Multi-Factor,0,0.11,4,spaCy/spacy/tests/test_errors.py
+689744566,test_gold_biluo_overlap,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/test_gold.py
+689744566,test_gold_biluo_misalign,flaky,Multi-Factor,0,0.11,7,spaCy/spacy/tests/test_gold.py
+689744566,test_iob_to_biluo,flaky,Multi-Factor,0,0.11,7,spaCy/spacy/tests/test_gold.py
+689744566,test_language_pipe,flaky,Multi-Factor,0,0.29,5,spaCy/spacy/tests/test_language.py
+689744566,test_add_overlapping_entities,flaky,Multi-Factor,0,0.11,7,spaCy/spacy/tests/doc/test_add_entities.py
+689744566,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.18,7,spaCy/spacy/tests/doc/test_doc_api.py
+689744566,test_doc_retokenize_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.11,12,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689744566,test_doc_retokenize_merge_extension_attrs_invalid,flaky,Multi-Factor,0,0.11,7,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689744566,test_doc_retokenize_split_heads_error,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689744566,test_doc_retokenize_split_orths_mismatch,flaky,Multi-Factor,0,0.11,10,spaCy/spacy/tests/doc/test_retokenize_split.py
+689744566,test_doc_retokenize_split_extension_attrs_invalid,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689744566,test_span_similarity_match,flaky,Multi-Factor,0,0.18,7,spaCy/spacy/tests/doc/test_span.py
+689744566,test_span_label_readonly,flaky,Multi-Factor,0,0.11,3,spaCy/spacy/tests/doc/test_span.py
+689744566,test_span_kb_id_readonly,flaky,Multi-Factor,0,0.11,3,spaCy/spacy/tests/doc/test_span.py
+689744566,test_doc_to_json_underscore_error_attr,flaky,Multi-Factor,0,0.11,4,spaCy/spacy/tests/doc/test_to_json.py
+689744566,test_doc_to_json_underscore_error_serialize,flaky,Multi-Factor,0,0.15,5,spaCy/spacy/tests/doc/test_to_json.py
+689744566,test_underscore_raises_for_dup,flaky,Multi-Factor,0,0.11,3,spaCy/spacy/tests/doc/test_underscore.py
+689744566,test_underscore_raises_for_invalid,flaky,Multi-Factor,0,0.11,3,spaCy/spacy/tests/doc/test_underscore.py
+689744566,test_lang_initialize,flaky,Multi-Factor,0,0.40,6,spaCy/spacy/tests/lang/test_initialize.py
+689744566,test_noun_chunks_is_parsed_de,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/lang/de/test_noun_chunks.py
+689744566,test_noun_chunks_is_parsed_el,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/lang/el/test_noun_chunks.py
+689744566,test_noun_chunks_is_parsed,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/lang/en/test_noun_chunks.py
+689744566,test_noun_chunks_is_parsed_es,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/lang/es/test_noun_chunks.py
+689744566,test_noun_chunks_is_parsed_fa,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/lang/fa/test_noun_chunks.py
+689744566,test_noun_chunks_is_parsed_fr,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/lang/fr/test_noun_chunks.py
+689744566,test_noun_chunks_is_parsed_id,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/lang/id/test_noun_chunks.py
+689744566,test_noun_chunks_is_parsed_nb,flaky,Multi-Factor,0,0.11,9,spaCy/spacy/tests/lang/nb/test_noun_chunks.py
+689744566,test_matcher_basic_check,flaky,Multi-Factor,0,0.11,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689744566,test_matcher_valid_callback,flaky,Multi-Factor,0,0.11,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689744566,test_minimal_pattern_validation,flaky,Multi-Factor,0,0.11,6,spaCy/spacy/tests/matcher/test_pattern_validation.py
+689744566,test_attr_validation,flaky,Multi-Factor,0,0.11,2,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689744566,test_phrase_matcher_basic_check,flaky,Multi-Factor,0,0.11,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689744566,test_analysis_validate_attrs_valid,flaky,Multi-Factor,0,0.11,6,spaCy/spacy/tests/pipeline/test_analysis.py
+689744566,test_analysis_validate_attrs_invalid,flaky,Multi-Factor,0,0.11,2,spaCy/spacy/tests/pipeline/test_analysis.py
+689744566,test_kb_invalid_entities,flaky,Multi-Factor,0,0.17,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689744566,test_kb_invalid_probabilities,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689744566,test_kb_invalid_combination,flaky,Multi-Factor,0,0.17,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689744566,test_kb_invalid_entity_vector,flaky,Multi-Factor,0,0.11,7,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689744566,test_append_invalid_alias,flaky,Multi-Factor,0,0.11,12,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689744566,test_entity_ruler_validate,flaky,Multi-Factor,0,0.11,12,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+689744566,test_add_pipe_duplicate_name,flaky,Multi-Factor,0,0.11,3,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689744566,test_cant_add_pipe_first_and_last,flaky,Multi-Factor,0,0.11,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689744566,test_get_pipe,flaky,Multi-Factor,0,0.11,4,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689744566,test_rename_pipe,flaky,Multi-Factor,0,0.11,5,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689744566,test_raise_for_invalid_components,flaky,Multi-Factor,0,0.11,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689744566,test_label_types,flaky,Multi-Factor,0,0.11,5,spaCy/spacy/tests/pipeline/test_tagger.py
+689744566,test_issue242,flaky,Multi-Factor,0,0.23,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+689744566,test_issue588,flaky,Multi-Factor,0,0.11,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+689744566,test_issue1915,flaky,Multi-Factor,0,0.19,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+689744566,test_issue2564,flaky,Multi-Factor,0,0.29,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689744566,test_issue2833,flaky,Multi-Factor,0,0.11,6,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689744566,test_issue3410,flaky,Multi-Factor,0,0.18,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689744566,test_issue3456,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689744566,test_issue4348,flaky,Multi-Factor,1,0.25,12,spaCy/spacy/tests/regression/test_issue4348.py
+689744566,test_issue4674,flaky,Multi-Factor,0,0.11,22,spaCy/spacy/tests/regression/test_issue4674.py
+689744566,test_issue4903,flaky,Multi-Factor,0,0.15,10,spaCy/spacy/tests/regression/test_issue4903.py
+689744566,test_serialize_doc_exclude,flaky,Multi-Factor,0,0.11,12,spaCy/spacy/tests/serialize/test_serialize_doc.py
+689744566,test_pickle_vocab,flaky,Multi-Factor,0,0.31,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689744566,test_tokenizer_explain,flaky,Multi-Factor,0,0.11,6,spaCy/spacy/tests/tokenizer/test_explain.py
+689744566,test_vectors_similarity_TD,flaky,Multi-Factor,0,0.11,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689744566,test_vectors_similarity_TS,flaky,Multi-Factor,0,0.11,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689744566,test_stringstore_retrieve_id,flaky,Multi-Factor,0,0.11,5,spaCy/spacy/tests/vocab_vectors/test_stringstore.py
+689744566,test_vectors_most_similar,flaky,Multi-Factor,0,0.11,5,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689744566,test_vectors_span_span_similarity,flaky,Multi-Factor,0,0.11,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689744566,test_vectors_span_doc_similarity,flaky,Multi-Factor,0,0.11,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689744566,test_vocab_add_vector,flaky,Multi-Factor,0,0.11,12,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689741907,test_displacy_raises_for_wrong_type,flaky,Multi-Factor,0,0.12,2,spaCy/spacy/tests/test_displacy.py
+689741907,test_add_codes,flaky,Multi-Factor,0,0.12,4,spaCy/spacy/tests/test_errors.py
+689741907,test_gold_biluo_overlap,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/test_gold.py
+689741907,test_gold_biluo_misalign,flaky,Multi-Factor,0,0.12,7,spaCy/spacy/tests/test_gold.py
+689741907,test_iob_to_biluo,flaky,Multi-Factor,0,0.12,7,spaCy/spacy/tests/test_gold.py
+689741907,test_language_pipe,flaky,Multi-Factor,0,0.31,5,spaCy/spacy/tests/test_language.py
+689741907,test_add_overlapping_entities,flaky,Multi-Factor,0,0.12,7,spaCy/spacy/tests/doc/test_add_entities.py
+689741907,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/doc/test_doc_api.py
+689741907,test_doc_retokenize_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.12,12,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689741907,test_doc_retokenize_merge_extension_attrs_invalid,flaky,Multi-Factor,0,0.12,7,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689741907,test_doc_retokenize_split_heads_error,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689741907,test_doc_retokenize_split_orths_mismatch,flaky,Multi-Factor,0,0.12,10,spaCy/spacy/tests/doc/test_retokenize_split.py
+689741907,test_doc_retokenize_split_extension_attrs_invalid,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689741907,test_span_similarity_match,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/doc/test_span.py
+689741907,test_span_label_readonly,flaky,Multi-Factor,0,0.12,3,spaCy/spacy/tests/doc/test_span.py
+689741907,test_span_kb_id_readonly,flaky,Multi-Factor,0,0.12,3,spaCy/spacy/tests/doc/test_span.py
+689741907,test_doc_to_json_underscore_error_attr,flaky,Multi-Factor,0,0.12,4,spaCy/spacy/tests/doc/test_to_json.py
+689741907,test_doc_to_json_underscore_error_serialize,flaky,Multi-Factor,0,0.17,5,spaCy/spacy/tests/doc/test_to_json.py
+689741907,test_underscore_raises_for_dup,flaky,Multi-Factor,0,0.12,3,spaCy/spacy/tests/doc/test_underscore.py
+689741907,test_underscore_raises_for_invalid,flaky,Multi-Factor,0,0.12,3,spaCy/spacy/tests/doc/test_underscore.py
+689741907,test_lang_initialize,flaky,Multi-Factor,0,0.42,6,spaCy/spacy/tests/lang/test_initialize.py
+689741907,test_noun_chunks_is_parsed_de,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/lang/de/test_noun_chunks.py
+689741907,test_noun_chunks_is_parsed_el,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/lang/el/test_noun_chunks.py
+689741907,test_noun_chunks_is_parsed,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/lang/en/test_noun_chunks.py
+689741907,test_noun_chunks_is_parsed_es,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/lang/es/test_noun_chunks.py
+689741907,test_noun_chunks_is_parsed_fa,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/lang/fa/test_noun_chunks.py
+689741907,test_noun_chunks_is_parsed_fr,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/lang/fr/test_noun_chunks.py
+689741907,test_noun_chunks_is_parsed_id,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/lang/id/test_noun_chunks.py
+689741907,test_noun_chunks_is_parsed_nb,flaky,Multi-Factor,0,0.12,9,spaCy/spacy/tests/lang/nb/test_noun_chunks.py
+689741907,test_matcher_basic_check,flaky,Multi-Factor,0,0.12,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689741907,test_matcher_valid_callback,flaky,Multi-Factor,0,0.12,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689741907,test_minimal_pattern_validation,flaky,Multi-Factor,0,0.12,6,spaCy/spacy/tests/matcher/test_pattern_validation.py
+689741907,test_attr_validation,flaky,Multi-Factor,0,0.12,2,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689741907,test_phrase_matcher_basic_check,flaky,Multi-Factor,0,0.12,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689741907,test_analysis_validate_attrs_valid,flaky,Multi-Factor,0,0.12,6,spaCy/spacy/tests/pipeline/test_analysis.py
+689741907,test_analysis_validate_attrs_invalid,flaky,Multi-Factor,0,0.12,2,spaCy/spacy/tests/pipeline/test_analysis.py
+689741907,test_kb_invalid_entities,flaky,Multi-Factor,0,0.18,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689741907,test_kb_invalid_probabilities,flaky,Multi-Factor,0,0.18,9,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689741907,test_kb_invalid_combination,flaky,Multi-Factor,0,0.18,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689741907,test_kb_invalid_entity_vector,flaky,Multi-Factor,0,0.12,7,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689741907,test_append_invalid_alias,flaky,Multi-Factor,0,0.12,12,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689741907,test_entity_ruler_validate,flaky,Multi-Factor,0,0.12,12,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+689741907,test_add_pipe_duplicate_name,flaky,Multi-Factor,0,0.12,3,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689741907,test_cant_add_pipe_first_and_last,flaky,Multi-Factor,0,0.12,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689741907,test_get_pipe,flaky,Multi-Factor,0,0.12,4,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689741907,test_rename_pipe,flaky,Multi-Factor,0,0.12,5,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689741907,test_raise_for_invalid_components,flaky,Multi-Factor,0,0.12,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689741907,test_label_types,flaky,Multi-Factor,0,0.12,5,spaCy/spacy/tests/pipeline/test_tagger.py
+689741907,test_issue242,flaky,Multi-Factor,0,0.25,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+689741907,test_issue588,flaky,Multi-Factor,0,0.12,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+689741907,test_issue1915,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+689741907,test_issue2564,flaky,Multi-Factor,0,0.31,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689741907,test_issue2833,flaky,Multi-Factor,0,0.12,6,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689741907,test_issue3410,flaky,Multi-Factor,0,0.20,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689741907,test_issue3456,flaky,Multi-Factor,0,0.27,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689741907,test_issue4348,flaky,Multi-Factor,1,0.27,12,spaCy/spacy/tests/regression/test_issue4348.py
+689741907,test_issue4674,flaky,Multi-Factor,0,0.12,22,spaCy/spacy/tests/regression/test_issue4674.py
+689741907,test_issue4903,flaky,Multi-Factor,0,0.17,10,spaCy/spacy/tests/regression/test_issue4903.py
+689741907,test_serialize_doc_exclude,flaky,Multi-Factor,0,0.12,12,spaCy/spacy/tests/serialize/test_serialize_doc.py
+689741907,test_pickle_vocab,flaky,Multi-Factor,0,0.33,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689741907,test_tokenizer_explain,flaky,Multi-Factor,0,0.12,6,spaCy/spacy/tests/tokenizer/test_explain.py
+689741907,test_vectors_similarity_TD,flaky,Multi-Factor,0,0.12,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689741907,test_vectors_similarity_TS,flaky,Multi-Factor,0,0.12,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689741907,test_stringstore_retrieve_id,flaky,Multi-Factor,0,0.12,5,spaCy/spacy/tests/vocab_vectors/test_stringstore.py
+689741907,test_vectors_most_similar,flaky,Multi-Factor,0,0.12,5,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689741907,test_vectors_span_span_similarity,flaky,Multi-Factor,0,0.12,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689741907,test_vectors_span_doc_similarity,flaky,Multi-Factor,0,0.12,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689741907,test_vocab_add_vector,flaky,Multi-Factor,0,0.12,12,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689730947,test_displacy_raises_for_wrong_type,flaky,Multi-Factor,0,0.14,2,spaCy/spacy/tests/test_displacy.py
+689730947,test_add_codes,flaky,Multi-Factor,0,0.14,4,spaCy/spacy/tests/test_errors.py
+689730947,test_gold_biluo_overlap,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/test_gold.py
+689730947,test_gold_biluo_misalign,flaky,Multi-Factor,0,0.14,7,spaCy/spacy/tests/test_gold.py
+689730947,test_iob_to_biluo,flaky,Multi-Factor,0,0.14,7,spaCy/spacy/tests/test_gold.py
+689730947,test_language_pipe,flaky,Multi-Factor,0,0.33,5,spaCy/spacy/tests/test_language.py
+689730947,test_add_overlapping_entities,flaky,Multi-Factor,0,0.14,7,spaCy/spacy/tests/doc/test_add_entities.py
+689730947,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.22,7,spaCy/spacy/tests/doc/test_doc_api.py
+689730947,test_doc_retokenize_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.14,12,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689730947,test_doc_retokenize_merge_extension_attrs_invalid,flaky,Multi-Factor,0,0.14,7,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689730947,test_doc_retokenize_split_heads_error,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689730947,test_doc_retokenize_split_orths_mismatch,flaky,Multi-Factor,0,0.14,10,spaCy/spacy/tests/doc/test_retokenize_split.py
+689730947,test_doc_retokenize_split_extension_attrs_invalid,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689730947,test_span_similarity_match,flaky,Multi-Factor,0,0.22,7,spaCy/spacy/tests/doc/test_span.py
+689730947,test_span_label_readonly,flaky,Multi-Factor,0,0.14,3,spaCy/spacy/tests/doc/test_span.py
+689730947,test_span_kb_id_readonly,flaky,Multi-Factor,0,0.14,3,spaCy/spacy/tests/doc/test_span.py
+689730947,test_doc_to_json_underscore_error_attr,flaky,Multi-Factor,0,0.14,4,spaCy/spacy/tests/doc/test_to_json.py
+689730947,test_doc_to_json_underscore_error_serialize,flaky,Multi-Factor,0,0.18,5,spaCy/spacy/tests/doc/test_to_json.py
+689730947,test_underscore_raises_for_dup,flaky,Multi-Factor,0,0.14,3,spaCy/spacy/tests/doc/test_underscore.py
+689730947,test_underscore_raises_for_invalid,flaky,Multi-Factor,0,0.14,3,spaCy/spacy/tests/doc/test_underscore.py
+689730947,test_lang_initialize,flaky,Multi-Factor,0,0.43,6,spaCy/spacy/tests/lang/test_initialize.py
+689730947,test_noun_chunks_is_parsed_de,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/lang/de/test_noun_chunks.py
+689730947,test_noun_chunks_is_parsed_el,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/lang/el/test_noun_chunks.py
+689730947,test_noun_chunks_is_parsed,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/lang/en/test_noun_chunks.py
+689730947,test_noun_chunks_is_parsed_es,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/lang/es/test_noun_chunks.py
+689730947,test_noun_chunks_is_parsed_fa,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/lang/fa/test_noun_chunks.py
+689730947,test_noun_chunks_is_parsed_fr,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/lang/fr/test_noun_chunks.py
+689730947,test_noun_chunks_is_parsed_id,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/lang/id/test_noun_chunks.py
+689730947,test_noun_chunks_is_parsed_nb,flaky,Multi-Factor,0,0.14,9,spaCy/spacy/tests/lang/nb/test_noun_chunks.py
+689730947,test_sv_noun_chunks,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/lang/sv/test_noun_chunks.py
+689730947,test_matcher_basic_check,flaky,Multi-Factor,0,0.14,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689730947,test_matcher_valid_callback,flaky,Multi-Factor,0,0.14,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689730947,test_minimal_pattern_validation,flaky,Multi-Factor,0,0.14,6,spaCy/spacy/tests/matcher/test_pattern_validation.py
+689730947,test_attr_validation,flaky,Multi-Factor,0,0.14,2,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689730947,test_phrase_matcher_basic_check,flaky,Multi-Factor,0,0.14,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689730947,test_analysis_validate_attrs_valid,flaky,Multi-Factor,0,0.14,6,spaCy/spacy/tests/pipeline/test_analysis.py
+689730947,test_analysis_validate_attrs_invalid,flaky,Multi-Factor,0,0.14,2,spaCy/spacy/tests/pipeline/test_analysis.py
+689730947,test_kb_invalid_entities,flaky,Multi-Factor,0,0.20,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689730947,test_kb_invalid_probabilities,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689730947,test_kb_invalid_combination,flaky,Multi-Factor,0,0.20,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689730947,test_kb_invalid_entity_vector,flaky,Multi-Factor,0,0.14,7,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689730947,test_append_invalid_alias,flaky,Multi-Factor,0,0.14,12,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689730947,test_entity_ruler_validate,flaky,Multi-Factor,0,0.14,12,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+689730947,test_add_pipe_duplicate_name,flaky,Multi-Factor,0,0.14,3,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689730947,test_cant_add_pipe_first_and_last,flaky,Multi-Factor,0,0.14,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689730947,test_get_pipe,flaky,Multi-Factor,0,0.14,4,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689730947,test_rename_pipe,flaky,Multi-Factor,0,0.14,5,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689730947,test_raise_for_invalid_components,flaky,Multi-Factor,0,0.14,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689730947,test_label_types,flaky,Multi-Factor,0,0.14,5,spaCy/spacy/tests/pipeline/test_tagger.py
+689730947,test_issue242,flaky,Multi-Factor,0,0.27,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+689730947,test_issue588,flaky,Multi-Factor,0,0.14,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+689730947,test_issue1915,flaky,Multi-Factor,0,0.21,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+689730947,test_issue2564,flaky,Multi-Factor,0,0.33,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689730947,test_issue2833,flaky,Multi-Factor,0,0.14,6,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689730947,test_issue3410,flaky,Multi-Factor,0,0.22,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689730947,test_issue3456,flaky,Multi-Factor,0,0.30,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689730947,test_issue4348,flaky,Multi-Factor,1,0.30,12,spaCy/spacy/tests/regression/test_issue4348.py
+689730947,test_issue4674,flaky,Multi-Factor,0,0.14,22,spaCy/spacy/tests/regression/test_issue4674.py
+689730947,test_issue4903,flaky,Multi-Factor,0,0.18,10,spaCy/spacy/tests/regression/test_issue4903.py
+689730947,test_serialize_doc_exclude,flaky,Multi-Factor,0,0.14,12,spaCy/spacy/tests/serialize/test_serialize_doc.py
+689730947,test_pickle_vocab,flaky,Multi-Factor,0,0.36,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689730947,test_tokenizer_explain,flaky,Multi-Factor,0,0.14,6,spaCy/spacy/tests/tokenizer/test_explain.py
+689730947,test_vectors_similarity_TD,flaky,Multi-Factor,0,0.14,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689730947,test_vectors_similarity_TS,flaky,Multi-Factor,0,0.14,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689730947,test_stringstore_retrieve_id,flaky,Multi-Factor,0,0.14,5,spaCy/spacy/tests/vocab_vectors/test_stringstore.py
+689730947,test_vectors_most_similar,flaky,Multi-Factor,0,0.14,5,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689730947,test_vectors_span_span_similarity,flaky,Multi-Factor,0,0.14,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689730947,test_vectors_span_doc_similarity,flaky,Multi-Factor,0,0.14,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689730947,test_vocab_add_vector,flaky,Multi-Factor,0,0.14,12,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689708416,test_displacy_raises_for_wrong_type,flaky,Multi-Factor,0,0.17,2,spaCy/spacy/tests/test_displacy.py
+689708416,test_add_codes,flaky,Multi-Factor,0,0.17,4,spaCy/spacy/tests/test_errors.py
+689708416,test_gold_biluo_overlap,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/test_gold.py
+689708416,test_gold_biluo_misalign,flaky,Multi-Factor,0,0.17,7,spaCy/spacy/tests/test_gold.py
+689708416,test_iob_to_biluo,flaky,Multi-Factor,0,0.17,7,spaCy/spacy/tests/test_gold.py
+689708416,test_language_pipe,flaky,Multi-Factor,0,0.36,5,spaCy/spacy/tests/test_language.py
+689708416,test_add_overlapping_entities,flaky,Multi-Factor,0,0.17,7,spaCy/spacy/tests/doc/test_add_entities.py
+689708416,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/doc/test_doc_api.py
+689708416,test_doc_retokenize_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.17,12,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689708416,test_doc_retokenize_merge_extension_attrs_invalid,flaky,Multi-Factor,0,0.17,7,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689708416,test_doc_retokenize_split_heads_error,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689708416,test_doc_retokenize_split_orths_mismatch,flaky,Multi-Factor,0,0.17,10,spaCy/spacy/tests/doc/test_retokenize_split.py
+689708416,test_doc_retokenize_split_extension_attrs_invalid,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689708416,test_span_similarity_match,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/doc/test_span.py
+689708416,test_span_label_readonly,flaky,Multi-Factor,0,0.17,3,spaCy/spacy/tests/doc/test_span.py
+689708416,test_span_kb_id_readonly,flaky,Multi-Factor,0,0.17,3,spaCy/spacy/tests/doc/test_span.py
+689708416,test_doc_to_json_underscore_error_attr,flaky,Multi-Factor,0,0.17,4,spaCy/spacy/tests/doc/test_to_json.py
+689708416,test_doc_to_json_underscore_error_serialize,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/doc/test_to_json.py
+689708416,test_underscore_raises_for_dup,flaky,Multi-Factor,0,0.17,3,spaCy/spacy/tests/doc/test_underscore.py
+689708416,test_underscore_raises_for_invalid,flaky,Multi-Factor,0,0.17,3,spaCy/spacy/tests/doc/test_underscore.py
+689708416,test_lang_initialize,flaky,Multi-Factor,0,0.45,6,spaCy/spacy/tests/lang/test_initialize.py
+689708416,test_noun_chunks_is_parsed_de,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/lang/de/test_noun_chunks.py
+689708416,test_noun_chunks_is_parsed_el,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/lang/el/test_noun_chunks.py
+689708416,test_noun_chunks_is_parsed,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/lang/en/test_noun_chunks.py
+689708416,test_noun_chunks_is_parsed_es,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/lang/es/test_noun_chunks.py
+689708416,test_noun_chunks_is_parsed_fa,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/lang/fa/test_noun_chunks.py
+689708416,test_noun_chunks_is_parsed_fr,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/lang/fr/test_noun_chunks.py
+689708416,test_noun_chunks_is_parsed_id,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/lang/id/test_noun_chunks.py
+689708416,test_noun_chunks_is_parsed_nb,flaky,Multi-Factor,0,0.17,9,spaCy/spacy/tests/lang/nb/test_noun_chunks.py
+689708416,test_matcher_basic_check,flaky,Multi-Factor,0,0.17,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689708416,test_matcher_valid_callback,flaky,Multi-Factor,0,0.17,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689708416,test_minimal_pattern_validation,flaky,Multi-Factor,0,0.17,6,spaCy/spacy/tests/matcher/test_pattern_validation.py
+689708416,test_attr_validation,flaky,Multi-Factor,0,0.17,2,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689708416,test_phrase_matcher_basic_check,flaky,Multi-Factor,0,0.17,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689708416,test_analysis_validate_attrs_valid,flaky,Multi-Factor,0,0.17,6,spaCy/spacy/tests/pipeline/test_analysis.py
+689708416,test_analysis_validate_attrs_invalid,flaky,Multi-Factor,0,0.17,2,spaCy/spacy/tests/pipeline/test_analysis.py
+689708416,test_kb_invalid_entities,flaky,Multi-Factor,0,0.22,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689708416,test_kb_invalid_probabilities,flaky,Multi-Factor,0,0.22,9,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689708416,test_kb_invalid_combination,flaky,Multi-Factor,0,0.22,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689708416,test_kb_invalid_entity_vector,flaky,Multi-Factor,0,0.17,7,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689708416,test_append_invalid_alias,flaky,Multi-Factor,0,0.17,12,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689708416,test_entity_ruler_validate,flaky,Multi-Factor,0,0.17,12,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+689708416,test_add_pipe_duplicate_name,flaky,Multi-Factor,0,0.17,3,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689708416,test_cant_add_pipe_first_and_last,flaky,Multi-Factor,0,0.17,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689708416,test_get_pipe,flaky,Multi-Factor,0,0.17,4,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689708416,test_rename_pipe,flaky,Multi-Factor,0,0.17,5,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689708416,test_raise_for_invalid_components,flaky,Multi-Factor,0,0.17,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689708416,test_label_types,flaky,Multi-Factor,0,0.17,5,spaCy/spacy/tests/pipeline/test_tagger.py
+689708416,test_issue242,flaky,Multi-Factor,0,0.30,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+689708416,test_issue588,flaky,Multi-Factor,0,0.17,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+689708416,test_issue1915,flaky,Multi-Factor,0,0.22,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+689708416,test_issue2564,flaky,Multi-Factor,0,0.36,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689708416,test_issue2833,flaky,Multi-Factor,0,0.17,6,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689708416,test_issue3410,flaky,Multi-Factor,0,0.25,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689708416,test_issue3456,flaky,Multi-Factor,0,0.33,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689708416,test_issue4348,flaky,Multi-Factor,1,0.33,12,spaCy/spacy/tests/regression/test_issue4348.py
+689708416,test_issue4674,flaky,Multi-Factor,0,0.17,22,spaCy/spacy/tests/regression/test_issue4674.py
+689708416,test_issue4903,flaky,Multi-Factor,0,0.20,10,spaCy/spacy/tests/regression/test_issue4903.py
+689708416,test_serialize_doc_exclude,flaky,Multi-Factor,0,0.17,12,spaCy/spacy/tests/serialize/test_serialize_doc.py
+689708416,test_pickle_vocab,flaky,Multi-Factor,0,0.40,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689708416,test_tokenizer_explain,flaky,Multi-Factor,0,0.17,6,spaCy/spacy/tests/tokenizer/test_explain.py
+689708416,test_vectors_similarity_TD,flaky,Multi-Factor,0,0.17,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689708416,test_vectors_similarity_TS,flaky,Multi-Factor,0,0.17,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689708416,test_stringstore_retrieve_id,flaky,Multi-Factor,0,0.17,5,spaCy/spacy/tests/vocab_vectors/test_stringstore.py
+689708416,test_vectors_most_similar,flaky,Multi-Factor,0,0.17,5,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689708416,test_vectors_span_span_similarity,flaky,Multi-Factor,0,0.17,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689708416,test_vectors_span_doc_similarity,flaky,Multi-Factor,0,0.17,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689708416,test_vocab_add_vector,flaky,Multi-Factor,0,0.17,12,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689700394,test_displacy_raises_for_wrong_type,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/test_displacy.py
+689700394,test_add_codes,flaky,Multi-Factor,0,0.20,4,spaCy/spacy/tests/test_errors.py
+689700394,test_gold_biluo_overlap,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/test_gold.py
+689700394,test_gold_biluo_misalign,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/test_gold.py
+689700394,test_iob_to_biluo,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/test_gold.py
+689700394,test_language_pipe,flaky,Multi-Factor,0,0.40,5,spaCy/spacy/tests/test_language.py
+689700394,test_add_overlapping_entities,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/doc/test_add_entities.py
+689700394,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.29,7,spaCy/spacy/tests/doc/test_doc_api.py
+689700394,test_doc_retokenize_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.20,12,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689700394,test_doc_retokenize_merge_extension_attrs_invalid,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689700394,test_doc_retokenize_split_heads_error,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689700394,test_doc_retokenize_split_orths_mismatch,flaky,Multi-Factor,0,0.20,10,spaCy/spacy/tests/doc/test_retokenize_split.py
+689700394,test_doc_retokenize_split_extension_attrs_invalid,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689700394,test_span_similarity_match,flaky,Multi-Factor,0,0.29,7,spaCy/spacy/tests/doc/test_span.py
+689700394,test_span_label_readonly,flaky,Multi-Factor,0,0.20,3,spaCy/spacy/tests/doc/test_span.py
+689700394,test_span_kb_id_readonly,flaky,Multi-Factor,0,0.20,3,spaCy/spacy/tests/doc/test_span.py
+689700394,test_doc_to_json_underscore_error_attr,flaky,Multi-Factor,0,0.20,4,spaCy/spacy/tests/doc/test_to_json.py
+689700394,test_doc_to_json_underscore_error_serialize,flaky,Multi-Factor,0,0.22,5,spaCy/spacy/tests/doc/test_to_json.py
+689700394,test_underscore_raises_for_dup,flaky,Multi-Factor,0,0.20,3,spaCy/spacy/tests/doc/test_underscore.py
+689700394,test_underscore_raises_for_invalid,flaky,Multi-Factor,0,0.20,3,spaCy/spacy/tests/doc/test_underscore.py
+689700394,test_lang_initialize,flaky,Multi-Factor,0,0.48,6,spaCy/spacy/tests/lang/test_initialize.py
+689700394,test_noun_chunks_is_parsed_de,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/lang/de/test_noun_chunks.py
+689700394,test_noun_chunks_is_parsed_el,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/lang/el/test_noun_chunks.py
+689700394,test_noun_chunks_is_parsed,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/lang/en/test_noun_chunks.py
+689700394,test_noun_chunks_is_parsed_es,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/lang/es/test_noun_chunks.py
+689700394,test_noun_chunks_is_parsed_fa,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/lang/fa/test_noun_chunks.py
+689700394,test_noun_chunks_is_parsed_fr,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/lang/fr/test_noun_chunks.py
+689700394,test_noun_chunks_is_parsed_id,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/lang/id/test_noun_chunks.py
+689700394,test_noun_chunks_is_parsed_nb,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/lang/nb/test_noun_chunks.py
+689700394,test_matcher_basic_check,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689700394,test_matcher_valid_callback,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689700394,test_minimal_pattern_validation,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/matcher/test_pattern_validation.py
+689700394,test_attr_validation,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689700394,test_phrase_matcher_basic_check,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689700394,test_analysis_validate_attrs_valid,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/pipeline/test_analysis.py
+689700394,test_analysis_validate_attrs_invalid,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/pipeline/test_analysis.py
+689700394,test_kb_invalid_entities,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689700394,test_kb_invalid_probabilities,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689700394,test_kb_invalid_combination,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689700394,test_kb_invalid_entity_vector,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689700394,test_append_invalid_alias,flaky,Multi-Factor,0,0.20,12,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689700394,test_entity_ruler_validate,flaky,Multi-Factor,0,0.20,12,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+689700394,test_add_pipe_duplicate_name,flaky,Multi-Factor,0,0.20,3,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689700394,test_cant_add_pipe_first_and_last,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689700394,test_get_pipe,flaky,Multi-Factor,0,0.20,4,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689700394,test_rename_pipe,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689700394,test_raise_for_invalid_components,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689700394,test_label_types,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/pipeline/test_tagger.py
+689700394,test_issue242,flaky,Multi-Factor,0,0.33,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+689700394,test_issue588,flaky,Multi-Factor,0,0.20,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+689700394,test_issue1915,flaky,Multi-Factor,0,0.24,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+689700394,test_issue2564,flaky,Multi-Factor,0,0.40,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689700394,test_issue2833,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689700394,test_issue3410,flaky,Multi-Factor,0,0.29,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689700394,test_issue3456,flaky,Multi-Factor,0,0.38,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689700394,test_issue4674,flaky,Multi-Factor,0,0.20,22,spaCy/spacy/tests/regression/test_issue4674.py
+689700394,test_issue4903,flaky,Multi-Factor,0,0.22,10,spaCy/spacy/tests/regression/test_issue4903.py
+689700394,test_serialize_doc_exclude,flaky,Multi-Factor,0,0.20,12,spaCy/spacy/tests/serialize/test_serialize_doc.py
+689700394,test_pickle_vocab,flaky,Multi-Factor,0,0.44,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689700394,test_tokenizer_explain,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/tokenizer/test_explain.py
+689700394,test_vectors_similarity_TD,flaky,Multi-Factor,0,0.20,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689700394,test_vectors_similarity_TS,flaky,Multi-Factor,0,0.20,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689700394,test_stringstore_retrieve_id,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/vocab_vectors/test_stringstore.py
+689700394,test_vectors_most_similar,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689700394,test_vectors_span_span_similarity,flaky,Multi-Factor,0,0.20,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689700394,test_vectors_span_doc_similarity,flaky,Multi-Factor,0,0.20,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689700394,test_vocab_add_vector,flaky,Multi-Factor,0,0.20,12,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689693109,test_displacy_raises_for_wrong_type,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/test_displacy.py
+689693109,test_add_codes,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/test_errors.py
+689693109,test_gold_biluo_overlap,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/test_gold.py
+689693109,test_gold_biluo_misalign,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/test_gold.py
+689693109,test_iob_to_biluo,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/test_gold.py
+689693109,test_language_pipe,flaky,Multi-Factor,0,0.44,5,spaCy/spacy/tests/test_language.py
+689693109,test_add_overlapping_entities,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/doc/test_add_entities.py
+689693109,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.33,7,spaCy/spacy/tests/doc/test_doc_api.py
+689693109,test_doc_retokenize_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.25,12,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689693109,test_doc_retokenize_merge_extension_attrs_invalid,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/doc/test_retokenize_merge.py
+689693109,test_doc_retokenize_split_heads_error,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689693109,test_doc_retokenize_split_orths_mismatch,flaky,Multi-Factor,0,0.25,10,spaCy/spacy/tests/doc/test_retokenize_split.py
+689693109,test_doc_retokenize_split_extension_attrs_invalid,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/doc/test_retokenize_split.py
+689693109,test_span_similarity_match,flaky,Multi-Factor,0,0.33,7,spaCy/spacy/tests/doc/test_span.py
+689693109,test_span_label_readonly,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/doc/test_span.py
+689693109,test_span_kb_id_readonly,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/doc/test_span.py
+689693109,test_doc_to_json_underscore_error_attr,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/doc/test_to_json.py
+689693109,test_doc_to_json_underscore_error_serialize,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/doc/test_to_json.py
+689693109,test_underscore_raises_for_dup,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/doc/test_underscore.py
+689693109,test_underscore_raises_for_invalid,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/doc/test_underscore.py
+689693109,test_lang_initialize,flaky,Multi-Factor,0,0.50,6,spaCy/spacy/tests/lang/test_initialize.py
+689693109,test_noun_chunks_is_parsed_de,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/lang/de/test_noun_chunks.py
+689693109,test_noun_chunks_is_parsed_el,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/lang/el/test_noun_chunks.py
+689693109,test_noun_chunks_is_parsed,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/lang/en/test_noun_chunks.py
+689693109,test_noun_chunks_is_parsed_es,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/lang/es/test_noun_chunks.py
+689693109,test_noun_chunks_is_parsed_fa,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/lang/fa/test_noun_chunks.py
+689693109,test_noun_chunks_is_parsed_fr,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/lang/fr/test_noun_chunks.py
+689693109,test_noun_chunks_is_parsed_id,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/lang/id/test_noun_chunks.py
+689693109,test_noun_chunks_is_parsed_nb,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/lang/nb/test_noun_chunks.py
+689693109,test_matcher_basic_check,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689693109,test_matcher_valid_callback,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/matcher/test_matcher_api.py
+689693109,test_minimal_pattern_validation,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/matcher/test_pattern_validation.py
+689693109,test_attr_validation,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689693109,test_phrase_matcher_basic_check,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+689693109,test_analysis_validate_attrs_valid,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/pipeline/test_analysis.py
+689693109,test_analysis_validate_attrs_invalid,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/pipeline/test_analysis.py
+689693109,test_kb_invalid_entities,flaky,Multi-Factor,0,0.29,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689693109,test_kb_invalid_probabilities,flaky,Multi-Factor,0,0.29,9,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689693109,test_kb_invalid_combination,flaky,Multi-Factor,0,0.29,11,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689693109,test_kb_invalid_entity_vector,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689693109,test_append_invalid_alias,flaky,Multi-Factor,0,0.25,12,spaCy/spacy/tests/pipeline/test_entity_linker.py
+689693109,test_entity_ruler_validate,flaky,Multi-Factor,0,0.25,12,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+689693109,test_add_pipe_duplicate_name,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689693109,test_cant_add_pipe_first_and_last,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689693109,test_get_pipe,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689693109,test_rename_pipe,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689693109,test_raise_for_invalid_components,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/pipeline/test_pipe_methods.py
+689693109,test_label_types,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/pipeline/test_tagger.py
+689693109,test_issue242,flaky,Multi-Factor,0,0.38,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+689693109,test_issue588,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+689693109,test_issue1915,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+689693109,test_issue2564,flaky,Multi-Factor,0,0.44,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689693109,test_issue2833,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/regression/test_issue2501-3000.py
+689693109,test_issue3410,flaky,Multi-Factor,0,0.33,12,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689693109,test_issue3456,flaky,Multi-Factor,0,0.43,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+689693109,test_issue4348,flaky,Multi-Factor,1,0.43,12,spaCy/spacy/tests/regression/test_issue4348.py
+689693109,test_issue4674,flaky,Multi-Factor,0,0.25,22,spaCy/spacy/tests/regression/test_issue4674.py
+689693109,test_issue4903,flaky,Multi-Factor,0,0.25,10,spaCy/spacy/tests/regression/test_issue4903.py
+689693109,test_serialize_doc_exclude,flaky,Multi-Factor,0,0.25,12,spaCy/spacy/tests/serialize/test_serialize_doc.py
+689693109,test_pickle_vocab,flaky,Multi-Factor,0,0.50,5,spaCy/spacy/tests/serialize/test_serialize_vocab_strings.py
+689693109,test_tokenizer_explain,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/tokenizer/test_explain.py
+689693109,test_vectors_similarity_TD,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689693109,test_vectors_similarity_TS,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/vocab_vectors/test_similarity.py
+689693109,test_stringstore_retrieve_id,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/vocab_vectors/test_stringstore.py
+689693109,test_vectors_most_similar,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689693109,test_vectors_span_span_similarity,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689693109,test_vectors_span_doc_similarity,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+689693109,test_vocab_add_vector,flaky,Multi-Factor,0,0.25,12,spaCy/spacy/tests/vocab_vectors/test_vectors.py
+628155414,test_evaluate_no_pipe,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/test_language.py
+605499678,test_tok2vec_batch_sizes,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/test_tok2vec.py
+605499678,test_tok2vec_configs,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/test_tok2vec.py
+603638220,test_align,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/test_gold.py
+602333332,test_component_decorator_function,flaky,Multi-Factor,0,0.25,8,spaCy/spacy/tests/pipeline/test_analysis.py
+594548161,test_empty_doc,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/doc/test_creation.py
+594548161,test_lookup_lemmatization,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/doc/test_creation.py
+594548161,test_doc_api_has_vector,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/doc/test_doc_api.py
+594548161,test_doc_api_similarity_match,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/doc/test_doc_api.py
+594548161,test_pickle_single_doc,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548161,test_list_of_docs_pickles_efficiently,flaky,Multi-Factor,1,0.20,11,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548161,test_user_data_from_disk,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548161,test_user_data_unpickles,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548161,test_hooks_unpickle,flaky,Multi-Factor,0,0.20,8,spaCy/spacy/tests/doc/test_pickle_doc.py
+594548161,test_span_similarity_match,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/doc/test_span.py
+594548161,test_set_pos,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/doc/test_token_api.py
+594548161,test_lang_initialize,flaky,Multi-Factor,0,0.47,6,spaCy/spacy/tests/lang/test_initialize.py
+594548161,test_issue768,flaky,Multi-Factor,0,0.20,9,spaCy/spacy/tests/lang/fr/test_prefix_suffix_infix.py
+594548161,test_beam_parse,flaky,Multi-Factor,0,0.31,6,spaCy/spacy/tests/parser/test_nn_beam.py
+594548161,test_issue600,flaky,Multi-Factor,0,0.20,3,spaCy/spacy/tests/regression/test_issue1-1000.py
+594548161,test_issue743,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/regression/test_issue1-1000.py
+594548161,test_issue850_basic,flaky,Multi-Factor,0,0.29,11,spaCy/spacy/tests/regression/test_issue1-1000.py
+594548161,test_issue1242,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548161,test_issue1250,flaky,Multi-Factor,0,0.20,8,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548161,test_issue1257,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548161,test_issue1375,flaky,Multi-Factor,0,0.20,8,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548161,test_issue1387,flaky,Multi-Factor,0,0.22,11,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548161,test_issue1434,flaky,Multi-Factor,0,0.29,11,spaCy/spacy/tests/regression/test_issue1001-1500.py
+594548161,test_issue1506,flaky,Multi-Factor,1,0.20,19,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548161,test_issue1547,flaky,Multi-Factor,0,0.38,7,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548161,test_issue1883,flaky,Multi-Factor,0,0.29,7,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548161,test_issue1915,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548161,test_issue1945,flaky,Multi-Factor,0,0.29,8,spaCy/spacy/tests/regression/test_issue1501-2000.py
+594548161,test_issue2179,flaky,Multi-Factor,0,0.19,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+594548161,test_issue2482,flaky,Multi-Factor,0,0.33,5,spaCy/spacy/tests/regression/test_issue2001-2500.py
+594548161,test_issue2564,flaky,Multi-Factor,0,0.29,11,spaCy/spacy/tests/regression/test_issue2501-3000.py
+594548161,test_issue2782,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/regression/test_issue2501-3000.py
+594548161,test_issue2901,flaky,Multi-Factor,0,0.33,7,spaCy/spacy/tests/regression/test_issue2501-3000.py
+594548161,test_issue3002,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548161,test_issue3199,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548161,test_issue3248_1,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548161,test_issue3248_2,flaky,Multi-Factor,0,0.33,8,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548161,test_issue3289,flaky,Multi-Factor,0,0.27,8,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548161,test_issue3456,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/regression/test_issue3001-3500.py
+594548161,test_issue3625,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/regression/test_issue3625.py
+594548161,test_issue3803,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/regression/test_issue3803.py
+594548161,test_issue3869,flaky,Multi-Factor,0,0.20,7,spaCy/spacy/tests/regression/test_issue3869.py
+594548161,test_issue4272,flaky,Multi-Factor,0,0.20,5,spaCy/spacy/tests/regression/test_issue4272.py
+594548161,test_serialize_language_meta_disk,flaky,Multi-Factor,0,0.38,5,spaCy/spacy/tests/serialize/test_serialize_language.py
+594548161,test_tokenizer_add_special_case_tag,flaky,Multi-Factor,0,0.20,8,spaCy/spacy/tests/tokenizer/test_tokenizer.py
+586774467,test_doc_add_entities_set_ents_iob,flaky,Multi-Factor,0,0.19,10,spaCy/spacy/tests/parser/test_ner.py
+586758543,test_doc_add_entities_set_ents_iob,flaky,Multi-Factor,0,0.20,10,spaCy/spacy/tests/parser/test_ner.py
+586718063,test_doc_add_entities_set_ents_iob,flaky,Multi-Factor,0,0.21,10,spaCy/spacy/tests/parser/test_ner.py
+584947763,test_issue2179,flaky,Multi-Factor,0,0.17,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+584947763,test_issue2482,flaky,Multi-Factor,0,0.33,5,spaCy/spacy/tests/regression/test_issue2001-2500.py
+584947763,test_serialize_parser_roundtrip_disk,flaky,Multi-Factor,0,0.36,11,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+584947763,test_serialize_tagger_roundtrip_disk,flaky,Multi-Factor,0,0.30,9,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+584947763,test_serialize_tensorizer_roundtrip_disk,flaky,Multi-Factor,0,0.30,9,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+584947763,test_serialize_custom_tokenizer,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/serialize/test_serialize_tokenizer.py
+584945983,test_lt_lemmatizer,flaky,Multi-Factor,0,0.25,1,spaCy/spacy/tests/lang/lt/test_lemmatizer.py
+584945983,test_nl_lemmatizer_noun_lemmas_irreg,flaky,Multi-Factor,0,0.29,3,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+584945983,test_nl_lemmatizer_verb_lemmas_irreg,flaky,Multi-Factor,0,0.29,3,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+584945983,test_nl_lemmatizer_lookup_noun,flaky,Multi-Factor,0,0.17,2,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+584945983,test_nl_lemmatizer_lookup_verb,flaky,Multi-Factor,0,0.17,2,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+584945983,test_issue2179,flaky,Multi-Factor,0,0.17,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+584945983,test_issue2482,flaky,Multi-Factor,0,0.38,5,spaCy/spacy/tests/regression/test_issue2001-2500.py
+584945983,test_issue3289,flaky,Multi-Factor,0,0.29,8,spaCy/spacy/tests/regression/test_issue3001-3500.py
+584945983,test_issue4133,flaky,Multi-Factor,0,0.29,17,spaCy/spacy/tests/regression/test_issue4133.py
+584945983,test_issue4190,flaky,Multi-Factor,0,0.17,17,spaCy/spacy/tests/regression/test_issue4190.py
+584945983,test_serialize_parser_roundtrip_disk,flaky,Multi-Factor,0,0.40,11,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+584945983,test_serialize_tagger_roundtrip_disk,flaky,Multi-Factor,0,0.33,9,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+584945983,test_serialize_tensorizer_roundtrip_disk,flaky,Multi-Factor,0,0.33,9,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+584945983,test_serialize_custom_tokenizer,flaky,Multi-Factor,0,0.29,5,spaCy/spacy/tests/serialize/test_serialize_tokenizer.py
+584942770,test_lt_lemmatizer,flaky,Multi-Factor,0,0.33,1,spaCy/spacy/tests/lang/lt/test_lemmatizer.py
+584942770,test_nl_lemmatizer_noun_lemmas_irreg,flaky,Multi-Factor,0,0.40,3,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+584942770,test_nl_lemmatizer_verb_lemmas_irreg,flaky,Multi-Factor,0,0.40,3,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+584942770,test_nl_lemmatizer_lookup_noun,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+584942770,test_nl_lemmatizer_lookup_verb,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+584942770,test_issue2179,flaky,Multi-Factor,0,0.19,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+584942770,test_issue2482,flaky,Multi-Factor,0,0.50,5,spaCy/spacy/tests/regression/test_issue2001-2500.py
+584942770,test_issue3289,flaky,Multi-Factor,0,0.40,8,spaCy/spacy/tests/regression/test_issue3001-3500.py
+584942770,test_issue4133,flaky,Multi-Factor,0,0.40,17,spaCy/spacy/tests/regression/test_issue4133.py
+584942770,test_issue4190,flaky,Multi-Factor,0,0.25,17,spaCy/spacy/tests/regression/test_issue4190.py
+584942770,test_serialize_parser_roundtrip_disk,flaky,Multi-Factor,0,0.50,11,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+584942770,test_serialize_tagger_roundtrip_disk,flaky,Multi-Factor,0,0.43,9,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+584942770,test_serialize_tensorizer_roundtrip_disk,flaky,Multi-Factor,0,0.43,9,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+584942770,test_serialize_custom_tokenizer,flaky,Multi-Factor,0,0.40,5,spaCy/spacy/tests/serialize/test_serialize_tokenizer.py
+574910059,test_da_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/lang/da/test_lemma.py
+574910059,test_de_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/lang/de/test_lemma.py
+574910059,test_fr_lemmatizer_verb,flaky,Multi-Factor,0,0.20,4,spaCy/spacy/tests/lang/fr/test_lemmatization.py
+574910059,test_fr_lemmatizer_noun_verb_2,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/lang/fr/test_lemmatization.py
+574910059,test_fr_lemmatizer_noun_2,flaky,Multi-Factor,0,0.20,3,spaCy/spacy/tests/lang/fr/test_lemmatization.py
+574910059,test_lt_lemmatizer,flaky,Multi-Factor,0,0.20,1,spaCy/spacy/tests/lang/lt/test_lemmatizer.py
+574910059,test_nl_lemmatizer_noun_lemmas_irreg,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+574910059,test_nl_lemmatizer_verb_lemmas_irreg,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/lang/nl/test_lemmatizer.py
+574910059,test_ro_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/lang/ro/test_lemmatizer.py
+574910059,test_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.43,2,spaCy/spacy/tests/lang/sv/test_lemmatizer.py
+574910059,test_tr_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.20,2,spaCy/spacy/tests/lang/tr/test_lemmatization.py
+574888138,test_lang_initialize,flaky,Multi-Factor,0,0.40,6,spaCy/spacy/tests/lang/test_initialize.py
+574888138,test_da_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/lang/da/test_lemma.py
+574888138,test_de_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/lang/de/test_lemma.py
+574888138,test_fr_lemmatizer_verb,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/lang/fr/test_lemmatization.py
+574888138,test_fr_lemmatizer_noun_verb_2,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/lang/fr/test_lemmatization.py
+574888138,test_fr_lemmatizer_noun_2,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/lang/fr/test_lemmatization.py
+574888138,test_lt_lemmatizer,flaky,Multi-Factor,0,0.25,1,spaCy/spacy/tests/lang/lt/test_lemmatizer.py
+574888138,test_ro_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/lang/ro/test_lemmatizer.py
+574888138,test_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.50,2,spaCy/spacy/tests/lang/sv/test_lemmatizer.py
+574888138,test_tr_lemmatizer_lookup_assigns,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/lang/tr/test_lemmatization.py
+557914173,test_vocab_api_symbols,flaky,Multi-Factor,0,0.20,1,spaCy/spacy/tests/vocab_vectors/test_vocab_api.py
+509420639,test_issue3009,flaky,Multi-Factor,0,0.38,4,spaCy/spacy/tests/regression/test_issue3009.py
+504737420,test_token_api_conjuncts_chain,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/doc/test_token_api.py
+504737420,test_token_api_conjuncts_simple,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/doc/test_token_api.py
+504737420,test_token_api_non_conjuncts,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/doc/test_token_api.py
+504375730,test_issue1915,flaky,Multi-Factor,0,0.15,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+504375730,test_issue2179,flaky,Multi-Factor,0,0.11,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+504374922,test_issue1915,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+504374922,test_issue2179,flaky,Multi-Factor,0,0.12,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+504372903,test_issue1915,flaky,Multi-Factor,0,0.22,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+504372903,test_issue2179,flaky,Multi-Factor,0,0.13,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+504369522,test_issue1915,flaky,Multi-Factor,0,0.33,6,spaCy/spacy/tests/regression/test_issue1501-2000.py
+504369522,test_issue2179,flaky,Multi-Factor,0,0.17,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+504329613,test_doc_array_to_from_string_attrs,flaky,Multi-Factor,0,0.14,6,spaCy/spacy/tests/doc/test_array.py
+504328678,test_doc_array_to_from_string_attrs,flaky,Multi-Factor,0,0.17,6,spaCy/spacy/tests/doc/test_array.py
+504318120,test_doc_array_to_from_string_attrs,flaky,Multi-Factor,0,0.20,6,spaCy/spacy/tests/doc/test_array.py
+503042442,test_displacy_parse_ents,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/test_misc.py
+503042442,test_displacy_spans,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/test_misc.py
+503042442,test_displacy_render_wrapper,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/test_misc.py
+503042442,test_doc_api_set_ents,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/doc/test_doc_api.py
+503042442,test_doc_retokenize_retokenizer_attrs,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/doc/test_retokenize_merge.py
+503042442,test_spans_by_character,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/doc/test_span.py
+503042442,test_matcher_phrase_matcher,flaky,Multi-Factor,0,0.33,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+503042442,test_phrase_matcher_string_attrs_negative,flaky,Multi-Factor,0,0.33,11,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+503042442,test_get_oracle_moves,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/parser/test_ner.py
+503042442,test_get_oracle_moves_negative_entities,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/parser/test_ner.py
+503042442,test_get_oracle_moves_negative_entities2,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/parser/test_ner.py
+503042442,test_get_oracle_moves_negative_O,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/parser/test_ner.py
+503042442,test_beam_parse,flaky,Multi-Factor,0,0.30,6,spaCy/spacy/tests/parser/test_nn_beam.py
+503042442,test_entity_ruler_init,flaky,Multi-Factor,0,0.33,10,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+503042442,test_entity_ruler_existing,flaky,Multi-Factor,0,0.33,7,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+503042442,test_entity_ruler_existing_complex,flaky,Multi-Factor,0,0.33,9,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+503042442,test_issue1547,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/regression/test_issue1501-2000.py
+503042442,test_issue2569,flaky,Multi-Factor,0,0.33,10,spaCy/spacy/tests/regression/test_issue2501-3000.py
+503042442,test_vocab_lexeme_lt,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/vocab_vectors/test_lexeme.py
+502856142,test_issue3009,flaky,Multi-Factor,0,0.33,4,spaCy/spacy/tests/regression/test_issue3009.py
+496090478,test_matcher_regex,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/matcher/test_matcher_api.py
+496090478,test_matcher_regex_shape,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/matcher/test_matcher_api.py
+493324551,test_issue2179,flaky,Multi-Factor,0,0.10,11,spaCy/spacy/tests/regression/test_issue2001-2500.py
+482010495,test_matcher_no_match,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_match_start,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_match_end,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_match_middle,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_match_multi,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_empty_dict,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_operator_shadow,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_match_zero,flaky,Multi-Factor,0,0.25,22,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_match_zero_plus,flaky,Multi-Factor,0,0.25,6,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_match_one_plus,flaky,Multi-Factor,0,0.25,12,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_any_token_operator,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_extension_attribute,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_dependency_tree_matcher,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/matcher/test_matcher_api.py
+482010495,test_matcher_end_zero_plus,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/matcher/test_matcher_logic.py
+482010495,test_matcher_phrase_matcher,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+482010495,test_phrase_matcher_string_attrs_negative,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/matcher/test_phrase_matcher.py
+482010495,test_entity_ruler_init,flaky,Multi-Factor,0,0.25,10,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+482010495,test_entity_ruler_existing,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+482010495,test_entity_ruler_existing_complex,flaky,Multi-Factor,0,0.25,9,spaCy/spacy/tests/pipeline/test_entity_ruler.py
+482010495,test_issue242,flaky,Multi-Factor,0,0.33,19,spaCy/spacy/tests/regression/test_issue1-1000.py
+482010495,test_issue590,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/regression/test_issue1-1000.py
+482010495,test_issue615,flaky,Multi-Factor,0,0.25,22,spaCy/spacy/tests/regression/test_issue1-1000.py
+482010495,test_issue850,flaky,Multi-Factor,0,0.25,12,spaCy/spacy/tests/regression/test_issue1-1000.py
+482010495,test_issue850_basic,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/regression/test_issue1-1000.py
+482010495,test_issue1434,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/regression/test_issue1001-1500.py
+482010495,test_issue1450,flaky,Multi-Factor,0,0.25,10,spaCy/spacy/tests/regression/test_issue1001-1500.py
+482010495,test_issue1883,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/regression/test_issue1501-2000.py
+482010495,test_issue3009,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/regression/test_issue3009.py
+482010495,test_issue2464,flaky,Multi-Factor,0,0.33,5,spaCy/spacy/tests/regression/test_issue3009.py
+473323854,test_issue2464,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/regression/test_issue3009.py
+470486004,test_doc_add_entities_set_ents_iob,flaky,Multi-Factor,0,0.18,11,spaCy/spacy/tests/doc/test_add_entities.py
+470486004,test_predict_doc,flaky,Multi-Factor,0,0.14,3,spaCy/spacy/tests/parser/test_neural_parser.py
+470486004,test_update_doc,flaky,Multi-Factor,0,0.14,4,spaCy/spacy/tests/parser/test_neural_parser.py
+470486004,test_beam_parse,flaky,Multi-Factor,0,0.22,6,spaCy/spacy/tests/parser/test_nn_beam.py
+470483245,test_doc_add_entities_set_ents_iob,flaky,Multi-Factor,0,0.25,11,spaCy/spacy/tests/doc/test_add_entities.py
+470483245,test_predict_doc,flaky,Multi-Factor,0,0.25,3,spaCy/spacy/tests/parser/test_neural_parser.py
+470483245,test_beam_parse,flaky,Multi-Factor,0,0.33,6,spaCy/spacy/tests/parser/test_nn_beam.py
+462355761,test_issue2482,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/regression/test_issue2001-2500.py
+462355761,test_serialize_parser_roundtrip_bytes,flaky,Multi-Factor,0,0.33,6,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+462355761,test_serialize_parser_roundtrip_disk,flaky,Multi-Factor,0,0.33,9,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+462355761,test_to_from_bytes,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/serialize/test_serialize_pipeline.py
+461278171,test_require_gpu,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/test_misc.py
+461278171,test_spans_merge_non_disjoint,flaky,Multi-Factor,0,0.25,7,spaCy/spacy/tests/doc/test_span_merge.py
+461278171,test_build_model,flaky,Multi-Factor,0,0.25,2,spaCy/spacy/tests/parser/test_neural_parser.py
+461278171,test_train_with_many_entity_types,flaky,Multi-Factor,0,0.25,4,spaCy/spacy/tests/regression/test_issue2800.py
+461278171,test_serialize_language_meta_disk,flaky,Multi-Factor,0,0.25,5,spaCy/spacy/tests/serialize/test_serialize_language.py

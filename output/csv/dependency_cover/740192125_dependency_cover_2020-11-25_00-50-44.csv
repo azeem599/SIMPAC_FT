@@ -1,0 +1,2 @@
+Failed Test Case,Coverage status,Build ID,Build Finished Time,Path
+test_da_noun_chunks,T,740192125,2020-10-30 14:24:44,spaCy/spacy/tests/lang/da/test_noun_chunks.py
